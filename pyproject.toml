@@ -1,3 +1,13 @@
 
+[project]
+name = "renewable-energy-intelligence"
+version = "1.0.0"
+requires-python = ">=3.12,<3.13"
+dependencies = [
+    "fastapi",
+    "uvicorn[standard]",
+    "pandas"
+]
+
 [tool.vercel]
 entrypoint = "backend.main:app"
