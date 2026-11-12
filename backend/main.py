@@ -2,7 +2,7 @@
 from pathlib import Path
 from functools import lru_cache
 import math
-
+from fastapi.staticfiles import StaticFiles
 import numpy as np
 import pandas as pd
 from fastapi import FastAPI, HTTPException, Query
@@ -980,3 +980,10 @@ def emissions_comparison(
         "emissions_comparison",
         state=state
     )
+FRONTEND_DIR = PROJECT_ROOT / "frontend"
+
+app.mount(
+    "/",
+    StaticFiles(directory=FRONTEND_DIR, html=True),
+    name="frontend"
+)

@@ -11,7 +11,11 @@
    1. CONFIGURATION
 ========================================================= */
 
-const API_BASE = "http://127.0.0.1:8000/api";
+const API_BASE =
+    window.location.hostname === "localhost" ||
+    window.location.hostname === "127.0.0.1"
+        ? "http://127.0.0.1:8000/api"
+        : "/api";
 
 const GEOJSON_PATH = "data/india_states.geojson";
 
