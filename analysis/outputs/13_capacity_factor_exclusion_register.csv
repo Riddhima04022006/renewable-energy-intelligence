@@ -1,0 +1,90 @@
+State,Month,Source,Generation_GWh,Capacity_MW,Original_Capacity_Factor_Pct,Exclusion_Reason
+Sikkim,2022-04,Solar,10.35,4.69,306.503198294243,Capacity factor above 100%
+Kerala,2022-11,Wind,56.04,62.5,124.53333333333336,Capacity factor above 100%
+Kerala,2023-08,Wind,97.57,62.5,209.8279569892473,Capacity factor above 100%
+Sikkim,2021-08,Hydro,1768.1,2334.11,101.8151884282941,Capacity factor above 100%
+Sikkim,2023-07,Hydro,1784.0,2337.11,102.59891328887348,Capacity factor above 100%
+Sikkim,2023-08,Hydro,1795.38,2337.11,103.2533839353014,Capacity factor above 100%
+Dadra and Nagar Haveli and Daman and Diu,2021-07,Bioenergy,1.11,0.0,,Zero reported capacity with positive generation
+Dadra and Nagar Haveli and Daman and Diu,2021-08,Bioenergy,0.92,0.0,,Zero reported capacity with positive generation
+Dadra and Nagar Haveli and Daman and Diu,2021-09,Bioenergy,1.05,0.0,,Zero reported capacity with positive generation
+Dadra and Nagar Haveli and Daman and Diu,2021-10,Bioenergy,1.08,0.0,,Zero reported capacity with positive generation
+Dadra and Nagar Haveli and Daman and Diu,2021-11,Bioenergy,1.07,0.0,,Zero reported capacity with positive generation
+Dadra and Nagar Haveli and Daman and Diu,2021-12,Bioenergy,1.02,0.0,,Zero reported capacity with positive generation
+Dadra and Nagar Haveli and Daman and Diu,2022-01,Bioenergy,1.16,0.0,,Zero reported capacity with positive generation
+Dadra and Nagar Haveli and Daman and Diu,2022-02,Bioenergy,1.07,0.0,,Zero reported capacity with positive generation
+Dadra and Nagar Haveli and Daman and Diu,2022-03,Bioenergy,1.18,0.0,,Zero reported capacity with positive generation
+Dadra and Nagar Haveli and Daman and Diu,2022-04,Bioenergy,1.62,0.0,,Zero reported capacity with positive generation
+Dadra and Nagar Haveli and Daman and Diu,2022-05,Bioenergy,0.81,0.0,,Zero reported capacity with positive generation
+Dadra and Nagar Haveli and Daman and Diu,2022-06,Bioenergy,0.81,0.0,,Zero reported capacity with positive generation
+Dadra and Nagar Haveli and Daman and Diu,2023-04,Bioenergy,0.8,0.0,,Zero reported capacity with positive generation
+Dadra and Nagar Haveli and Daman and Diu,2023-05,Bioenergy,1.06,0.0,,Zero reported capacity with positive generation
+Dadra and Nagar Haveli and Daman and Diu,2023-06,Bioenergy,1.03,0.0,,Zero reported capacity with positive generation
+Dadra and Nagar Haveli and Daman and Diu,2023-07,Bioenergy,1.16,0.0,,Zero reported capacity with positive generation
+Dadra and Nagar Haveli and Daman and Diu,2023-08,Bioenergy,1.14,0.0,,Zero reported capacity with positive generation
+Dadra and Nagar Haveli and Daman and Diu,2023-09,Bioenergy,1.12,0.0,,Zero reported capacity with positive generation
+Dadra and Nagar Haveli and Daman and Diu,2023-10,Bioenergy,1.15,0.0,,Zero reported capacity with positive generation
+Dadra and Nagar Haveli and Daman and Diu,2023-11,Bioenergy,1.06,0.0,,Zero reported capacity with positive generation
+Dadra and Nagar Haveli and Daman and Diu,2023-12,Bioenergy,1.18,0.0,,Zero reported capacity with positive generation
+Dadra and Nagar Haveli and Daman and Diu,2024-01,Bioenergy,1.04,0.0,,Zero reported capacity with positive generation
+Dadra and Nagar Haveli and Daman and Diu,2024-02,Bioenergy,1.14,0.0,,Zero reported capacity with positive generation
+Dadra and Nagar Haveli and Daman and Diu,2024-03,Bioenergy,1.22,0.0,,Zero reported capacity with positive generation
+Dadra and Nagar Haveli and Daman and Diu,2024-04,Bioenergy,0.89,0.0,,Zero reported capacity with positive generation
+Dadra and Nagar Haveli and Daman and Diu,2024-05,Bioenergy,1.05,0.0,,Zero reported capacity with positive generation
+Dadra and Nagar Haveli and Daman and Diu,2024-06,Bioenergy,1.04,0.0,,Zero reported capacity with positive generation
+Dadra and Nagar Haveli and Daman and Diu,2024-07,Bioenergy,0.66,0.0,,Zero reported capacity with positive generation
+Dadra and Nagar Haveli and Daman and Diu,2024-08,Bioenergy,1.17,0.0,,Zero reported capacity with positive generation
+Dadra and Nagar Haveli and Daman and Diu,2024-09,Bioenergy,1.13,0.0,,Zero reported capacity with positive generation
+Kerala,2021-07,Bioenergy,4.23,2.5,227.4193548387097,Capacity factor above 100%; Entire Kerala Bioenergy series excluded from state comparisons
+Kerala,2021-08,Bioenergy,4.3,2.5,231.18279569892476,Capacity factor above 100%; Entire Kerala Bioenergy series excluded from state comparisons
+Kerala,2021-09,Bioenergy,3.96,2.5,220.00000000000003,Capacity factor above 100%; Entire Kerala Bioenergy series excluded from state comparisons
+Kerala,2021-10,Bioenergy,4.13,2.5,222.04301075268816,Capacity factor above 100%; Entire Kerala Bioenergy series excluded from state comparisons
+Kerala,2021-11,Bioenergy,4.13,2.5,229.44444444444443,Capacity factor above 100%; Entire Kerala Bioenergy series excluded from state comparisons
+Kerala,2021-12,Bioenergy,4.28,2.5,230.10752688172045,Capacity factor above 100%; Entire Kerala Bioenergy series excluded from state comparisons
+Kerala,2022-01,Bioenergy,4.33,2.5,232.7956989247312,Capacity factor above 100%; Entire Kerala Bioenergy series excluded from state comparisons
+Kerala,2022-02,Bioenergy,3.65,2.5,217.2619047619048,Capacity factor above 100%; Entire Kerala Bioenergy series excluded from state comparisons
+Kerala,2022-03,Bioenergy,4.29,2.5,230.6451612903226,Capacity factor above 100%; Entire Kerala Bioenergy series excluded from state comparisons
+Kerala,2022-04,Bioenergy,2.43,2.5,135.0,Capacity factor above 100%; Entire Kerala Bioenergy series excluded from state comparisons
+Kerala,2022-05,Bioenergy,3.91,2.5,210.2150537634409,Capacity factor above 100%; Entire Kerala Bioenergy series excluded from state comparisons
+Kerala,2022-06,Bioenergy,6.99,2.5,388.3333333333333,Capacity factor above 100%; Entire Kerala Bioenergy series excluded from state comparisons
+Kerala,2022-07,Bioenergy,10.25,2.5,551.0752688172043,Capacity factor above 100%; Entire Kerala Bioenergy series excluded from state comparisons
+Kerala,2022-08,Bioenergy,3.32,2.5,178.49462365591398,Capacity factor above 100%; Entire Kerala Bioenergy series excluded from state comparisons
+Kerala,2022-09,Bioenergy,4.29,2.5,238.33333333333331,Capacity factor above 100%; Entire Kerala Bioenergy series excluded from state comparisons
+Kerala,2022-10,Bioenergy,3.49,2.5,187.63440860215056,Capacity factor above 100%; Entire Kerala Bioenergy series excluded from state comparisons
+Kerala,2022-11,Bioenergy,5.49,2.5,305.0,Capacity factor above 100%; Entire Kerala Bioenergy series excluded from state comparisons
+Kerala,2022-12,Bioenergy,5.36,2.5,288.1720430107527,Capacity factor above 100%; Entire Kerala Bioenergy series excluded from state comparisons
+Kerala,2023-01,Bioenergy,6.55,2.5,352.1505376344086,Capacity factor above 100%; Entire Kerala Bioenergy series excluded from state comparisons
+Kerala,2023-02,Bioenergy,3.49,2.5,207.73809523809524,Capacity factor above 100%; Entire Kerala Bioenergy series excluded from state comparisons
+Kerala,2023-03,Bioenergy,7.28,2.5,391.3978494623656,Capacity factor above 100%; Entire Kerala Bioenergy series excluded from state comparisons
+Kerala,2023-04,Bioenergy,7.12,2.5,395.55555555555554,Capacity factor above 100%; Entire Kerala Bioenergy series excluded from state comparisons
+Kerala,2023-05,Bioenergy,7.1,2.5,381.7204301075269,Capacity factor above 100%; Entire Kerala Bioenergy series excluded from state comparisons
+Kerala,2023-06,Bioenergy,7.82,2.5,434.4444444444444,Capacity factor above 100%; Entire Kerala Bioenergy series excluded from state comparisons
+Kerala,2023-07,Bioenergy,6.14,2.5,330.10752688172045,Capacity factor above 100%; Entire Kerala Bioenergy series excluded from state comparisons
+Kerala,2023-08,Bioenergy,5.41,2.5,290.86021505376345,Capacity factor above 100%; Entire Kerala Bioenergy series excluded from state comparisons
+Kerala,2023-09,Bioenergy,7.11,2.5,395.0,Capacity factor above 100%; Entire Kerala Bioenergy series excluded from state comparisons
+Kerala,2023-10,Bioenergy,6.14,2.5,330.10752688172045,Capacity factor above 100%; Entire Kerala Bioenergy series excluded from state comparisons
+Kerala,2023-11,Bioenergy,6.7,2.5,372.22222222222223,Capacity factor above 100%; Entire Kerala Bioenergy series excluded from state comparisons
+Kerala,2023-12,Bioenergy,6.92,2.5,372.0430107526881,Capacity factor above 100%; Entire Kerala Bioenergy series excluded from state comparisons
+Kerala,2024-01,Bioenergy,6.16,2.5,331.18279569892474,Capacity factor above 100%; Entire Kerala Bioenergy series excluded from state comparisons
+Kerala,2024-02,Bioenergy,5.43,2.5,312.0689655172414,Capacity factor above 100%; Entire Kerala Bioenergy series excluded from state comparisons
+Kerala,2024-03,Bioenergy,6.03,2.5,324.1935483870968,Capacity factor above 100%; Entire Kerala Bioenergy series excluded from state comparisons
+Kerala,2024-04,Bioenergy,7.19,2.5,399.44444444444446,Capacity factor above 100%; Entire Kerala Bioenergy series excluded from state comparisons
+Kerala,2024-05,Bioenergy,6.48,2.5,348.38709677419354,Capacity factor above 100%; Entire Kerala Bioenergy series excluded from state comparisons
+Kerala,2024-06,Bioenergy,6.86,2.5,381.1111111111111,Capacity factor above 100%; Entire Kerala Bioenergy series excluded from state comparisons
+Kerala,2024-07,Bioenergy,0.0,2.5,0.0,Entire Kerala Bioenergy series excluded from state comparisons
+Kerala,2024-08,Bioenergy,0.0,2.5,0.0,Entire Kerala Bioenergy series excluded from state comparisons
+Kerala,2024-09,Bioenergy,0.0,2.5,0.0,Entire Kerala Bioenergy series excluded from state comparisons
+Kerala,2024-10,Bioenergy,0.0,2.5,0.0,Entire Kerala Bioenergy series excluded from state comparisons
+Kerala,2024-11,Bioenergy,0.0,2.5,0.0,Entire Kerala Bioenergy series excluded from state comparisons
+Kerala,2024-12,Bioenergy,0.0,2.5,0.0,Entire Kerala Bioenergy series excluded from state comparisons
+Kerala,2025-01,Bioenergy,0.0,2.5,0.0,Entire Kerala Bioenergy series excluded from state comparisons
+Kerala,2025-02,Bioenergy,0.0,2.5,0.0,Entire Kerala Bioenergy series excluded from state comparisons
+Kerala,2025-03,Bioenergy,0.0,2.5,0.0,Entire Kerala Bioenergy series excluded from state comparisons
+Kerala,2025-04,Bioenergy,0.0,2.5,0.0,Entire Kerala Bioenergy series excluded from state comparisons
+Kerala,2025-05,Bioenergy,0.0,2.5,0.0,Entire Kerala Bioenergy series excluded from state comparisons
+Kerala,2025-06,Bioenergy,0.0,2.5,0.0,Entire Kerala Bioenergy series excluded from state comparisons
+Kerala,2025-07,Bioenergy,0.0,2.5,0.0,Entire Kerala Bioenergy series excluded from state comparisons
+Kerala,2025-08,Bioenergy,0.0,2.5,0.0,Entire Kerala Bioenergy series excluded from state comparisons
+Kerala,2025-09,Bioenergy,0.0,2.5,0.0,Entire Kerala Bioenergy series excluded from state comparisons
+Kerala,2025-10,Bioenergy,0.0,2.5,0.0,Entire Kerala Bioenergy series excluded from state comparisons
+Kerala,2025-11,Bioenergy,0.0,2.5,0.0,Entire Kerala Bioenergy series excluded from state comparisons

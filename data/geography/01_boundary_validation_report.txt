@@ -1,0 +1,108 @@
+=================================================================
+STATE/UT BOUNDARY DISSOLUTION AND VALIDATION
+=================================================================
+
+SOURCE FILE
+-----------------------------------------------------------------
+Input: D:\Renewable energy intelligence platform\data\geography\india.geojson
+Features: 760
+
+SOURCE GEOMETRY CHECKS
+-----------------------------------------------------------------
+Geometry types: {'Polygon': 741, 'MultiPolygon': 19}
+State labels found: 36
+Features without state label: 0
+Invalid/problematic features: 0
+
+DISSOLUTION
+-----------------------------------------------------------------
+Andaman and Nicobar Islands: 4 source features -> MultiPolygon
+Andhra Pradesh: 14 source features -> Polygon
+Arunachal Pradesh: 26 source features -> Polygon
+Assam: 34 source features -> Polygon
+Bihar: 39 source features -> Polygon
+Chandigarh: 2 source features -> Polygon
+Chhattisgarh: 28 source features -> Polygon
+Dadra and Nagar Haveli and Daman and Diu: 4 source features -> MultiPolygon
+Delhi: 2 source features -> Polygon
+Goa: 3 source features -> Polygon
+Gujarat: 35 source features -> MultiPolygon
+Haryana: 23 source features -> Polygon
+Himachal Pradesh: 13 source features -> Polygon
+Jammu and Kashmir: 23 source features -> Polygon
+Jharkhand: 25 source features -> Polygon
+Karnataka: 31 source features -> Polygon
+Kerala: 15 source features -> Polygon
+Ladakh: 3 source features -> Polygon
+Lakshadweep: 2 source features -> Polygon
+Madhya Pradesh: 53 source features -> Polygon
+Maharashtra: 36 source features -> Polygon
+Manipur: 17 source features -> Polygon
+Meghalaya: 12 source features -> Polygon
+Mizoram: 11 source features -> Polygon
+Nagaland: 12 source features -> Polygon
+Odisha: 31 source features -> Polygon
+Puducherry: 5 source features -> MultiPolygon
+Punjab: 23 source features -> Polygon
+Rajasthan: 34 source features -> Polygon
+Sikkim: 5 source features -> Polygon
+Tamil Nadu: 38 source features -> Polygon
+Telangana: 34 source features -> Polygon
+Tripura: 9 source features -> Polygon
+Uttar Pradesh: 76 source features -> Polygon
+Uttarakhand: 14 source features -> Polygon
+West Bengal: 24 source features -> MultiPolygon
+
+FINAL VALIDATION
+-----------------------------------------------------------------
+Output features: 36
+Unique state names: 36
+Duplicate names: []
+Output file: D:\Renewable energy intelligence platform\data\geography\india_states_provisional.geojson
+
+SOURCE YEAR COVERAGE
+-----------------------------------------------------------------
+Andaman and Nicobar Islands: 2011_c
+Andhra Pradesh: 2011_c
+Arunachal Pradesh: 2011_c, 2012_c, 2014_c, 2015_c, 2018
+Assam: 2011_c, 2015_c, 2016_c
+Bihar: 2011_c
+Chandigarh: 2011_c
+Chhattisgarh: 2011_c, update2014
+Dadra and Nagar Haveli and Daman and Diu: 2011_c
+Delhi: 2011_c
+Goa: 2011_c
+Gujarat: 2011_c, update2014, update2025
+Haryana: 2011_c, 2016_c
+Himachal Pradesh: 2011_c
+Jammu and Kashmir: 2011_c
+Jharkhand: 2011_c
+Karnataka: 2011_c
+Kerala: 2011_c
+Ladakh: 2011_c
+Lakshadweep: 2011_c
+Madhya Pradesh: 2011_c, 2018, update2014
+Maharashtra: 2011_c, update2014
+Manipur: 2011_c, 2016_c
+Meghalaya: 2011_c, update2014
+Mizoram: 2011_c, 2019
+Nagaland: 2011_c
+Odisha: 2011_c
+Puducherry: 2011_c
+Punjab: 2011_c, update2014
+Rajasthan: 2011_c
+Sikkim: 2011_c
+Tamil Nadu: 2011_c, 2018, 2019
+Telangana: 2016_c, 2019
+Tripura: 2011_c, update2014
+Uttar Pradesh: 2011_c, update2014
+Uttarakhand: 2011_c
+West Bengal: 2011_c, 2014_c, 2017_c
+
+Distinct source years: 2011_c, 2012_c, 2014_c, 2015_c, 2016_c, 2017_c, 2018, 2019, update2014, update2025
+
+IMPORTANT
+-----------------------------------------------------------------
+This output is a provisional dissolve of the supplied district geometries.
+It does not establish authoritative administrative boundaries or resolve mixed boundary vintages.
+State-name matching against Ember's reporting labels is a separate validation step.

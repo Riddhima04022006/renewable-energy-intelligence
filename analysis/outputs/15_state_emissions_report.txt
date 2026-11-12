@@ -1,0 +1,95 @@
+======================================================================
+A4.3: STATE-LEVEL EMISSIONS ANALYSIS
+======================================================================
+
+INPUT VALIDATION
+----------------------------------------------------------------------
+State-month rows: 1908
+States/UTs: 36
+Months: 53
+Period: 2021-07 to 2025-11
+Duplicate state-month keys: 0
+
+Missing required values:
+Total_Emissions_ktCO2              0
+Reported_CO2_Intensity_gCO2_kWh    0
+Total_Generation_GWh               0
+
+INTENSITY CROSS-CHECK
+----------------------------------------------------------------------
+Maximum absolute difference between reported and calculated monthly intensity: 0.005488 gCO2/kWh
+
+TOP 10 STATES BY TOTAL EMISSIONS
+----------------------------------------------------------------------
+         State  Total_Emissions_ktCO2  Generation_Weighted_CO2_Intensity_gCO2_kWh  Emissions_Rank
+  Chhattisgarh              561802.72                                  807.006830               1
+ Uttar Pradesh              557550.47                                  765.851735               2
+Madhya Pradesh              510561.92                                  732.395733               3
+   Maharashtra              476366.84                                  657.279537               4
+   West Bengal              321447.88                                  777.858533               5
+       Gujarat              258346.01                                  470.051936               6
+    Tamil Nadu              252911.32                                  467.965030               7
+Andhra Pradesh              244467.58                                  634.388345               8
+        Odisha              238669.44                                  739.307210               9
+     Rajasthan              222963.67                                  438.067115              10
+
+TOP 10 STATES BY GENERATION-WEIGHTED CO2 INTENSITY
+----------------------------------------------------------------------
+         State  Generation_Weighted_CO2_Intensity_gCO2_kWh  Total_Emissions_ktCO2  Intensity_Rank
+   Lakshadweep                                  817.302979                 156.35               1
+         Bihar                                  815.602710              201980.69               2
+     Jharkhand                                  812.265329              124098.18               3
+  Chhattisgarh                                  807.006830              561802.72               4
+   West Bengal                                  777.858533              321447.88               5
+       Haryana                                  776.871239              104112.72               6
+ Uttar Pradesh                                  765.851735              557550.47               7
+        Odisha                                  739.307210              238669.44               8
+Madhya Pradesh                                  732.395733              510561.92               9
+     Telangana                                  669.876761              198323.28              10
+
+JAN-NOV 2024 VS JAN-NOV 2025
+----------------------------------------------------------------------
+                                   State  Total_Emissions_ktCO2_Change_Pct  Generation_Weighted_CO2_Intensity_gCO2_kWh_Change_Pct
+                                  Sikkim                         30.107527                                               0.005398
+                                  Kerala                         26.963288                                              -2.931769
+                                 Manipur                          9.439528                                               0.218057
+                                  Ladakh                          7.724426                                              -0.000091
+Dadra and Nagar Haveli and Daman and Diu                          5.934718                                              -6.836130
+                        Himachal Pradesh                          5.232055                                               0.200379
+                     Andaman and Nicobar                          2.610494                                               2.557678
+                          Andhra Pradesh                          2.265363                                              -3.882592
+                                Nagaland                          1.985816                                               0.015166
+                                 Mizoram                          1.975309                                               5.245293
+                               Meghalaya                          1.851852                                               0.021364
+                            Chhattisgarh                          1.237864                                              -0.253797
+                           Uttar Pradesh                          0.773596                                               0.108740
+                                  Odisha                          0.693587                                              -0.597981
+                       Arunachal Pradesh                          0.521366                                               0.064427
+                                     Goa                          0.000000                                               0.000000
+                       Jammu and Kashmir                          0.000000                                               0.003077
+                             Lakshadweep                         -0.199045                                               0.012788
+                               Karnataka                         -2.107458                                             -11.011042
+                             Maharashtra                         -2.135916                                              -1.309089
+                               Telangana                         -2.483831                                              -3.151804
+                                 Tripura                         -2.608135                                              -0.061910
+                             West Bengal                         -3.465419                                              -0.416057
+                          Madhya Pradesh                         -3.537664                                              -2.353362
+                               Jharkhand                         -3.547745                                               0.120242
+                                   Bihar                         -4.060916                                              -0.093288
+                                  Punjab                         -4.352862                                              -0.048112
+                               Rajasthan                         -8.151333                                             -13.435198
+                                   Assam                         -9.920221                                              -6.336972
+                              Puducherry                        -14.082519                                              -0.839201
+                                 Haryana                        -14.259215                                              -1.274063
+                              Tamil Nadu                        -14.599538                                             -15.626128
+                                 Gujarat                        -19.351057                                             -18.016459
+                              Chandigarh                        -24.390244                                               1.125423
+                             Uttarakhand                        -28.871372                                             -31.171789
+                                   Delhi                        -37.188685                                              -5.913819
+
+OUTPUT FILES
+----------------------------------------------------------------------
+D:\Renewable energy intelligence platform\analysis\outputs\15_monthly_state_emissions.csv
+D:\Renewable energy intelligence platform\analysis\outputs\15_state_period_emissions_summary.csv
+D:\Renewable energy intelligence platform\analysis\outputs\15_annual_state_emissions_summary.csv
+D:\Renewable energy intelligence platform\analysis\outputs\15_state_emissions_2024_2025_comparison.csv

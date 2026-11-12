@@ -1,0 +1,571 @@
+State,Variable,Observed_Months,Numeric_Values,Missing_Values,First_Month,Last_Month
+Andaman and Nicobar,Bioenergy,53,53,0,2021-07,2025-11
+Andaman and Nicobar,Clean,53,53,0,2021-07,2025-11
+Andaman and Nicobar,Coal,53,53,0,2021-07,2025-11
+Andaman and Nicobar,Fossil,53,53,0,2021-07,2025-11
+Andaman and Nicobar,Gas,53,53,0,2021-07,2025-11
+Andaman and Nicobar,Gas and Other Fossil,53,53,0,2021-07,2025-11
+Andaman and Nicobar,Hydro,53,53,0,2021-07,2025-11
+Andaman and Nicobar,"Hydro, Bioenergy and Other Renewables",53,53,0,2021-07,2025-11
+Andaman and Nicobar,Nuclear,53,53,0,2021-07,2025-11
+Andaman and Nicobar,Other Fossil,53,53,0,2021-07,2025-11
+Andaman and Nicobar,Other Renewables,53,14,39,2021-07,2025-11
+Andaman and Nicobar,Renewables,53,53,0,2021-07,2025-11
+Andaman and Nicobar,Solar,53,53,0,2021-07,2025-11
+Andaman and Nicobar,Wind,53,53,0,2021-07,2025-11
+Andaman and Nicobar,Wind and Solar,53,53,0,2021-07,2025-11
+Andhra Pradesh,Bioenergy,53,53,0,2021-07,2025-11
+Andhra Pradesh,Clean,53,53,0,2021-07,2025-11
+Andhra Pradesh,Coal,53,53,0,2021-07,2025-11
+Andhra Pradesh,Fossil,53,53,0,2021-07,2025-11
+Andhra Pradesh,Gas,53,53,0,2021-07,2025-11
+Andhra Pradesh,Gas and Other Fossil,53,53,0,2021-07,2025-11
+Andhra Pradesh,Hydro,53,53,0,2021-07,2025-11
+Andhra Pradesh,"Hydro, Bioenergy and Other Renewables",53,53,0,2021-07,2025-11
+Andhra Pradesh,Nuclear,53,53,0,2021-07,2025-11
+Andhra Pradesh,Other Fossil,53,53,0,2021-07,2025-11
+Andhra Pradesh,Other Renewables,53,14,39,2021-07,2025-11
+Andhra Pradesh,Renewables,53,53,0,2021-07,2025-11
+Andhra Pradesh,Solar,53,53,0,2021-07,2025-11
+Andhra Pradesh,Wind,53,53,0,2021-07,2025-11
+Andhra Pradesh,Wind and Solar,53,53,0,2021-07,2025-11
+Arunachal Pradesh,Bioenergy,53,53,0,2021-07,2025-11
+Arunachal Pradesh,Clean,53,53,0,2021-07,2025-11
+Arunachal Pradesh,Coal,53,53,0,2021-07,2025-11
+Arunachal Pradesh,Fossil,53,53,0,2021-07,2025-11
+Arunachal Pradesh,Gas,53,53,0,2021-07,2025-11
+Arunachal Pradesh,Gas and Other Fossil,53,53,0,2021-07,2025-11
+Arunachal Pradesh,Hydro,53,53,0,2021-07,2025-11
+Arunachal Pradesh,"Hydro, Bioenergy and Other Renewables",53,53,0,2021-07,2025-11
+Arunachal Pradesh,Nuclear,53,53,0,2021-07,2025-11
+Arunachal Pradesh,Other Fossil,53,53,0,2021-07,2025-11
+Arunachal Pradesh,Other Renewables,53,14,39,2021-07,2025-11
+Arunachal Pradesh,Renewables,53,53,0,2021-07,2025-11
+Arunachal Pradesh,Solar,53,53,0,2021-07,2025-11
+Arunachal Pradesh,Wind,53,53,0,2021-07,2025-11
+Arunachal Pradesh,Wind and Solar,53,53,0,2021-07,2025-11
+Assam,Bioenergy,53,53,0,2021-07,2025-11
+Assam,Clean,53,53,0,2021-07,2025-11
+Assam,Coal,53,53,0,2021-07,2025-11
+Assam,Fossil,53,53,0,2021-07,2025-11
+Assam,Gas,53,53,0,2021-07,2025-11
+Assam,Gas and Other Fossil,53,53,0,2021-07,2025-11
+Assam,Hydro,53,53,0,2021-07,2025-11
+Assam,"Hydro, Bioenergy and Other Renewables",53,53,0,2021-07,2025-11
+Assam,Nuclear,53,53,0,2021-07,2025-11
+Assam,Other Fossil,53,53,0,2021-07,2025-11
+Assam,Other Renewables,53,14,39,2021-07,2025-11
+Assam,Renewables,53,53,0,2021-07,2025-11
+Assam,Solar,53,53,0,2021-07,2025-11
+Assam,Wind,53,53,0,2021-07,2025-11
+Assam,Wind and Solar,53,53,0,2021-07,2025-11
+Bihar,Bioenergy,53,53,0,2021-07,2025-11
+Bihar,Clean,53,53,0,2021-07,2025-11
+Bihar,Coal,53,53,0,2021-07,2025-11
+Bihar,Fossil,53,53,0,2021-07,2025-11
+Bihar,Gas,53,53,0,2021-07,2025-11
+Bihar,Gas and Other Fossil,53,53,0,2021-07,2025-11
+Bihar,Hydro,53,53,0,2021-07,2025-11
+Bihar,"Hydro, Bioenergy and Other Renewables",53,53,0,2021-07,2025-11
+Bihar,Nuclear,53,53,0,2021-07,2025-11
+Bihar,Other Fossil,53,53,0,2021-07,2025-11
+Bihar,Other Renewables,53,14,39,2021-07,2025-11
+Bihar,Renewables,53,53,0,2021-07,2025-11
+Bihar,Solar,53,53,0,2021-07,2025-11
+Bihar,Wind,53,53,0,2021-07,2025-11
+Bihar,Wind and Solar,53,53,0,2021-07,2025-11
+Chandigarh,Bioenergy,53,47,6,2021-07,2025-11
+Chandigarh,Clean,53,47,6,2021-07,2025-11
+Chandigarh,Coal,14,14,0,2021-07,2022-08
+Chandigarh,Fossil,14,14,0,2021-07,2022-08
+Chandigarh,Gas,14,14,0,2021-07,2022-08
+Chandigarh,Gas and Other Fossil,14,14,0,2021-07,2022-08
+Chandigarh,Hydro,53,47,6,2021-07,2025-11
+Chandigarh,"Hydro, Bioenergy and Other Renewables",53,47,6,2021-07,2025-11
+Chandigarh,Nuclear,14,14,0,2021-07,2022-08
+Chandigarh,Other Fossil,14,14,0,2021-07,2022-08
+Chandigarh,Other Renewables,53,14,39,2021-07,2025-11
+Chandigarh,Renewables,53,47,6,2021-07,2025-11
+Chandigarh,Solar,53,47,6,2021-07,2025-11
+Chandigarh,Wind,53,47,6,2021-07,2025-11
+Chandigarh,Wind and Solar,53,47,6,2021-07,2025-11
+Chhattisgarh,Bioenergy,53,53,0,2021-07,2025-11
+Chhattisgarh,Clean,53,53,0,2021-07,2025-11
+Chhattisgarh,Coal,53,53,0,2021-07,2025-11
+Chhattisgarh,Fossil,53,53,0,2021-07,2025-11
+Chhattisgarh,Gas,53,53,0,2021-07,2025-11
+Chhattisgarh,Gas and Other Fossil,53,53,0,2021-07,2025-11
+Chhattisgarh,Hydro,53,53,0,2021-07,2025-11
+Chhattisgarh,"Hydro, Bioenergy and Other Renewables",53,53,0,2021-07,2025-11
+Chhattisgarh,Nuclear,53,53,0,2021-07,2025-11
+Chhattisgarh,Other Fossil,53,53,0,2021-07,2025-11
+Chhattisgarh,Other Renewables,53,14,39,2021-07,2025-11
+Chhattisgarh,Renewables,53,53,0,2021-07,2025-11
+Chhattisgarh,Solar,53,53,0,2021-07,2025-11
+Chhattisgarh,Wind,53,53,0,2021-07,2025-11
+Chhattisgarh,Wind and Solar,53,53,0,2021-07,2025-11
+Dadra and Nagar Haveli and Daman and Diu,Bioenergy,53,47,6,2021-07,2025-11
+Dadra and Nagar Haveli and Daman and Diu,Clean,53,47,6,2021-07,2025-11
+Dadra and Nagar Haveli and Daman and Diu,Coal,14,14,0,2021-07,2022-08
+Dadra and Nagar Haveli and Daman and Diu,Fossil,14,14,0,2021-07,2022-08
+Dadra and Nagar Haveli and Daman and Diu,Gas,14,14,0,2021-07,2022-08
+Dadra and Nagar Haveli and Daman and Diu,Gas and Other Fossil,14,14,0,2021-07,2022-08
+Dadra and Nagar Haveli and Daman and Diu,Hydro,53,47,6,2021-07,2025-11
+Dadra and Nagar Haveli and Daman and Diu,"Hydro, Bioenergy and Other Renewables",53,47,6,2021-07,2025-11
+Dadra and Nagar Haveli and Daman and Diu,Nuclear,14,14,0,2021-07,2022-08
+Dadra and Nagar Haveli and Daman and Diu,Other Fossil,14,14,0,2021-07,2022-08
+Dadra and Nagar Haveli and Daman and Diu,Other Renewables,53,14,39,2021-07,2025-11
+Dadra and Nagar Haveli and Daman and Diu,Renewables,53,47,6,2021-07,2025-11
+Dadra and Nagar Haveli and Daman and Diu,Solar,53,47,6,2021-07,2025-11
+Dadra and Nagar Haveli and Daman and Diu,Wind,53,47,6,2021-07,2025-11
+Dadra and Nagar Haveli and Daman and Diu,Wind and Solar,53,47,6,2021-07,2025-11
+Delhi,Bioenergy,53,53,0,2021-07,2025-11
+Delhi,Clean,53,53,0,2021-07,2025-11
+Delhi,Coal,53,53,0,2021-07,2025-11
+Delhi,Fossil,53,53,0,2021-07,2025-11
+Delhi,Gas,53,53,0,2021-07,2025-11
+Delhi,Gas and Other Fossil,53,53,0,2021-07,2025-11
+Delhi,Hydro,53,53,0,2021-07,2025-11
+Delhi,"Hydro, Bioenergy and Other Renewables",53,53,0,2021-07,2025-11
+Delhi,Nuclear,53,53,0,2021-07,2025-11
+Delhi,Other Fossil,53,53,0,2021-07,2025-11
+Delhi,Other Renewables,53,14,39,2021-07,2025-11
+Delhi,Renewables,53,53,0,2021-07,2025-11
+Delhi,Solar,53,53,0,2021-07,2025-11
+Delhi,Wind,53,53,0,2021-07,2025-11
+Delhi,Wind and Solar,53,53,0,2021-07,2025-11
+Goa,Bioenergy,53,53,0,2021-07,2025-11
+Goa,Clean,53,53,0,2021-07,2025-11
+Goa,Coal,53,53,0,2021-07,2025-11
+Goa,Fossil,53,53,0,2021-07,2025-11
+Goa,Gas,53,53,0,2021-07,2025-11
+Goa,Gas and Other Fossil,53,53,0,2021-07,2025-11
+Goa,Hydro,53,53,0,2021-07,2025-11
+Goa,"Hydro, Bioenergy and Other Renewables",53,53,0,2021-07,2025-11
+Goa,Nuclear,53,53,0,2021-07,2025-11
+Goa,Other Fossil,53,53,0,2021-07,2025-11
+Goa,Other Renewables,53,14,39,2021-07,2025-11
+Goa,Renewables,53,53,0,2021-07,2025-11
+Goa,Solar,53,53,0,2021-07,2025-11
+Goa,Wind,53,53,0,2021-07,2025-11
+Goa,Wind and Solar,53,53,0,2021-07,2025-11
+Gujarat,Bioenergy,53,53,0,2021-07,2025-11
+Gujarat,Clean,53,53,0,2021-07,2025-11
+Gujarat,Coal,53,53,0,2021-07,2025-11
+Gujarat,Fossil,53,53,0,2021-07,2025-11
+Gujarat,Gas,53,53,0,2021-07,2025-11
+Gujarat,Gas and Other Fossil,53,53,0,2021-07,2025-11
+Gujarat,Hydro,53,53,0,2021-07,2025-11
+Gujarat,"Hydro, Bioenergy and Other Renewables",53,53,0,2021-07,2025-11
+Gujarat,Nuclear,53,53,0,2021-07,2025-11
+Gujarat,Other Fossil,53,53,0,2021-07,2025-11
+Gujarat,Other Renewables,53,14,39,2021-07,2025-11
+Gujarat,Renewables,53,53,0,2021-07,2025-11
+Gujarat,Solar,53,53,0,2021-07,2025-11
+Gujarat,Wind,53,53,0,2021-07,2025-11
+Gujarat,Wind and Solar,53,53,0,2021-07,2025-11
+Haryana,Bioenergy,53,53,0,2021-07,2025-11
+Haryana,Clean,53,53,0,2021-07,2025-11
+Haryana,Coal,53,53,0,2021-07,2025-11
+Haryana,Fossil,53,53,0,2021-07,2025-11
+Haryana,Gas,53,53,0,2021-07,2025-11
+Haryana,Gas and Other Fossil,53,53,0,2021-07,2025-11
+Haryana,Hydro,53,53,0,2021-07,2025-11
+Haryana,"Hydro, Bioenergy and Other Renewables",53,53,0,2021-07,2025-11
+Haryana,Nuclear,53,53,0,2021-07,2025-11
+Haryana,Other Fossil,53,53,0,2021-07,2025-11
+Haryana,Other Renewables,53,14,39,2021-07,2025-11
+Haryana,Renewables,53,53,0,2021-07,2025-11
+Haryana,Solar,53,53,0,2021-07,2025-11
+Haryana,Wind,53,53,0,2021-07,2025-11
+Haryana,Wind and Solar,53,53,0,2021-07,2025-11
+Himachal Pradesh,Bioenergy,53,53,0,2021-07,2025-11
+Himachal Pradesh,Clean,53,53,0,2021-07,2025-11
+Himachal Pradesh,Coal,53,53,0,2021-07,2025-11
+Himachal Pradesh,Fossil,53,53,0,2021-07,2025-11
+Himachal Pradesh,Gas,53,53,0,2021-07,2025-11
+Himachal Pradesh,Gas and Other Fossil,53,53,0,2021-07,2025-11
+Himachal Pradesh,Hydro,53,53,0,2021-07,2025-11
+Himachal Pradesh,"Hydro, Bioenergy and Other Renewables",53,53,0,2021-07,2025-11
+Himachal Pradesh,Nuclear,53,53,0,2021-07,2025-11
+Himachal Pradesh,Other Fossil,53,53,0,2021-07,2025-11
+Himachal Pradesh,Other Renewables,53,14,39,2021-07,2025-11
+Himachal Pradesh,Renewables,53,53,0,2021-07,2025-11
+Himachal Pradesh,Solar,53,53,0,2021-07,2025-11
+Himachal Pradesh,Wind,53,53,0,2021-07,2025-11
+Himachal Pradesh,Wind and Solar,53,53,0,2021-07,2025-11
+India Total,Bioenergy,53,53,0,2021-07,2025-11
+India Total,Clean,53,53,0,2021-07,2025-11
+India Total,Coal,53,53,0,2021-07,2025-11
+India Total,Fossil,53,53,0,2021-07,2025-11
+India Total,Gas,53,53,0,2021-07,2025-11
+India Total,Gas and Other Fossil,53,53,0,2021-07,2025-11
+India Total,Hydro,53,53,0,2021-07,2025-11
+India Total,"Hydro, Bioenergy and Other Renewables",53,53,0,2021-07,2025-11
+India Total,Nuclear,53,53,0,2021-07,2025-11
+India Total,Other Fossil,53,53,0,2021-07,2025-11
+India Total,Other Renewables,53,14,39,2021-07,2025-11
+India Total,Renewables,53,53,0,2021-07,2025-11
+India Total,Solar,53,53,0,2021-07,2025-11
+India Total,Wind,53,53,0,2021-07,2025-11
+India Total,Wind and Solar,53,53,0,2021-07,2025-11
+Jammu and Kashmir,Bioenergy,53,53,0,2021-07,2025-11
+Jammu and Kashmir,Clean,53,53,0,2021-07,2025-11
+Jammu and Kashmir,Coal,53,53,0,2021-07,2025-11
+Jammu and Kashmir,Fossil,53,53,0,2021-07,2025-11
+Jammu and Kashmir,Gas,53,53,0,2021-07,2025-11
+Jammu and Kashmir,Gas and Other Fossil,53,53,0,2021-07,2025-11
+Jammu and Kashmir,Hydro,53,53,0,2021-07,2025-11
+Jammu and Kashmir,"Hydro, Bioenergy and Other Renewables",53,53,0,2021-07,2025-11
+Jammu and Kashmir,Nuclear,53,53,0,2021-07,2025-11
+Jammu and Kashmir,Other Fossil,53,53,0,2021-07,2025-11
+Jammu and Kashmir,Other Renewables,53,14,39,2021-07,2025-11
+Jammu and Kashmir,Renewables,53,53,0,2021-07,2025-11
+Jammu and Kashmir,Solar,53,53,0,2021-07,2025-11
+Jammu and Kashmir,Wind,53,53,0,2021-07,2025-11
+Jammu and Kashmir,Wind and Solar,53,53,0,2021-07,2025-11
+Jharkhand,Bioenergy,53,53,0,2021-07,2025-11
+Jharkhand,Clean,53,53,0,2021-07,2025-11
+Jharkhand,Coal,53,53,0,2021-07,2025-11
+Jharkhand,Fossil,53,53,0,2021-07,2025-11
+Jharkhand,Gas,53,53,0,2021-07,2025-11
+Jharkhand,Gas and Other Fossil,53,53,0,2021-07,2025-11
+Jharkhand,Hydro,53,53,0,2021-07,2025-11
+Jharkhand,"Hydro, Bioenergy and Other Renewables",53,53,0,2021-07,2025-11
+Jharkhand,Nuclear,53,53,0,2021-07,2025-11
+Jharkhand,Other Fossil,53,53,0,2021-07,2025-11
+Jharkhand,Other Renewables,53,14,39,2021-07,2025-11
+Jharkhand,Renewables,53,53,0,2021-07,2025-11
+Jharkhand,Solar,53,53,0,2021-07,2025-11
+Jharkhand,Wind,53,53,0,2021-07,2025-11
+Jharkhand,Wind and Solar,53,53,0,2021-07,2025-11
+Karnataka,Bioenergy,53,53,0,2021-07,2025-11
+Karnataka,Clean,53,53,0,2021-07,2025-11
+Karnataka,Coal,53,53,0,2021-07,2025-11
+Karnataka,Fossil,53,53,0,2021-07,2025-11
+Karnataka,Gas,53,53,0,2021-07,2025-11
+Karnataka,Gas and Other Fossil,53,53,0,2021-07,2025-11
+Karnataka,Hydro,53,53,0,2021-07,2025-11
+Karnataka,"Hydro, Bioenergy and Other Renewables",53,53,0,2021-07,2025-11
+Karnataka,Nuclear,53,53,0,2021-07,2025-11
+Karnataka,Other Fossil,53,53,0,2021-07,2025-11
+Karnataka,Other Renewables,53,14,39,2021-07,2025-11
+Karnataka,Renewables,53,53,0,2021-07,2025-11
+Karnataka,Solar,53,53,0,2021-07,2025-11
+Karnataka,Wind,53,53,0,2021-07,2025-11
+Karnataka,Wind and Solar,53,53,0,2021-07,2025-11
+Kerala,Bioenergy,53,53,0,2021-07,2025-11
+Kerala,Clean,53,53,0,2021-07,2025-11
+Kerala,Coal,53,53,0,2021-07,2025-11
+Kerala,Fossil,53,53,0,2021-07,2025-11
+Kerala,Gas,53,53,0,2021-07,2025-11
+Kerala,Gas and Other Fossil,53,53,0,2021-07,2025-11
+Kerala,Hydro,53,53,0,2021-07,2025-11
+Kerala,"Hydro, Bioenergy and Other Renewables",53,53,0,2021-07,2025-11
+Kerala,Nuclear,53,53,0,2021-07,2025-11
+Kerala,Other Fossil,53,53,0,2021-07,2025-11
+Kerala,Other Renewables,53,14,39,2021-07,2025-11
+Kerala,Renewables,53,53,0,2021-07,2025-11
+Kerala,Solar,53,53,0,2021-07,2025-11
+Kerala,Wind,53,53,0,2021-07,2025-11
+Kerala,Wind and Solar,53,53,0,2021-07,2025-11
+Ladakh,Bioenergy,53,53,0,2021-07,2025-11
+Ladakh,Clean,53,53,0,2021-07,2025-11
+Ladakh,Coal,53,53,0,2021-07,2025-11
+Ladakh,Fossil,53,53,0,2021-07,2025-11
+Ladakh,Gas,53,53,0,2021-07,2025-11
+Ladakh,Gas and Other Fossil,53,53,0,2021-07,2025-11
+Ladakh,Hydro,53,53,0,2021-07,2025-11
+Ladakh,"Hydro, Bioenergy and Other Renewables",53,53,0,2021-07,2025-11
+Ladakh,Nuclear,53,53,0,2021-07,2025-11
+Ladakh,Other Fossil,53,53,0,2021-07,2025-11
+Ladakh,Other Renewables,53,14,39,2021-07,2025-11
+Ladakh,Renewables,53,53,0,2021-07,2025-11
+Ladakh,Solar,53,53,0,2021-07,2025-11
+Ladakh,Wind,53,53,0,2021-07,2025-11
+Ladakh,Wind and Solar,53,53,0,2021-07,2025-11
+Lakshadweep,Bioenergy,53,53,0,2021-07,2025-11
+Lakshadweep,Clean,53,53,0,2021-07,2025-11
+Lakshadweep,Coal,50,50,0,2021-07,2025-11
+Lakshadweep,Fossil,50,50,0,2021-07,2025-11
+Lakshadweep,Gas,50,50,0,2021-07,2025-11
+Lakshadweep,Gas and Other Fossil,50,50,0,2021-07,2025-11
+Lakshadweep,Hydro,53,53,0,2021-07,2025-11
+Lakshadweep,"Hydro, Bioenergy and Other Renewables",53,53,0,2021-07,2025-11
+Lakshadweep,Nuclear,50,50,0,2021-07,2025-11
+Lakshadweep,Other Fossil,50,50,0,2021-07,2025-11
+Lakshadweep,Other Renewables,53,14,39,2021-07,2025-11
+Lakshadweep,Renewables,53,53,0,2021-07,2025-11
+Lakshadweep,Solar,53,53,0,2021-07,2025-11
+Lakshadweep,Wind,53,53,0,2021-07,2025-11
+Lakshadweep,Wind and Solar,53,53,0,2021-07,2025-11
+Madhya Pradesh,Bioenergy,53,53,0,2021-07,2025-11
+Madhya Pradesh,Clean,53,53,0,2021-07,2025-11
+Madhya Pradesh,Coal,53,53,0,2021-07,2025-11
+Madhya Pradesh,Fossil,53,53,0,2021-07,2025-11
+Madhya Pradesh,Gas,53,53,0,2021-07,2025-11
+Madhya Pradesh,Gas and Other Fossil,53,53,0,2021-07,2025-11
+Madhya Pradesh,Hydro,53,53,0,2021-07,2025-11
+Madhya Pradesh,"Hydro, Bioenergy and Other Renewables",53,53,0,2021-07,2025-11
+Madhya Pradesh,Nuclear,53,53,0,2021-07,2025-11
+Madhya Pradesh,Other Fossil,53,53,0,2021-07,2025-11
+Madhya Pradesh,Other Renewables,53,14,39,2021-07,2025-11
+Madhya Pradesh,Renewables,53,53,0,2021-07,2025-11
+Madhya Pradesh,Solar,53,53,0,2021-07,2025-11
+Madhya Pradesh,Wind,53,53,0,2021-07,2025-11
+Madhya Pradesh,Wind and Solar,53,53,0,2021-07,2025-11
+Maharashtra,Bioenergy,53,53,0,2021-07,2025-11
+Maharashtra,Clean,53,53,0,2021-07,2025-11
+Maharashtra,Coal,53,53,0,2021-07,2025-11
+Maharashtra,Fossil,53,53,0,2021-07,2025-11
+Maharashtra,Gas,53,53,0,2021-07,2025-11
+Maharashtra,Gas and Other Fossil,53,53,0,2021-07,2025-11
+Maharashtra,Hydro,53,53,0,2021-07,2025-11
+Maharashtra,"Hydro, Bioenergy and Other Renewables",53,53,0,2021-07,2025-11
+Maharashtra,Nuclear,53,53,0,2021-07,2025-11
+Maharashtra,Other Fossil,53,53,0,2021-07,2025-11
+Maharashtra,Other Renewables,53,14,39,2021-07,2025-11
+Maharashtra,Renewables,53,53,0,2021-07,2025-11
+Maharashtra,Solar,53,53,0,2021-07,2025-11
+Maharashtra,Wind,53,53,0,2021-07,2025-11
+Maharashtra,Wind and Solar,53,53,0,2021-07,2025-11
+Manipur,Bioenergy,53,53,0,2021-07,2025-11
+Manipur,Clean,53,53,0,2021-07,2025-11
+Manipur,Coal,53,53,0,2021-07,2025-11
+Manipur,Fossil,53,53,0,2021-07,2025-11
+Manipur,Gas,53,53,0,2021-07,2025-11
+Manipur,Gas and Other Fossil,53,53,0,2021-07,2025-11
+Manipur,Hydro,53,53,0,2021-07,2025-11
+Manipur,"Hydro, Bioenergy and Other Renewables",53,53,0,2021-07,2025-11
+Manipur,Nuclear,53,53,0,2021-07,2025-11
+Manipur,Other Fossil,53,53,0,2021-07,2025-11
+Manipur,Other Renewables,53,14,39,2021-07,2025-11
+Manipur,Renewables,53,53,0,2021-07,2025-11
+Manipur,Solar,53,53,0,2021-07,2025-11
+Manipur,Wind,53,53,0,2021-07,2025-11
+Manipur,Wind and Solar,53,53,0,2021-07,2025-11
+Meghalaya,Bioenergy,53,53,0,2021-07,2025-11
+Meghalaya,Clean,53,53,0,2021-07,2025-11
+Meghalaya,Coal,53,53,0,2021-07,2025-11
+Meghalaya,Fossil,53,53,0,2021-07,2025-11
+Meghalaya,Gas,53,53,0,2021-07,2025-11
+Meghalaya,Gas and Other Fossil,53,53,0,2021-07,2025-11
+Meghalaya,Hydro,53,53,0,2021-07,2025-11
+Meghalaya,"Hydro, Bioenergy and Other Renewables",53,53,0,2021-07,2025-11
+Meghalaya,Nuclear,53,53,0,2021-07,2025-11
+Meghalaya,Other Fossil,53,53,0,2021-07,2025-11
+Meghalaya,Other Renewables,53,14,39,2021-07,2025-11
+Meghalaya,Renewables,53,53,0,2021-07,2025-11
+Meghalaya,Solar,53,53,0,2021-07,2025-11
+Meghalaya,Wind,53,53,0,2021-07,2025-11
+Meghalaya,Wind and Solar,53,53,0,2021-07,2025-11
+Mizoram,Bioenergy,53,53,0,2021-07,2025-11
+Mizoram,Clean,53,53,0,2021-07,2025-11
+Mizoram,Coal,53,53,0,2021-07,2025-11
+Mizoram,Fossil,53,53,0,2021-07,2025-11
+Mizoram,Gas,53,53,0,2021-07,2025-11
+Mizoram,Gas and Other Fossil,53,53,0,2021-07,2025-11
+Mizoram,Hydro,53,53,0,2021-07,2025-11
+Mizoram,"Hydro, Bioenergy and Other Renewables",53,53,0,2021-07,2025-11
+Mizoram,Nuclear,53,53,0,2021-07,2025-11
+Mizoram,Other Fossil,53,53,0,2021-07,2025-11
+Mizoram,Other Renewables,53,14,39,2021-07,2025-11
+Mizoram,Renewables,53,53,0,2021-07,2025-11
+Mizoram,Solar,53,53,0,2021-07,2025-11
+Mizoram,Wind,53,53,0,2021-07,2025-11
+Mizoram,Wind and Solar,53,53,0,2021-07,2025-11
+Nagaland,Bioenergy,53,53,0,2021-07,2025-11
+Nagaland,Clean,53,53,0,2021-07,2025-11
+Nagaland,Coal,53,53,0,2021-07,2025-11
+Nagaland,Fossil,53,53,0,2021-07,2025-11
+Nagaland,Gas,53,53,0,2021-07,2025-11
+Nagaland,Gas and Other Fossil,53,53,0,2021-07,2025-11
+Nagaland,Hydro,53,53,0,2021-07,2025-11
+Nagaland,"Hydro, Bioenergy and Other Renewables",53,53,0,2021-07,2025-11
+Nagaland,Nuclear,53,53,0,2021-07,2025-11
+Nagaland,Other Fossil,53,53,0,2021-07,2025-11
+Nagaland,Other Renewables,53,14,39,2021-07,2025-11
+Nagaland,Renewables,53,53,0,2021-07,2025-11
+Nagaland,Solar,53,53,0,2021-07,2025-11
+Nagaland,Wind,53,53,0,2021-07,2025-11
+Nagaland,Wind and Solar,53,53,0,2021-07,2025-11
+Odisha,Bioenergy,53,53,0,2021-07,2025-11
+Odisha,Clean,53,53,0,2021-07,2025-11
+Odisha,Coal,53,53,0,2021-07,2025-11
+Odisha,Fossil,53,53,0,2021-07,2025-11
+Odisha,Gas,53,53,0,2021-07,2025-11
+Odisha,Gas and Other Fossil,53,53,0,2021-07,2025-11
+Odisha,Hydro,53,53,0,2021-07,2025-11
+Odisha,"Hydro, Bioenergy and Other Renewables",53,53,0,2021-07,2025-11
+Odisha,Nuclear,53,53,0,2021-07,2025-11
+Odisha,Other Fossil,53,53,0,2021-07,2025-11
+Odisha,Other Renewables,53,14,39,2021-07,2025-11
+Odisha,Renewables,53,53,0,2021-07,2025-11
+Odisha,Solar,53,53,0,2021-07,2025-11
+Odisha,Wind,53,53,0,2021-07,2025-11
+Odisha,Wind and Solar,53,53,0,2021-07,2025-11
+Others,Bioenergy,14,14,0,2021-07,2022-08
+Others,Clean,14,14,0,2021-07,2022-08
+Others,Coal,14,14,0,2021-07,2022-08
+Others,Fossil,14,14,0,2021-07,2022-08
+Others,Gas,14,14,0,2021-07,2022-08
+Others,Gas and Other Fossil,14,14,0,2021-07,2022-08
+Others,Hydro,14,14,0,2021-07,2022-08
+Others,"Hydro, Bioenergy and Other Renewables",14,14,0,2021-07,2022-08
+Others,Nuclear,14,14,0,2021-07,2022-08
+Others,Other Fossil,14,14,0,2021-07,2022-08
+Others,Other Renewables,14,14,0,2021-07,2022-08
+Others,Renewables,14,14,0,2021-07,2022-08
+Others,Solar,14,14,0,2021-07,2022-08
+Others,Wind,14,14,0,2021-07,2022-08
+Others,Wind and Solar,14,14,0,2021-07,2022-08
+Puducherry,Bioenergy,53,53,0,2021-07,2025-11
+Puducherry,Clean,53,53,0,2021-07,2025-11
+Puducherry,Coal,53,53,0,2021-07,2025-11
+Puducherry,Fossil,53,53,0,2021-07,2025-11
+Puducherry,Gas,53,53,0,2021-07,2025-11
+Puducherry,Gas and Other Fossil,53,53,0,2021-07,2025-11
+Puducherry,Hydro,53,53,0,2021-07,2025-11
+Puducherry,"Hydro, Bioenergy and Other Renewables",53,53,0,2021-07,2025-11
+Puducherry,Nuclear,53,53,0,2021-07,2025-11
+Puducherry,Other Fossil,53,53,0,2021-07,2025-11
+Puducherry,Other Renewables,53,14,39,2021-07,2025-11
+Puducherry,Renewables,53,53,0,2021-07,2025-11
+Puducherry,Solar,53,53,0,2021-07,2025-11
+Puducherry,Wind,53,53,0,2021-07,2025-11
+Puducherry,Wind and Solar,53,53,0,2021-07,2025-11
+Punjab,Bioenergy,53,53,0,2021-07,2025-11
+Punjab,Clean,53,53,0,2021-07,2025-11
+Punjab,Coal,53,53,0,2021-07,2025-11
+Punjab,Fossil,53,53,0,2021-07,2025-11
+Punjab,Gas,53,53,0,2021-07,2025-11
+Punjab,Gas and Other Fossil,53,53,0,2021-07,2025-11
+Punjab,Hydro,53,53,0,2021-07,2025-11
+Punjab,"Hydro, Bioenergy and Other Renewables",53,53,0,2021-07,2025-11
+Punjab,Nuclear,53,53,0,2021-07,2025-11
+Punjab,Other Fossil,53,53,0,2021-07,2025-11
+Punjab,Other Renewables,53,14,39,2021-07,2025-11
+Punjab,Renewables,53,53,0,2021-07,2025-11
+Punjab,Solar,53,53,0,2021-07,2025-11
+Punjab,Wind,53,53,0,2021-07,2025-11
+Punjab,Wind and Solar,53,53,0,2021-07,2025-11
+Rajasthan,Bioenergy,53,53,0,2021-07,2025-11
+Rajasthan,Clean,53,53,0,2021-07,2025-11
+Rajasthan,Coal,53,53,0,2021-07,2025-11
+Rajasthan,Fossil,53,53,0,2021-07,2025-11
+Rajasthan,Gas,53,53,0,2021-07,2025-11
+Rajasthan,Gas and Other Fossil,53,53,0,2021-07,2025-11
+Rajasthan,Hydro,53,53,0,2021-07,2025-11
+Rajasthan,"Hydro, Bioenergy and Other Renewables",53,53,0,2021-07,2025-11
+Rajasthan,Nuclear,53,53,0,2021-07,2025-11
+Rajasthan,Other Fossil,53,53,0,2021-07,2025-11
+Rajasthan,Other Renewables,53,14,39,2021-07,2025-11
+Rajasthan,Renewables,53,53,0,2021-07,2025-11
+Rajasthan,Solar,53,53,0,2021-07,2025-11
+Rajasthan,Wind,53,53,0,2021-07,2025-11
+Rajasthan,Wind and Solar,53,53,0,2021-07,2025-11
+Sikkim,Bioenergy,53,53,0,2021-07,2025-11
+Sikkim,Clean,53,53,0,2021-07,2025-11
+Sikkim,Coal,53,53,0,2021-07,2025-11
+Sikkim,Fossil,53,53,0,2021-07,2025-11
+Sikkim,Gas,53,53,0,2021-07,2025-11
+Sikkim,Gas and Other Fossil,53,53,0,2021-07,2025-11
+Sikkim,Hydro,53,53,0,2021-07,2025-11
+Sikkim,"Hydro, Bioenergy and Other Renewables",53,53,0,2021-07,2025-11
+Sikkim,Nuclear,53,53,0,2021-07,2025-11
+Sikkim,Other Fossil,53,53,0,2021-07,2025-11
+Sikkim,Other Renewables,53,14,39,2021-07,2025-11
+Sikkim,Renewables,53,53,0,2021-07,2025-11
+Sikkim,Solar,53,53,0,2021-07,2025-11
+Sikkim,Wind,53,53,0,2021-07,2025-11
+Sikkim,Wind and Solar,53,53,0,2021-07,2025-11
+Tamil Nadu,Bioenergy,53,53,0,2021-07,2025-11
+Tamil Nadu,Clean,53,53,0,2021-07,2025-11
+Tamil Nadu,Coal,53,53,0,2021-07,2025-11
+Tamil Nadu,Fossil,53,53,0,2021-07,2025-11
+Tamil Nadu,Gas,53,53,0,2021-07,2025-11
+Tamil Nadu,Gas and Other Fossil,53,53,0,2021-07,2025-11
+Tamil Nadu,Hydro,53,53,0,2021-07,2025-11
+Tamil Nadu,"Hydro, Bioenergy and Other Renewables",53,53,0,2021-07,2025-11
+Tamil Nadu,Nuclear,53,53,0,2021-07,2025-11
+Tamil Nadu,Other Fossil,53,53,0,2021-07,2025-11
+Tamil Nadu,Other Renewables,53,14,39,2021-07,2025-11
+Tamil Nadu,Renewables,53,53,0,2021-07,2025-11
+Tamil Nadu,Solar,53,53,0,2021-07,2025-11
+Tamil Nadu,Wind,53,53,0,2021-07,2025-11
+Tamil Nadu,Wind and Solar,53,53,0,2021-07,2025-11
+Telangana,Bioenergy,53,53,0,2021-07,2025-11
+Telangana,Clean,53,53,0,2021-07,2025-11
+Telangana,Coal,53,53,0,2021-07,2025-11
+Telangana,Fossil,53,53,0,2021-07,2025-11
+Telangana,Gas,53,53,0,2021-07,2025-11
+Telangana,Gas and Other Fossil,53,53,0,2021-07,2025-11
+Telangana,Hydro,53,53,0,2021-07,2025-11
+Telangana,"Hydro, Bioenergy and Other Renewables",53,53,0,2021-07,2025-11
+Telangana,Nuclear,53,53,0,2021-07,2025-11
+Telangana,Other Fossil,53,53,0,2021-07,2025-11
+Telangana,Other Renewables,53,14,39,2021-07,2025-11
+Telangana,Renewables,53,53,0,2021-07,2025-11
+Telangana,Solar,53,53,0,2021-07,2025-11
+Telangana,Wind,53,53,0,2021-07,2025-11
+Telangana,Wind and Solar,53,53,0,2021-07,2025-11
+Tripura,Bioenergy,53,53,0,2021-07,2025-11
+Tripura,Clean,53,53,0,2021-07,2025-11
+Tripura,Coal,53,53,0,2021-07,2025-11
+Tripura,Fossil,53,53,0,2021-07,2025-11
+Tripura,Gas,53,53,0,2021-07,2025-11
+Tripura,Gas and Other Fossil,53,53,0,2021-07,2025-11
+Tripura,Hydro,53,53,0,2021-07,2025-11
+Tripura,"Hydro, Bioenergy and Other Renewables",53,53,0,2021-07,2025-11
+Tripura,Nuclear,53,53,0,2021-07,2025-11
+Tripura,Other Fossil,53,53,0,2021-07,2025-11
+Tripura,Other Renewables,53,14,39,2021-07,2025-11
+Tripura,Renewables,53,53,0,2021-07,2025-11
+Tripura,Solar,53,53,0,2021-07,2025-11
+Tripura,Wind,53,53,0,2021-07,2025-11
+Tripura,Wind and Solar,53,53,0,2021-07,2025-11
+Uttar Pradesh,Bioenergy,53,53,0,2021-07,2025-11
+Uttar Pradesh,Clean,53,53,0,2021-07,2025-11
+Uttar Pradesh,Coal,53,53,0,2021-07,2025-11
+Uttar Pradesh,Fossil,53,53,0,2021-07,2025-11
+Uttar Pradesh,Gas,53,53,0,2021-07,2025-11
+Uttar Pradesh,Gas and Other Fossil,53,53,0,2021-07,2025-11
+Uttar Pradesh,Hydro,53,53,0,2021-07,2025-11
+Uttar Pradesh,"Hydro, Bioenergy and Other Renewables",53,53,0,2021-07,2025-11
+Uttar Pradesh,Nuclear,53,53,0,2021-07,2025-11
+Uttar Pradesh,Other Fossil,53,53,0,2021-07,2025-11
+Uttar Pradesh,Other Renewables,53,14,39,2021-07,2025-11
+Uttar Pradesh,Renewables,53,53,0,2021-07,2025-11
+Uttar Pradesh,Solar,53,53,0,2021-07,2025-11
+Uttar Pradesh,Wind,53,53,0,2021-07,2025-11
+Uttar Pradesh,Wind and Solar,53,53,0,2021-07,2025-11
+Uttarakhand,Bioenergy,53,53,0,2021-07,2025-11
+Uttarakhand,Clean,53,53,0,2021-07,2025-11
+Uttarakhand,Coal,53,53,0,2021-07,2025-11
+Uttarakhand,Fossil,53,53,0,2021-07,2025-11
+Uttarakhand,Gas,53,53,0,2021-07,2025-11
+Uttarakhand,Gas and Other Fossil,53,53,0,2021-07,2025-11
+Uttarakhand,Hydro,53,53,0,2021-07,2025-11
+Uttarakhand,"Hydro, Bioenergy and Other Renewables",53,53,0,2021-07,2025-11
+Uttarakhand,Nuclear,53,53,0,2021-07,2025-11
+Uttarakhand,Other Fossil,53,53,0,2021-07,2025-11
+Uttarakhand,Other Renewables,53,14,39,2021-07,2025-11
+Uttarakhand,Renewables,53,53,0,2021-07,2025-11
+Uttarakhand,Solar,53,53,0,2021-07,2025-11
+Uttarakhand,Wind,53,53,0,2021-07,2025-11
+Uttarakhand,Wind and Solar,53,53,0,2021-07,2025-11
+West Bengal,Bioenergy,53,53,0,2021-07,2025-11
+West Bengal,Clean,53,53,0,2021-07,2025-11
+West Bengal,Coal,53,53,0,2021-07,2025-11
+West Bengal,Fossil,53,53,0,2021-07,2025-11
+West Bengal,Gas,53,53,0,2021-07,2025-11
+West Bengal,Gas and Other Fossil,53,53,0,2021-07,2025-11
+West Bengal,Hydro,53,53,0,2021-07,2025-11
+West Bengal,"Hydro, Bioenergy and Other Renewables",53,53,0,2021-07,2025-11
+West Bengal,Nuclear,53,53,0,2021-07,2025-11
+West Bengal,Other Fossil,53,53,0,2021-07,2025-11
+West Bengal,Other Renewables,53,14,39,2021-07,2025-11
+West Bengal,Renewables,53,53,0,2021-07,2025-11
+West Bengal,Solar,53,53,0,2021-07,2025-11
+West Bengal,Wind,53,53,0,2021-07,2025-11
+West Bengal,Wind and Solar,53,53,0,2021-07,2025-11

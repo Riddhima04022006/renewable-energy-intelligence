@@ -1,0 +1,12 @@
+.venv/
+venv/
+env/
+__pycache__/
+*.pyc
+.env
+.env.*
+!.env.example
+node_modules/
+.vercel/
+.DS_Store
+Thumbs.db

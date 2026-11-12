@@ -1,0 +1,1207 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="An interactive analysis of India's electricity generation mix, renewable energy, installed capacity and power-sector emissions.">
+
+    <title>Renewable Energy Intelligence | India</title>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;650;700;750;800&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+
+<header class="site-header">
+    <div class="header-container">
+        <a href="#overview" class="brand">
+            <span class="brand-name">Renewable Energy Intelligence</span>
+            <span class="brand-location">INDIA</span>
+        </a>
+
+        <nav class="nav-links" id="main-navigation">
+            <a href="#overview" class="active">Overview</a>
+            <a href="#national">National Trends</a>
+            <a href="#explorer">State Explorer</a>
+            <a href="#renewables">Renewable Sources</a>
+            <a href="#capacity">Capacity &amp; Emissions</a>
+            <a href="#methodology">Methodology</a>
+            <a href="#credits">Credits</a>
+        </nav>
+    </div>
+</header>
+
+
+<main>
+
+    <!-- =====================================================
+         OVERVIEW
+    ====================================================== -->
+
+    <section id="overview" class="page-section active">
+        <div class="section-container">
+
+            <div class="section-heading">
+                <div class="section-kicker">India | Electricity Sector</div>
+                <h1>Understanding India's Electricity Transition</h1>
+                <p>
+                    An analytical exploration of how electricity generation,
+                    renewable energy contributions, installed capacity and
+                    power-sector emissions vary across India and evolve over time.
+                </p>
+            </div>
+
+            <div class="overview-grid">
+
+                <article class="stat-card">
+                    <span class="stat-label">National dataset coverage</span>
+                    <span class="stat-value">2019–2025</span>
+                    <span class="stat-description">
+                        Monthly observations from January 2019 to November 2025.
+                    </span>
+                </article>
+
+                <article class="stat-card">
+                    <span class="stat-label">Regional analysis period</span>
+                    <span class="stat-value">2021–2025</span>
+                    <span class="stat-description">
+                        Common state and UT comparison period: July 2021–November 2025.
+                    </span>
+                </article>
+
+                <article class="stat-card">
+                    <span class="stat-label">Reporting regions</span>
+                    <span class="stat-value">36</span>
+                    <span class="stat-description">
+                        28 States and 8 Union Territories, using Ember reporting geography.
+                    </span>
+                </article>
+
+                <article class="stat-card">
+                    <span class="stat-label">Original dataset records</span>
+                    <span class="stat-value">238,200</span>
+                    <span class="stat-description">
+                        Monthly generation, capacity and power-sector emissions records.
+                    </span>
+                </article>
+
+            </div>
+
+
+            <div class="content-grid">
+
+                <article class="content-card">
+                    <h2>Research Question</h2>
+                    <p>
+                        How has the electricity generation mix across Indian
+                        States and Union Territories evolved over time, and
+                        how have renewable energy sources contributed to
+                        changes in regional and national electricity
+                        generation patterns?
+                    </p>
+                </article>
+
+                <article class="content-card">
+                    <h2>Analytical Scope</h2>
+                    <p>
+                        The project examines national generation trends,
+                        state-level renewable penetration, individual
+                        renewable sources, installed capacity, capacity
+                        factors and power-sector emissions.
+                    </p>
+                </article>
+
+            </div>
+
+
+            <div class="content-card">
+                <h2>Explore the Analysis</h2>
+                <p>
+                    The dashboard is organised into four analytical areas.
+                    Each section uses the audited Ember dataset and derived
+                    analytical outputs.
+                </p>
+
+                <div class="method-grid">
+
+                    <article class="method-card">
+                        <h3>A1 | National Generation Trends</h3>
+                        <p>
+                            Examine India's monthly and annual electricity
+                            generation, renewable and fossil contributions,
+                            and changes in the national generation mix.
+                        </p>
+                    </article>
+
+                    <article class="method-card">
+                        <h3>A2 | State and UT Explorer</h3>
+                        <p>
+                            Compare regional renewable generation,
+                            renewable share and state-level patterns
+                            using an interactive map.
+                        </p>
+                    </article>
+
+                    <article class="method-card">
+                        <h3>A3 | Renewable Source Analysis</h3>
+                        <p>
+                            Examine solar, wind, hydro, bioenergy and
+                            other renewable generation, including
+                            their changing contributions.
+                        </p>
+                    </article>
+
+                    <article class="method-card">
+                        <h3>A4 | Capacity and Emissions</h3>
+                        <p>
+                            Explore installed capacity, calculated
+                            capacity factors, absolute emissions and
+                            reported CO2 intensity.
+                        </p>
+                    </article>
+
+                </div>
+            </div>
+
+        </div>
+    </section>
+
+
+
+    <!-- =====================================================
+         A1 — NATIONAL TRENDS
+    ====================================================== -->
+
+    <section id="national" class="page-section">
+        <div class="section-container">
+
+            <div class="section-heading">
+                <div class="section-kicker">Analysis A1</div>
+                <h1>National Electricity Generation Trends</h1>
+                <p>
+                    A national-level examination of electricity generation
+                    and the changing contribution of renewable and fossil
+                    sources between January 2019 and November 2025.
+                </p>
+            </div>
+
+            <div class="metric-note">
+                National analysis uses the India Total reporting series.
+                The 2025 observations cover January–November only and
+                should not be interpreted as a complete calendar year.
+            </div>
+
+            <div class="analysis-controls">
+
+                <div class="analysis-control">
+                    <label for="national-period">Time resolution</label>
+                    <select id="national-period">
+                        <option value="monthly">Monthly</option>
+                        <option value="annual">Annual</option>
+                    </select>
+                </div>
+
+                <div class="analysis-control">
+                    <label for="national-metric">Generation metric</label>
+                    <select id="national-metric">
+                        <option value="total_generation">Total Generation</option>
+                        <option value="renewable_generation">Renewable Generation</option>
+                        <option value="fossil_generation">Fossil Generation</option>
+                        <option value="renewable_share">Renewable Share</option>
+                        <option value="fossil_share">Fossil Share</option>
+                    </select>
+                </div>
+
+            </div>
+
+            <div class="visual-grid">
+
+                <article class="chart-card full-width">
+                    <div class="chart-card-header">
+                        <div>
+                            <h2>National Generation Trend</h2>
+                            <p class="chart-subtitle">
+                                Monthly or annual electricity generation and selected metric.
+                            </p>
+                        </div>
+                        <span class="data-status" id="national-chart-status">
+                            Awaiting data connection
+                        </span>
+                    </div>
+
+                    <div class="chart-container">
+                        <canvas id="national-generation-chart"></canvas>
+                    </div>
+
+                    <p class="chart-note">
+                        Generation is measured in GWh. Share metrics are
+                        calculated from absolute generation values.
+                    </p>
+                </article>
+
+
+                <article class="chart-card">
+                    <div class="chart-card-header">
+                        <div>
+                            <h2>Renewable vs Fossil Generation</h2>
+                            <p class="chart-subtitle">
+                                Compare the two major generation groups over time.
+                            </p>
+                        </div>
+                    </div>
+
+                    <div class="chart-container">
+                        <canvas id="national-mix-chart"></canvas>
+                    </div>
+                </article>
+
+
+                <article class="chart-card">
+                    <div class="chart-card-header">
+                        <div>
+                            <h2>Annual Generation Mix</h2>
+                            <p class="chart-subtitle">
+                                Renewable and fossil shares of total generation.
+                            </p>
+                        </div>
+                    </div>
+
+                    <div class="chart-container">
+                        <canvas id="national-share-chart"></canvas>
+                    </div>
+                </article>
+
+            </div>
+
+
+            <div class="content-card">
+                <h2>How to Interpret This Analysis</h2>
+                <p>
+                    Absolute generation indicates the scale of electricity
+                    produced. Generation shares describe the relative
+                    contribution of each source group to total recorded
+                    generation. These are different measures: an increase
+                    in renewable generation does not automatically imply
+                    an equal increase in renewable share.
+                </p>
+            </div>
+
+        </div>
+    </section>
+
+
+
+    <!-- =====================================================
+         A2 — STATE EXPLORER
+    ====================================================== -->
+
+    <section id="explorer" class="page-section">
+        <div class="section-container">
+
+            <div class="section-heading">
+                <div class="section-kicker">Analysis A2</div>
+                <h1>State and Union Territory Explorer</h1>
+                <p>
+                    Explore how renewable electricity generation and
+                    related indicators differ across India's reporting
+                    regions.
+                </p>
+            </div>
+
+
+            <div class="dashboard-intro">
+                <div>
+                    <strong>Regional comparison period</strong>
+                    <span>July 2021 – November 2025</span>
+                </div>
+
+                <div>
+                    <strong>Reporting units</strong>
+                    <span>36 States and Union Territories</span>
+                </div>
+            </div>
+
+
+            <div class="filter-panel">
+
+                <div class="filter-group">
+                    <label for="metric-select">Metric</label>
+
+                    <select id="metric-select">
+                        <option value="renewable_share">Renewable Share (%)</option>
+                        <option value="fossil_share">Fossil Share (%)</option>
+                        <option value="renewable_generation">Renewable Generation (GWh)</option>
+                        <option value="solar_generation">Solar Generation (GWh)</option>
+                        <option value="wind_generation">Wind Generation (GWh)</option>
+                        <option value="hydro_generation">Hydro Generation (GWh)</option>
+                        <option value="bioenergy_generation">Bioenergy Generation (GWh)</option>
+                        <option value="renewable_capacity">Renewable Capacity (MW)</option>
+                        <option value="capacity_factor">Capacity Factor (%)</option>
+                        <option value="total_emissions">Total Emissions (ktCO2)</option>
+                        <option value="co2_intensity">CO2 Intensity (gCO2/kWh)</option>
+                    </select>
+                </div>
+
+
+                <div class="filter-group">
+                    <label for="period-select">Time resolution</label>
+
+                    <select id="period-select">
+                        <option value="monthly">Monthly</option>
+                        <option value="annual">Annual</option>
+                    </select>
+                </div>
+
+
+                <div class="filter-group">
+                    <label for="date-input">Select period</label>
+
+                    <input
+                        type="month"
+                        id="date-input"
+                        min="2021-07"
+                        max="2025-11"
+                        value="2025-11"
+                    >
+                </div>
+
+
+                <button id="reset-button" type="button">
+                    Reset
+                </button>
+
+            </div>
+
+
+            <p id="period-disclaimer" class="period-disclaimer">
+                Select a metric and period to explore regional values.
+            </p>
+
+
+            <div class="dashboard-grid">
+
+                <article class="map-panel">
+
+                    <div class="panel-heading">
+                        <div>
+                            <h2 id="map-title">Renewable Share</h2>
+                            <p>India | State and UT comparison</p>
+                        </div>
+
+                        <span id="metric-unit">%</span>
+                    </div>
+
+                    <div id="india-map">
+                        <div class="map-status">
+                            Loading regional map...
+                        </div>
+                    </div>
+
+                    <div id="map-legend" class="map-legend"></div>
+
+                </article>
+
+
+                <aside class="details-panel">
+
+                    <div class="panel-heading">
+                        <div>
+                            <h2>Region Details</h2>
+                            <p>Choose a region on the map.</p>
+                        </div>
+                    </div>
+
+                    <div id="region-details">
+                        <div class="details-placeholder">
+                            <p>
+                                Select a State or Union Territory to view
+                                its metric value and historical information.
+                            </p>
+                        </div>
+                    </div>
+
+                </aside>
+
+            </div>
+
+
+            <div class="metric-note">
+                <strong>Geographical reporting note:</strong>
+                The map represents Ember reporting units. Jammu and
+                Kashmir and Ladakh are separately reported from July
+                2021 onward. DNHDD is treated as one reporting unit.
+                India Total and Others are not displayed as geographic
+                regions.
+            </div>
+
+
+            <div class="visual-grid">
+
+                <article class="chart-card">
+                    <div class="chart-card-header">
+                        <div>
+                            <h2>Regional Historical Trend</h2>
+                            <p class="chart-subtitle">
+                                Historical observations for the selected region.
+                            </p>
+                        </div>
+                    </div>
+
+                    <div class="chart-container">
+                        <canvas id="region-trend-chart"></canvas>
+                    </div>
+                </article>
+
+
+                <article class="chart-card">
+                    <div class="chart-card-header">
+                        <div>
+                            <h2>Regional Comparison</h2>
+                            <p class="chart-subtitle">
+                                Compare selected regions using the current metric.
+                            </p>
+                        </div>
+                    </div>
+
+                    <div class="chart-container">
+                        <canvas id="region-comparison-chart"></canvas>
+                    </div>
+                </article>
+
+            </div>
+
+        </div>
+    </section>
+
+
+
+    <!-- =====================================================
+         A3 — RENEWABLE SOURCES
+    ====================================================== -->
+
+    <section id="renewables" class="page-section">
+        <div class="section-container">
+
+            <div class="section-heading">
+                <div class="section-kicker">Analysis A3</div>
+                <h1>Renewable Energy Source Analysis</h1>
+                <p>
+                    Examine the individual contributions of solar, wind,
+                    hydro, bioenergy and other renewable sources to
+                    India's electricity generation.
+                </p>
+            </div>
+
+
+            <div class="metric-note">
+                Renewable source totals are analysed separately.
+                Aggregate Renewables generation is not added to its
+                individual components, as this would double-count generation.
+            </div>
+
+
+            <div class="analysis-controls">
+
+                <div class="analysis-control">
+                    <label for="source-period">Time resolution</label>
+                    <select id="source-period">
+                        <option value="monthly">Monthly</option>
+                        <option value="annual">Annual</option>
+                    </select>
+                </div>
+
+                <div class="analysis-control">
+                    <label for="source-metric">Measure</label>
+                    <select id="source-metric">
+                        <option value="generation">Generation (GWh)</option>
+                        <option value="composition">Share of Renewable Generation (%)</option>
+                    </select>
+                </div>
+
+            </div>
+
+
+            <div class="visual-grid">
+
+                <article class="chart-card full-width">
+                    <div class="chart-card-header">
+                        <div>
+                            <h2>Renewable Generation by Source</h2>
+                            <p class="chart-subtitle">
+                                Monthly or annual generation from individual renewable sources.
+                            </p>
+                        </div>
+
+                        <span class="data-status" id="source-chart-status">
+                            Awaiting data connection
+                        </span>
+                    </div>
+
+                    <div class="chart-container">
+                        <canvas id="source-generation-chart"></canvas>
+                    </div>
+                </article>
+
+
+                <article class="chart-card">
+                    <div class="chart-card-header">
+                        <div>
+                            <h2>Renewable Source Composition</h2>
+                            <p class="chart-subtitle">
+                                Relative contribution of each source.
+                            </p>
+                        </div>
+                    </div>
+
+                    <div class="chart-container">
+                        <canvas id="source-composition-chart"></canvas>
+                    </div>
+                </article>
+
+
+                <article class="chart-card">
+                    <div class="chart-card-header">
+                        <div>
+                            <h2>Annual Source Comparison</h2>
+                            <p class="chart-subtitle">
+                                Compare changes in source-level generation.
+                            </p>
+                        </div>
+                    </div>
+
+                    <div class="chart-container">
+                        <canvas id="source-annual-chart"></canvas>
+                    </div>
+                </article>
+
+            </div>
+
+
+            <div class="content-card">
+                <h2>Analytical Considerations</h2>
+                <p>
+                    Generation and composition answer different questions.
+                    Generation measures how much electricity a source
+                    produces, while composition measures its contribution
+                    to total renewable generation. A source's composition
+                    share can decline even when its absolute generation
+                    increases, if other sources grow faster.
+                </p>
+            </div>
+
+        </div>
+    </section>
+
+
+
+    <!-- =====================================================
+         A4 — CAPACITY AND EMISSIONS
+    ====================================================== -->
+
+    <section id="capacity" class="page-section">
+        <div class="section-container">
+
+            <div class="section-heading">
+                <div class="section-kicker">Analysis A4</div>
+                <h1>Installed Capacity and Power-Sector Emissions</h1>
+                <p>
+                    Examine renewable installed capacity, source-level
+                    capacity factors, absolute power-sector emissions
+                    and reported CO2 intensity.
+                </p>
+            </div>
+
+
+            <div class="content-card">
+                <h2>Capacity Analysis</h2>
+                <p>
+                    Installed capacity represents the maximum rated
+                    generation capability of the recorded assets.
+                    Capacity factor compares actual generation with
+                    the theoretical generation possible at installed
+                    capacity over the observation period.
+                </p>
+            </div>
+
+
+            <div class="analysis-controls">
+
+                <div class="analysis-control">
+                    <label for="capacity-metric">Capacity measure</label>
+                    <select id="capacity-metric">
+                        <option value="renewable_capacity">Renewable Capacity (MW)</option>
+                        <option value="capacity_factor">Capacity Factor (%)</option>
+                    </select>
+                </div>
+
+                <div class="analysis-control">
+                    <label for="capacity-source">Energy source</label>
+                    <select id="capacity-source">
+                        <option value="all">All Renewable Sources</option>
+                        <option value="Solar">Solar</option>
+                        <option value="Wind">Wind</option>
+                        <option value="Hydro">Hydro</option>
+                        <option value="Bioenergy">Bioenergy</option>
+                    </select>
+                </div>
+
+            </div>
+
+
+            <div class="visual-grid">
+
+                <article class="chart-card full-width">
+                    <div class="chart-card-header">
+                        <div>
+                            <h2>Installed Capacity Trend</h2>
+                            <p class="chart-subtitle">
+                                National renewable installed capacity over time.
+                            </p>
+                        </div>
+                    </div>
+
+                    <div class="chart-container">
+                        <canvas id="capacity-trend-chart"></canvas>
+                    </div>
+                </article>
+
+
+                <article class="chart-card">
+                    <div class="chart-card-header">
+                        <div>
+                            <h2>Capacity by Renewable Source</h2>
+                            <p class="chart-subtitle">
+                                Installed capacity composition.
+                            </p>
+                        </div>
+                    </div>
+
+                    <div class="chart-container">
+                        <canvas id="capacity-source-chart"></canvas>
+                    </div>
+                </article>
+
+
+                <article class="chart-card">
+                    <div class="chart-card-header">
+                        <div>
+                            <h2>Capacity Factor by Source</h2>
+                            <p class="chart-subtitle">
+                                Generation relative to installed capacity.
+                            </p>
+                        </div>
+                    </div>
+
+                    <div class="chart-container">
+                        <canvas id="capacity-factor-chart"></canvas>
+                    </div>
+                </article>
+
+            </div>
+
+
+            <div class="method-note">
+                Capacity factor is calculated as:
+
+                <span class="formula">
+                    Capacity Factor (%) =
+                    Generation (GWh) × 1000 /
+                    [Capacity (MW) × Hours in Month] × 100
+                </span>
+
+                Values above 100% are treated as flagged observations,
+                not automatically as errors. Known anomalous series
+                require separate consideration in regional comparisons.
+            </div>
+
+
+            <div class="content-card">
+                <h2>Power-Sector Emissions</h2>
+                <p>
+                    Absolute emissions and emissions intensity provide
+                    different perspectives. Absolute emissions measure
+                    the reported emissions quantity, while CO2 intensity
+                    relates emissions to electricity generation.
+                    Neither measure alone establishes that changes in
+                    renewable generation caused changes in emissions.
+                </p>
+            </div>
+
+
+            <div class="analysis-controls">
+
+                <div class="analysis-control">
+                    <label for="emissions-metric">Emissions measure</label>
+                    <select id="emissions-metric">
+                        <option value="total_emissions">Absolute Emissions (ktCO2)</option>
+                        <option value="co2_intensity">CO2 Intensity (gCO2/kWh)</option>
+                    </select>
+                </div>
+
+            </div>
+
+
+            <div class="visual-grid">
+
+                <article class="chart-card">
+                    <div class="chart-card-header">
+                        <div>
+                            <h2>National Emissions Trend</h2>
+                            <p class="chart-subtitle">
+                                Monthly power-sector emissions.
+                            </p>
+                        </div>
+                    </div>
+
+                    <div class="chart-container">
+                        <canvas id="emissions-trend-chart"></canvas>
+                    </div>
+                </article>
+
+
+                <article class="chart-card">
+                    <div class="chart-card-header">
+                        <div>
+                            <h2>State Emissions Comparison</h2>
+                            <p class="chart-subtitle">
+                                Compare absolute emissions across reporting regions.
+                            </p>
+                        </div>
+                    </div>
+
+                    <div class="chart-container">
+                        <canvas id="emissions-state-chart"></canvas>
+                    </div>
+                </article>
+
+
+                <article class="chart-card full-width">
+                    <div class="chart-card-header">
+                        <div>
+                            <h2>State CO2 Intensity</h2>
+                            <p class="chart-subtitle">
+                                Compare emissions intensity across States and UTs.
+                            </p>
+                        </div>
+                    </div>
+
+                    <div class="chart-container">
+                        <canvas id="emissions-intensity-chart"></canvas>
+                    </div>
+                </article>
+
+            </div>
+
+
+            <div class="metric-note">
+                The source dataset labels emissions as ktCO2, while
+                its methodology documentation uses ktCO2e. The dashboard
+                retains the dataset's reported unit and discloses this
+                documentation inconsistency. Emissions percentage fields
+                are excluded because the audit identified that they
+                duplicate absolute emissions values.
+            </div>
+
+        </div>
+    </section>
+
+
+
+    <!-- =====================================================
+         METHODOLOGY AND DATA QUALITY
+    ====================================================== -->
+
+    <section id="methodology" class="page-section">
+        <div class="section-container">
+
+            <div class="section-heading">
+                <div class="section-kicker">Research Methodology</div>
+                <h1>Data Quality, Methodology and Limitations</h1>
+                <p>
+                    The analytical results are based on a structured
+                    review of the source dataset, coverage, missing
+                    observations, consistency and derived metrics.
+                </p>
+            </div>
+
+
+            <div class="content-card">
+                <h2>Dataset Profile</h2>
+
+                <div class="table-wrapper">
+                    <table class="data-table">
+                        <tbody>
+                            <tr>
+                                <th>Dataset</th>
+                                <td>Ember India Monthly Electricity Data</td>
+                            </tr>
+                            <tr>
+                                <th>Original records</th>
+                                <td>238,200</td>
+                            </tr>
+                            <tr>
+                                <th>Original variables</th>
+                                <td>13 columns</td>
+                            </tr>
+                            <tr>
+                                <th>Time coverage</th>
+                                <td>January 2019 – November 2025</td>
+                            </tr>
+                            <tr>
+                                <th>Geographic labels</th>
+                                <td>38, including India Total and Others</td>
+                            </tr>
+                            <tr>
+                                <th>Categories</th>
+                                <td>Electricity generation, capacity and power-sector emissions</td>
+                            </tr>
+                            <tr>
+                                <th>License</th>
+                                <td>CC BY 4.0</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+
+
+            <h2 class="subsection-heading">Data Quality Audit</h2>
+
+            <div class="method-grid">
+
+                <article class="method-card">
+                    <h3>D1 | Dataset Structure</h3>
+                    <p>
+                        Examined dimensions, fields, geographic labels,
+                        categories, variables, units and date coverage.
+                    </p>
+                </article>
+
+                <article class="method-card">
+                    <h3>D2 | Temporal Coverage</h3>
+                    <p>
+                        Checked monthly coverage and gaps across
+                        geographic reporting units and measurement series.
+                    </p>
+                </article>
+
+                <article class="method-card">
+                    <h3>D3 | Missing and Invalid Values</h3>
+                    <p>
+                        Identified blank values, non-numeric observations
+                        and metric-specific availability limitations.
+                    </p>
+                </article>
+
+                <article class="method-card">
+                    <h3>D4 | Zero-Value Analysis</h3>
+                    <p>
+                        Examined zero observations and their distribution.
+                        Zero values were not automatically treated as missing.
+                    </p>
+                </article>
+
+                <article class="method-card">
+                    <h3>D5 | Aggregate Consistency</h3>
+                    <p>
+                        Tested arithmetic relationships between aggregate
+                        variables and their reported components.
+                    </p>
+                </article>
+
+                <article class="method-card">
+                    <h3>D6 | Percentage Validation</h3>
+                    <p>
+                        Compared reported generation percentages with
+                        percentages recalculated from absolute generation.
+                    </p>
+                </article>
+
+                <article class="method-card">
+                    <h3>D7 | Derived Metric Validation</h3>
+                    <p>
+                        Examined calculated capacity factors, fuel
+                        emissions intensity and reported CO2 intensity.
+                    </p>
+                </article>
+
+                <article class="method-card">
+                    <h3>D8 | Geographic Reconciliation</h3>
+                    <p>
+                        Compared the sum of state and UT observations
+                        with India Total, accounting for Others and
+                        incomplete coverage.
+                    </p>
+                </article>
+
+                <article class="method-card">
+                    <h3>D9 | Outlier Screening</h3>
+                    <p>
+                        Applied an IQR-based screening procedure to
+                        identify unusual observations for review.
+                    </p>
+                </article>
+
+                <article class="method-card">
+                    <h3>D10 | Unresolved Data Questions</h3>
+                    <p>
+                        Documented unresolved source definitions,
+                        reporting changes, unit inconsistencies and
+                        other limitations.
+                    </p>
+                </article>
+
+            </div>
+
+
+            <h2 class="subsection-heading">Analytical Definitions</h2>
+
+            <div class="method-grid">
+
+                <article class="method-card">
+                    <h3>Renewable Share</h3>
+                    <span class="formula">
+                        Renewables Generation / Total Generation × 100
+                    </span>
+                    <p>
+                        Calculated from absolute GWh values rather than
+                        relying on the reported percentage field.
+                    </p>
+                </article>
+
+                <article class="method-card">
+                    <h3>Fossil Share</h3>
+                    <span class="formula">
+                        Fossil Generation / Total Generation × 100
+                    </span>
+                    <p>
+                        Represents the fossil contribution to total
+                        recorded electricity generation.
+                    </p>
+                </article>
+
+                <article class="method-card">
+                    <h3>State Contribution</h3>
+                    <span class="formula">
+                        State Renewable Generation /
+                        India Renewable Generation × 100
+                    </span>
+                    <p>
+                        Measures each state's contribution to national
+                        renewable generation.
+                    </p>
+                </article>
+
+                <article class="method-card">
+                    <h3>Year-on-Year Change</h3>
+                    <span class="formula">
+                        (Current Month − Previous-Year Month) /
+                        Previous-Year Month × 100
+                    </span>
+                    <p>
+                        Compares the same calendar month across years.
+                        Undefined when the baseline is zero or unavailable.
+                    </p>
+                </article>
+
+            </div>
+
+
+            <h2 class="subsection-heading">Important Interpretation Limits</h2>
+
+            <div class="method-grid">
+
+                <article class="method-card">
+                    <h3>Generation is not Consumption</h3>
+                    <p>
+                        The analysis concerns recorded electricity
+                        generation. It does not represent the complete
+                        electricity consumed within a state, including
+                        electricity imported from other regions.
+                    </p>
+                </article>
+
+                <article class="method-card">
+                    <h3>Reporting Geography</h3>
+                    <p>
+                        Historical reporting units may differ from
+                        current administrative boundaries. Combined
+                        historical values must not be interpreted as
+                        independent observations for each region.
+                    </p>
+                </article>
+
+                <article class="method-card">
+                    <h3>Incomplete Observations</h3>
+                    <p>
+                        Missing records are not automatically treated
+                        as zero. Metric-specific availability is
+                        considered when calculating comparisons.
+                    </p>
+                </article>
+
+                <article class="method-card">
+                    <h3>Partial Year 2025</h3>
+                    <p>
+                        National data ends in November 2025. Annual
+                        comparisons involving 2025 must account for
+                        its incomplete coverage.
+                    </p>
+                </article>
+
+                <article class="method-card">
+                    <h3>Capacity Factor Flags</h3>
+                    <p>
+                        Observations above 100% are flagged for
+                        investigation. They are not automatically
+                        assumed to be measurement errors.
+                    </p>
+                </article>
+
+                <article class="method-card">
+                    <h3>Emissions Interpretation</h3>
+                    <p>
+                        Emissions trends are descriptive. The analysis
+                        does not establish a causal relationship
+                        between renewable generation and emissions.
+                    </p>
+                </article>
+
+                <article class="method-card">
+                    <h3>Others Reporting Category</h3>
+                    <p>
+                        The Others category is not assigned to a
+                        geographic region or redistributed across
+                        States and Union Territories.
+                    </p>
+                </article>
+
+                <article class="method-card">
+                    <h3>Source and Measurement Uncertainty</h3>
+                    <p>
+                        Internal arithmetic consistency does not
+                        independently establish the accuracy of
+                        underlying source measurements.
+                    </p>
+                </article>
+
+            </div>
+
+        </div>
+    </section>
+
+
+
+    <!-- =====================================================
+         CREDITS
+    ====================================================== -->
+
+    <section id="credits" class="page-section">
+        <div class="section-container">
+
+            <div class="section-heading">
+                <div class="section-kicker">Project Information</div>
+                <h1>Data Sources and Credits</h1>
+                <p>
+                    Acknowledging the datasets, documentation and
+                    open-source technologies used in this project.
+                </p>
+            </div>
+
+
+            <div class="source-list">
+
+                <article class="source-item">
+                    <h3>Ember | India Monthly Electricity Data</h3>
+                    <p>
+                        Primary source for monthly electricity generation,
+                        installed capacity and power-sector emissions.
+                        Dataset license: CC BY 4.0.
+                    </p>
+                </article>
+
+                <article class="source-item">
+                    <h3>Central Electricity Authority (CEA)</h3>
+                    <p>
+                        Institutional reference for India's electricity
+                        sector and power-system reporting context.
+                    </p>
+                </article>
+
+                <article class="source-item">
+                    <h3>Ministry of New and Renewable Energy (MNRE)</h3>
+                    <p>
+                        Institutional reference for renewable energy
+                        development and sector context in India.
+                    </p>
+                </article>
+
+                <article class="source-item">
+                    <h3>Geographic Boundary Data</h3>
+                    <p>
+                        Provisional state and UT boundary geometry used
+                        to construct the interactive map. Boundary
+                        provenance and vintage should be considered
+                        separately from the Ember reporting data.
+                    </p>
+                </article>
+
+                <article class="source-item">
+                    <h3>Leaflet</h3>
+                    <p>
+                        Open-source JavaScript library used to render
+                        the interactive geographic map.
+                    </p>
+                </article>
+
+                <article class="source-item">
+                    <h3>Chart.js</h3>
+                    <p>
+                        JavaScript charting library used for analytical
+                        time-series and comparison visualisations.
+                    </p>
+                </article>
+
+            </div>
+
+
+            <div class="content-card">
+                <h2>Data Attribution</h2>
+                <p>
+                    Ember data is used under the Creative Commons
+                    Attribution 4.0 International license. The final
+                    project documentation should include the dataset's
+                    complete citation and the verified date on which
+                    the dataset was accessed.
+                </p>
+            </div>
+
+        </div>
+    </section>
+
+</main>
+
+
+<footer class="site-footer">
+    <div class="footer-container">
+        <p>Renewable Energy Intelligence | India</p>
+        <p>Research and analytical dashboard based on monthly electricity-sector data.</p>
+    </div>
+</footer>
+
+
+<!-- Libraries -->
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.7/dist/chart.umd.min.js"></script>
+
+<!-- Application -->
+<script src="js/app.js"></script>
+
+</body>
+</html>

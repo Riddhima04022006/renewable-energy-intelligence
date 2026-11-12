@@ -1,0 +1,33 @@
+Subcategory,Variable,Unit,Total_Records,Numeric_Values,Missing_Values,Zero_Values,Negative_Values,State_Labels,Months,First_Month,Last_Month
+Aggregate fuel,Clean,%,3085,3085,0,147,0,38,83,2019-01,2025-11
+Aggregate fuel,Clean,ktCO2,3085,3085,0,147,0,38,83,2019-01,2025-11
+Aggregate fuel,Fossil,%,3004,3004,0,1087,0,38,83,2019-01,2025-11
+Aggregate fuel,Fossil,ktCO2,3004,3004,0,1087,0,38,83,2019-01,2025-11
+Aggregate fuel,Gas and Other Fossil,%,3004,3004,0,1931,0,38,83,2019-01,2025-11
+Aggregate fuel,Gas and Other Fossil,ktCO2,3004,3004,0,1931,0,38,83,2019-01,2025-11
+Aggregate fuel,"Hydro, Bioenergy and Other Renewables",%,3085,3085,0,437,0,38,83,2019-01,2025-11
+Aggregate fuel,"Hydro, Bioenergy and Other Renewables",ktCO2,3085,3085,0,437,0,38,83,2019-01,2025-11
+Aggregate fuel,Renewables,%,3085,3085,0,147,0,38,83,2019-01,2025-11
+Aggregate fuel,Renewables,ktCO2,3085,3085,0,147,0,38,83,2019-01,2025-11
+Aggregate fuel,Wind and Solar,%,3085,3085,0,579,0,38,83,2019-01,2025-11
+Aggregate fuel,Wind and Solar,ktCO2,3085,3085,0,579,0,38,83,2019-01,2025-11
+CO2 intensity,CO2 intensity,gCO2/kWh,3085,3031,54,57,0,38,83,2019-01,2025-11
+Fuel,Bioenergy,%,3085,3085,0,1709,0,38,83,2019-01,2025-11
+Fuel,Bioenergy,ktCO2,3085,3085,0,1709,0,38,83,2019-01,2025-11
+Fuel,Coal,%,3004,3004,0,1476,0,38,83,2019-01,2025-11
+Fuel,Coal,ktCO2,3004,3004,0,1476,0,38,83,2019-01,2025-11
+Fuel,Gas,%,3004,3004,0,2024,0,38,83,2019-01,2025-11
+Fuel,Gas,ktCO2,3004,3004,0,2024,0,38,83,2019-01,2025-11
+Fuel,Hydro,%,3085,3085,0,659,0,38,83,2019-01,2025-11
+Fuel,Hydro,ktCO2,3085,3085,0,659,0,38,83,2019-01,2025-11
+Fuel,Nuclear,%,3004,3004,0,2423,0,38,83,2019-01,2025-11
+Fuel,Nuclear,ktCO2,3004,3004,0,2423,0,38,83,2019-01,2025-11
+Fuel,Other Fossil,%,3004,3004,0,2826,0,38,83,2019-01,2025-11
+Fuel,Other Fossil,ktCO2,3004,3004,0,2826,0,38,83,2019-01,2025-11
+Fuel,Other Renewables,%,3085,3085,0,2415,0,38,83,2019-01,2025-11
+Fuel,Other Renewables,ktCO2,3085,3085,0,2415,0,38,83,2019-01,2025-11
+Fuel,Solar,%,3085,3085,0,581,0,38,83,2019-01,2025-11
+Fuel,Solar,ktCO2,3085,3085,0,581,0,38,83,2019-01,2025-11
+Fuel,Wind,%,3085,3085,0,2245,0,38,83,2019-01,2025-11
+Fuel,Wind,ktCO2,3085,3085,0,2245,0,38,83,2019-01,2025-11
+Total,Total emissions,ktCO2,3085,3085,0,111,0,38,83,2019-01,2025-11

@@ -1,0 +1,1153 @@
+State,Subcategory,Variable,Unit,Records,Numeric_Values,Missing_Values,Zero_Values,Unique_Months,First_Month,Last_Month
+Andaman and Nicobar,Aggregate fuel,Clean,%,83,83,0,0,83,2019-01,2025-11
+Andaman and Nicobar,Aggregate fuel,Clean,ktCO2,83,83,0,0,83,2019-01,2025-11
+Andaman and Nicobar,Aggregate fuel,Fossil,%,83,83,0,0,83,2019-01,2025-11
+Andaman and Nicobar,Aggregate fuel,Fossil,ktCO2,83,83,0,0,83,2019-01,2025-11
+Andaman and Nicobar,Aggregate fuel,Gas and Other Fossil,%,83,83,0,0,83,2019-01,2025-11
+Andaman and Nicobar,Aggregate fuel,Gas and Other Fossil,ktCO2,83,83,0,0,83,2019-01,2025-11
+Andaman and Nicobar,Aggregate fuel,"Hydro, Bioenergy and Other Renewables",%,83,83,0,10,83,2019-01,2025-11
+Andaman and Nicobar,Aggregate fuel,"Hydro, Bioenergy and Other Renewables",ktCO2,83,83,0,10,83,2019-01,2025-11
+Andaman and Nicobar,Aggregate fuel,Renewables,%,83,83,0,0,83,2019-01,2025-11
+Andaman and Nicobar,Aggregate fuel,Renewables,ktCO2,83,83,0,0,83,2019-01,2025-11
+Andaman and Nicobar,Aggregate fuel,Wind and Solar,%,83,83,0,0,83,2019-01,2025-11
+Andaman and Nicobar,Aggregate fuel,Wind and Solar,ktCO2,83,83,0,0,83,2019-01,2025-11
+Andaman and Nicobar,CO2 intensity,CO2 intensity,gCO2/kWh,83,83,0,0,83,2019-01,2025-11
+Andaman and Nicobar,Fuel,Bioenergy,%,83,83,0,83,83,2019-01,2025-11
+Andaman and Nicobar,Fuel,Bioenergy,ktCO2,83,83,0,83,83,2019-01,2025-11
+Andaman and Nicobar,Fuel,Coal,%,83,83,0,83,83,2019-01,2025-11
+Andaman and Nicobar,Fuel,Coal,ktCO2,83,83,0,83,83,2019-01,2025-11
+Andaman and Nicobar,Fuel,Gas,%,83,83,0,83,83,2019-01,2025-11
+Andaman and Nicobar,Fuel,Gas,ktCO2,83,83,0,83,83,2019-01,2025-11
+Andaman and Nicobar,Fuel,Hydro,%,83,83,0,10,83,2019-01,2025-11
+Andaman and Nicobar,Fuel,Hydro,ktCO2,83,83,0,10,83,2019-01,2025-11
+Andaman and Nicobar,Fuel,Nuclear,%,83,83,0,83,83,2019-01,2025-11
+Andaman and Nicobar,Fuel,Nuclear,ktCO2,83,83,0,83,83,2019-01,2025-11
+Andaman and Nicobar,Fuel,Other Fossil,%,83,83,0,0,83,2019-01,2025-11
+Andaman and Nicobar,Fuel,Other Fossil,ktCO2,83,83,0,0,83,2019-01,2025-11
+Andaman and Nicobar,Fuel,Other Renewables,%,83,83,0,83,83,2019-01,2025-11
+Andaman and Nicobar,Fuel,Other Renewables,ktCO2,83,83,0,83,83,2019-01,2025-11
+Andaman and Nicobar,Fuel,Solar,%,83,83,0,0,83,2019-01,2025-11
+Andaman and Nicobar,Fuel,Solar,ktCO2,83,83,0,0,83,2019-01,2025-11
+Andaman and Nicobar,Fuel,Wind,%,83,83,0,83,83,2019-01,2025-11
+Andaman and Nicobar,Fuel,Wind,ktCO2,83,83,0,83,83,2019-01,2025-11
+Andaman and Nicobar,Total,Total emissions,ktCO2,83,83,0,0,83,2019-01,2025-11
+Andhra Pradesh,Aggregate fuel,Clean,%,83,83,0,0,83,2019-01,2025-11
+Andhra Pradesh,Aggregate fuel,Clean,ktCO2,83,83,0,0,83,2019-01,2025-11
+Andhra Pradesh,Aggregate fuel,Fossil,%,83,83,0,0,83,2019-01,2025-11
+Andhra Pradesh,Aggregate fuel,Fossil,ktCO2,83,83,0,0,83,2019-01,2025-11
+Andhra Pradesh,Aggregate fuel,Gas and Other Fossil,%,83,83,0,26,83,2019-01,2025-11
+Andhra Pradesh,Aggregate fuel,Gas and Other Fossil,ktCO2,83,83,0,26,83,2019-01,2025-11
+Andhra Pradesh,Aggregate fuel,"Hydro, Bioenergy and Other Renewables",%,83,83,0,0,83,2019-01,2025-11
+Andhra Pradesh,Aggregate fuel,"Hydro, Bioenergy and Other Renewables",ktCO2,83,83,0,0,83,2019-01,2025-11
+Andhra Pradesh,Aggregate fuel,Renewables,%,83,83,0,0,83,2019-01,2025-11
+Andhra Pradesh,Aggregate fuel,Renewables,ktCO2,83,83,0,0,83,2019-01,2025-11
+Andhra Pradesh,Aggregate fuel,Wind and Solar,%,83,83,0,0,83,2019-01,2025-11
+Andhra Pradesh,Aggregate fuel,Wind and Solar,ktCO2,83,83,0,0,83,2019-01,2025-11
+Andhra Pradesh,CO2 intensity,CO2 intensity,gCO2/kWh,83,83,0,0,83,2019-01,2025-11
+Andhra Pradesh,Fuel,Bioenergy,%,83,83,0,0,83,2019-01,2025-11
+Andhra Pradesh,Fuel,Bioenergy,ktCO2,83,83,0,0,83,2019-01,2025-11
+Andhra Pradesh,Fuel,Coal,%,83,83,0,0,83,2019-01,2025-11
+Andhra Pradesh,Fuel,Coal,ktCO2,83,83,0,0,83,2019-01,2025-11
+Andhra Pradesh,Fuel,Gas,%,83,83,0,26,83,2019-01,2025-11
+Andhra Pradesh,Fuel,Gas,ktCO2,83,83,0,26,83,2019-01,2025-11
+Andhra Pradesh,Fuel,Hydro,%,83,83,0,0,83,2019-01,2025-11
+Andhra Pradesh,Fuel,Hydro,ktCO2,83,83,0,0,83,2019-01,2025-11
+Andhra Pradesh,Fuel,Nuclear,%,83,83,0,83,83,2019-01,2025-11
+Andhra Pradesh,Fuel,Nuclear,ktCO2,83,83,0,83,83,2019-01,2025-11
+Andhra Pradesh,Fuel,Other Fossil,%,83,83,0,83,83,2019-01,2025-11
+Andhra Pradesh,Fuel,Other Fossil,ktCO2,83,83,0,83,83,2019-01,2025-11
+Andhra Pradesh,Fuel,Other Renewables,%,83,83,0,1,83,2019-01,2025-11
+Andhra Pradesh,Fuel,Other Renewables,ktCO2,83,83,0,1,83,2019-01,2025-11
+Andhra Pradesh,Fuel,Solar,%,83,83,0,0,83,2019-01,2025-11
+Andhra Pradesh,Fuel,Solar,ktCO2,83,83,0,0,83,2019-01,2025-11
+Andhra Pradesh,Fuel,Wind,%,83,83,0,0,83,2019-01,2025-11
+Andhra Pradesh,Fuel,Wind,ktCO2,83,83,0,0,83,2019-01,2025-11
+Andhra Pradesh,Total,Total emissions,ktCO2,83,83,0,0,83,2019-01,2025-11
+Arunachal Pradesh,Aggregate fuel,Clean,%,83,83,0,0,83,2019-01,2025-11
+Arunachal Pradesh,Aggregate fuel,Clean,ktCO2,83,83,0,0,83,2019-01,2025-11
+Arunachal Pradesh,Aggregate fuel,Fossil,%,83,83,0,83,83,2019-01,2025-11
+Arunachal Pradesh,Aggregate fuel,Fossil,ktCO2,83,83,0,83,83,2019-01,2025-11
+Arunachal Pradesh,Aggregate fuel,Gas and Other Fossil,%,83,83,0,83,83,2019-01,2025-11
+Arunachal Pradesh,Aggregate fuel,Gas and Other Fossil,ktCO2,83,83,0,83,83,2019-01,2025-11
+Arunachal Pradesh,Aggregate fuel,"Hydro, Bioenergy and Other Renewables",%,83,83,0,0,83,2019-01,2025-11
+Arunachal Pradesh,Aggregate fuel,"Hydro, Bioenergy and Other Renewables",ktCO2,83,83,0,0,83,2019-01,2025-11
+Arunachal Pradesh,Aggregate fuel,Renewables,%,83,83,0,0,83,2019-01,2025-11
+Arunachal Pradesh,Aggregate fuel,Renewables,ktCO2,83,83,0,0,83,2019-01,2025-11
+Arunachal Pradesh,Aggregate fuel,Wind and Solar,%,83,83,0,14,83,2019-01,2025-11
+Arunachal Pradesh,Aggregate fuel,Wind and Solar,ktCO2,83,83,0,14,83,2019-01,2025-11
+Arunachal Pradesh,CO2 intensity,CO2 intensity,gCO2/kWh,83,83,0,0,83,2019-01,2025-11
+Arunachal Pradesh,Fuel,Bioenergy,%,83,83,0,83,83,2019-01,2025-11
+Arunachal Pradesh,Fuel,Bioenergy,ktCO2,83,83,0,83,83,2019-01,2025-11
+Arunachal Pradesh,Fuel,Coal,%,83,83,0,83,83,2019-01,2025-11
+Arunachal Pradesh,Fuel,Coal,ktCO2,83,83,0,83,83,2019-01,2025-11
+Arunachal Pradesh,Fuel,Gas,%,83,83,0,83,83,2019-01,2025-11
+Arunachal Pradesh,Fuel,Gas,ktCO2,83,83,0,83,83,2019-01,2025-11
+Arunachal Pradesh,Fuel,Hydro,%,83,83,0,0,83,2019-01,2025-11
+Arunachal Pradesh,Fuel,Hydro,ktCO2,83,83,0,0,83,2019-01,2025-11
+Arunachal Pradesh,Fuel,Nuclear,%,83,83,0,83,83,2019-01,2025-11
+Arunachal Pradesh,Fuel,Nuclear,ktCO2,83,83,0,83,83,2019-01,2025-11
+Arunachal Pradesh,Fuel,Other Fossil,%,83,83,0,83,83,2019-01,2025-11
+Arunachal Pradesh,Fuel,Other Fossil,ktCO2,83,83,0,83,83,2019-01,2025-11
+Arunachal Pradesh,Fuel,Other Renewables,%,83,83,0,83,83,2019-01,2025-11
+Arunachal Pradesh,Fuel,Other Renewables,ktCO2,83,83,0,83,83,2019-01,2025-11
+Arunachal Pradesh,Fuel,Solar,%,83,83,0,14,83,2019-01,2025-11
+Arunachal Pradesh,Fuel,Solar,ktCO2,83,83,0,14,83,2019-01,2025-11
+Arunachal Pradesh,Fuel,Wind,%,83,83,0,83,83,2019-01,2025-11
+Arunachal Pradesh,Fuel,Wind,ktCO2,83,83,0,83,83,2019-01,2025-11
+Arunachal Pradesh,Total,Total emissions,ktCO2,83,83,0,0,83,2019-01,2025-11
+Assam,Aggregate fuel,Clean,%,83,83,0,0,83,2019-01,2025-11
+Assam,Aggregate fuel,Clean,ktCO2,83,83,0,0,83,2019-01,2025-11
+Assam,Aggregate fuel,Fossil,%,83,83,0,0,83,2019-01,2025-11
+Assam,Aggregate fuel,Fossil,ktCO2,83,83,0,0,83,2019-01,2025-11
+Assam,Aggregate fuel,Gas and Other Fossil,%,83,83,0,0,83,2019-01,2025-11
+Assam,Aggregate fuel,Gas and Other Fossil,ktCO2,83,83,0,0,83,2019-01,2025-11
+Assam,Aggregate fuel,"Hydro, Bioenergy and Other Renewables",%,83,83,0,0,83,2019-01,2025-11
+Assam,Aggregate fuel,"Hydro, Bioenergy and Other Renewables",ktCO2,83,83,0,0,83,2019-01,2025-11
+Assam,Aggregate fuel,Renewables,%,83,83,0,0,83,2019-01,2025-11
+Assam,Aggregate fuel,Renewables,ktCO2,83,83,0,0,83,2019-01,2025-11
+Assam,Aggregate fuel,Wind and Solar,%,83,83,0,0,83,2019-01,2025-11
+Assam,Aggregate fuel,Wind and Solar,ktCO2,83,83,0,0,83,2019-01,2025-11
+Assam,CO2 intensity,CO2 intensity,gCO2/kWh,83,83,0,0,83,2019-01,2025-11
+Assam,Fuel,Bioenergy,%,83,83,0,83,83,2019-01,2025-11
+Assam,Fuel,Bioenergy,ktCO2,83,83,0,83,83,2019-01,2025-11
+Assam,Fuel,Coal,%,83,83,0,0,83,2019-01,2025-11
+Assam,Fuel,Coal,ktCO2,83,83,0,0,83,2019-01,2025-11
+Assam,Fuel,Gas,%,83,83,0,0,83,2019-01,2025-11
+Assam,Fuel,Gas,ktCO2,83,83,0,0,83,2019-01,2025-11
+Assam,Fuel,Hydro,%,83,83,0,0,83,2019-01,2025-11
+Assam,Fuel,Hydro,ktCO2,83,83,0,0,83,2019-01,2025-11
+Assam,Fuel,Nuclear,%,83,83,0,83,83,2019-01,2025-11
+Assam,Fuel,Nuclear,ktCO2,83,83,0,83,83,2019-01,2025-11
+Assam,Fuel,Other Fossil,%,83,83,0,83,83,2019-01,2025-11
+Assam,Fuel,Other Fossil,ktCO2,83,83,0,83,83,2019-01,2025-11
+Assam,Fuel,Other Renewables,%,83,83,0,82,83,2019-01,2025-11
+Assam,Fuel,Other Renewables,ktCO2,83,83,0,82,83,2019-01,2025-11
+Assam,Fuel,Solar,%,83,83,0,0,83,2019-01,2025-11
+Assam,Fuel,Solar,ktCO2,83,83,0,0,83,2019-01,2025-11
+Assam,Fuel,Wind,%,83,83,0,83,83,2019-01,2025-11
+Assam,Fuel,Wind,ktCO2,83,83,0,83,83,2019-01,2025-11
+Assam,Total,Total emissions,ktCO2,83,83,0,0,83,2019-01,2025-11
+Bihar,Aggregate fuel,Clean,%,83,83,0,0,83,2019-01,2025-11
+Bihar,Aggregate fuel,Clean,ktCO2,83,83,0,0,83,2019-01,2025-11
+Bihar,Aggregate fuel,Fossil,%,83,83,0,0,83,2019-01,2025-11
+Bihar,Aggregate fuel,Fossil,ktCO2,83,83,0,0,83,2019-01,2025-11
+Bihar,Aggregate fuel,Gas and Other Fossil,%,83,83,0,83,83,2019-01,2025-11
+Bihar,Aggregate fuel,Gas and Other Fossil,ktCO2,83,83,0,83,83,2019-01,2025-11
+Bihar,Aggregate fuel,"Hydro, Bioenergy and Other Renewables",%,83,83,0,7,83,2019-01,2025-11
+Bihar,Aggregate fuel,"Hydro, Bioenergy and Other Renewables",ktCO2,83,83,0,7,83,2019-01,2025-11
+Bihar,Aggregate fuel,Renewables,%,83,83,0,0,83,2019-01,2025-11
+Bihar,Aggregate fuel,Renewables,ktCO2,83,83,0,0,83,2019-01,2025-11
+Bihar,Aggregate fuel,Wind and Solar,%,83,83,0,0,83,2019-01,2025-11
+Bihar,Aggregate fuel,Wind and Solar,ktCO2,83,83,0,0,83,2019-01,2025-11
+Bihar,CO2 intensity,CO2 intensity,gCO2/kWh,83,83,0,0,83,2019-01,2025-11
+Bihar,Fuel,Bioenergy,%,83,83,0,25,83,2019-01,2025-11
+Bihar,Fuel,Bioenergy,ktCO2,83,83,0,25,83,2019-01,2025-11
+Bihar,Fuel,Coal,%,83,83,0,0,83,2019-01,2025-11
+Bihar,Fuel,Coal,ktCO2,83,83,0,0,83,2019-01,2025-11
+Bihar,Fuel,Gas,%,83,83,0,83,83,2019-01,2025-11
+Bihar,Fuel,Gas,ktCO2,83,83,0,83,83,2019-01,2025-11
+Bihar,Fuel,Hydro,%,83,83,0,40,83,2019-01,2025-11
+Bihar,Fuel,Hydro,ktCO2,83,83,0,40,83,2019-01,2025-11
+Bihar,Fuel,Nuclear,%,83,83,0,83,83,2019-01,2025-11
+Bihar,Fuel,Nuclear,ktCO2,83,83,0,83,83,2019-01,2025-11
+Bihar,Fuel,Other Fossil,%,83,83,0,83,83,2019-01,2025-11
+Bihar,Fuel,Other Fossil,ktCO2,83,83,0,83,83,2019-01,2025-11
+Bihar,Fuel,Other Renewables,%,83,83,0,83,83,2019-01,2025-11
+Bihar,Fuel,Other Renewables,ktCO2,83,83,0,83,83,2019-01,2025-11
+Bihar,Fuel,Solar,%,83,83,0,0,83,2019-01,2025-11
+Bihar,Fuel,Solar,ktCO2,83,83,0,0,83,2019-01,2025-11
+Bihar,Fuel,Wind,%,83,83,0,83,83,2019-01,2025-11
+Bihar,Fuel,Wind,ktCO2,83,83,0,83,83,2019-01,2025-11
+Bihar,Total,Total emissions,ktCO2,83,83,0,0,83,2019-01,2025-11
+Chandigarh,Aggregate fuel,Clean,%,83,83,0,0,83,2019-01,2025-11
+Chandigarh,Aggregate fuel,Clean,ktCO2,83,83,0,0,83,2019-01,2025-11
+Chandigarh,Aggregate fuel,Fossil,%,44,44,0,44,44,2019-01,2022-08
+Chandigarh,Aggregate fuel,Fossil,ktCO2,44,44,0,44,44,2019-01,2022-08
+Chandigarh,Aggregate fuel,Gas and Other Fossil,%,44,44,0,44,44,2019-01,2022-08
+Chandigarh,Aggregate fuel,Gas and Other Fossil,ktCO2,44,44,0,44,44,2019-01,2022-08
+Chandigarh,Aggregate fuel,"Hydro, Bioenergy and Other Renewables",%,83,83,0,83,83,2019-01,2025-11
+Chandigarh,Aggregate fuel,"Hydro, Bioenergy and Other Renewables",ktCO2,83,83,0,83,83,2019-01,2025-11
+Chandigarh,Aggregate fuel,Renewables,%,83,83,0,0,83,2019-01,2025-11
+Chandigarh,Aggregate fuel,Renewables,ktCO2,83,83,0,0,83,2019-01,2025-11
+Chandigarh,Aggregate fuel,Wind and Solar,%,83,83,0,0,83,2019-01,2025-11
+Chandigarh,Aggregate fuel,Wind and Solar,ktCO2,83,83,0,0,83,2019-01,2025-11
+Chandigarh,CO2 intensity,CO2 intensity,gCO2/kWh,83,83,0,0,83,2019-01,2025-11
+Chandigarh,Fuel,Bioenergy,%,83,83,0,83,83,2019-01,2025-11
+Chandigarh,Fuel,Bioenergy,ktCO2,83,83,0,83,83,2019-01,2025-11
+Chandigarh,Fuel,Coal,%,44,44,0,44,44,2019-01,2022-08
+Chandigarh,Fuel,Coal,ktCO2,44,44,0,44,44,2019-01,2022-08
+Chandigarh,Fuel,Gas,%,44,44,0,44,44,2019-01,2022-08
+Chandigarh,Fuel,Gas,ktCO2,44,44,0,44,44,2019-01,2022-08
+Chandigarh,Fuel,Hydro,%,83,83,0,83,83,2019-01,2025-11
+Chandigarh,Fuel,Hydro,ktCO2,83,83,0,83,83,2019-01,2025-11
+Chandigarh,Fuel,Nuclear,%,44,44,0,44,44,2019-01,2022-08
+Chandigarh,Fuel,Nuclear,ktCO2,44,44,0,44,44,2019-01,2022-08
+Chandigarh,Fuel,Other Fossil,%,44,44,0,44,44,2019-01,2022-08
+Chandigarh,Fuel,Other Fossil,ktCO2,44,44,0,44,44,2019-01,2022-08
+Chandigarh,Fuel,Other Renewables,%,83,83,0,83,83,2019-01,2025-11
+Chandigarh,Fuel,Other Renewables,ktCO2,83,83,0,83,83,2019-01,2025-11
+Chandigarh,Fuel,Solar,%,83,83,0,0,83,2019-01,2025-11
+Chandigarh,Fuel,Solar,ktCO2,83,83,0,0,83,2019-01,2025-11
+Chandigarh,Fuel,Wind,%,83,83,0,83,83,2019-01,2025-11
+Chandigarh,Fuel,Wind,ktCO2,83,83,0,83,83,2019-01,2025-11
+Chandigarh,Total,Total emissions,ktCO2,83,83,0,0,83,2019-01,2025-11
+Chhattisgarh,Aggregate fuel,Clean,%,83,83,0,0,83,2019-01,2025-11
+Chhattisgarh,Aggregate fuel,Clean,ktCO2,83,83,0,0,83,2019-01,2025-11
+Chhattisgarh,Aggregate fuel,Fossil,%,83,83,0,0,83,2019-01,2025-11
+Chhattisgarh,Aggregate fuel,Fossil,ktCO2,83,83,0,0,83,2019-01,2025-11
+Chhattisgarh,Aggregate fuel,Gas and Other Fossil,%,83,83,0,83,83,2019-01,2025-11
+Chhattisgarh,Aggregate fuel,Gas and Other Fossil,ktCO2,83,83,0,83,83,2019-01,2025-11
+Chhattisgarh,Aggregate fuel,"Hydro, Bioenergy and Other Renewables",%,83,83,0,0,83,2019-01,2025-11
+Chhattisgarh,Aggregate fuel,"Hydro, Bioenergy and Other Renewables",ktCO2,83,83,0,0,83,2019-01,2025-11
+Chhattisgarh,Aggregate fuel,Renewables,%,83,83,0,0,83,2019-01,2025-11
+Chhattisgarh,Aggregate fuel,Renewables,ktCO2,83,83,0,0,83,2019-01,2025-11
+Chhattisgarh,Aggregate fuel,Wind and Solar,%,83,83,0,0,83,2019-01,2025-11
+Chhattisgarh,Aggregate fuel,Wind and Solar,ktCO2,83,83,0,0,83,2019-01,2025-11
+Chhattisgarh,CO2 intensity,CO2 intensity,gCO2/kWh,83,83,0,0,83,2019-01,2025-11
+Chhattisgarh,Fuel,Bioenergy,%,83,83,0,0,83,2019-01,2025-11
+Chhattisgarh,Fuel,Bioenergy,ktCO2,83,83,0,0,83,2019-01,2025-11
+Chhattisgarh,Fuel,Coal,%,83,83,0,0,83,2019-01,2025-11
+Chhattisgarh,Fuel,Coal,ktCO2,83,83,0,0,83,2019-01,2025-11
+Chhattisgarh,Fuel,Gas,%,83,83,0,83,83,2019-01,2025-11
+Chhattisgarh,Fuel,Gas,ktCO2,83,83,0,83,83,2019-01,2025-11
+Chhattisgarh,Fuel,Hydro,%,83,83,0,0,83,2019-01,2025-11
+Chhattisgarh,Fuel,Hydro,ktCO2,83,83,0,0,83,2019-01,2025-11
+Chhattisgarh,Fuel,Nuclear,%,83,83,0,83,83,2019-01,2025-11
+Chhattisgarh,Fuel,Nuclear,ktCO2,83,83,0,83,83,2019-01,2025-11
+Chhattisgarh,Fuel,Other Fossil,%,83,83,0,83,83,2019-01,2025-11
+Chhattisgarh,Fuel,Other Fossil,ktCO2,83,83,0,83,83,2019-01,2025-11
+Chhattisgarh,Fuel,Other Renewables,%,83,83,0,83,83,2019-01,2025-11
+Chhattisgarh,Fuel,Other Renewables,ktCO2,83,83,0,83,83,2019-01,2025-11
+Chhattisgarh,Fuel,Solar,%,83,83,0,0,83,2019-01,2025-11
+Chhattisgarh,Fuel,Solar,ktCO2,83,83,0,0,83,2019-01,2025-11
+Chhattisgarh,Fuel,Wind,%,83,83,0,83,83,2019-01,2025-11
+Chhattisgarh,Fuel,Wind,ktCO2,83,83,0,83,83,2019-01,2025-11
+Chhattisgarh,Total,Total emissions,ktCO2,83,83,0,0,83,2019-01,2025-11
+Dadra and Nagar Haveli and Daman and Diu,Aggregate fuel,Clean,%,83,83,0,0,83,2019-01,2025-11
+Dadra and Nagar Haveli and Daman and Diu,Aggregate fuel,Clean,ktCO2,83,83,0,0,83,2019-01,2025-11
+Dadra and Nagar Haveli and Daman and Diu,Aggregate fuel,Fossil,%,44,44,0,44,44,2019-01,2022-08
+Dadra and Nagar Haveli and Daman and Diu,Aggregate fuel,Fossil,ktCO2,44,44,0,44,44,2019-01,2022-08
+Dadra and Nagar Haveli and Daman and Diu,Aggregate fuel,Gas and Other Fossil,%,44,44,0,44,44,2019-01,2022-08
+Dadra and Nagar Haveli and Daman and Diu,Aggregate fuel,Gas and Other Fossil,ktCO2,44,44,0,44,44,2019-01,2022-08
+Dadra and Nagar Haveli and Daman and Diu,Aggregate fuel,"Hydro, Bioenergy and Other Renewables",%,83,83,0,26,83,2019-01,2025-11
+Dadra and Nagar Haveli and Daman and Diu,Aggregate fuel,"Hydro, Bioenergy and Other Renewables",ktCO2,83,83,0,26,83,2019-01,2025-11
+Dadra and Nagar Haveli and Daman and Diu,Aggregate fuel,Renewables,%,83,83,0,0,83,2019-01,2025-11
+Dadra and Nagar Haveli and Daman and Diu,Aggregate fuel,Renewables,ktCO2,83,83,0,0,83,2019-01,2025-11
+Dadra and Nagar Haveli and Daman and Diu,Aggregate fuel,Wind and Solar,%,83,83,0,0,83,2019-01,2025-11
+Dadra and Nagar Haveli and Daman and Diu,Aggregate fuel,Wind and Solar,ktCO2,83,83,0,0,83,2019-01,2025-11
+Dadra and Nagar Haveli and Daman and Diu,CO2 intensity,CO2 intensity,gCO2/kWh,83,83,0,0,83,2019-01,2025-11
+Dadra and Nagar Haveli and Daman and Diu,Fuel,Bioenergy,%,83,83,0,26,83,2019-01,2025-11
+Dadra and Nagar Haveli and Daman and Diu,Fuel,Bioenergy,ktCO2,83,83,0,26,83,2019-01,2025-11
+Dadra and Nagar Haveli and Daman and Diu,Fuel,Coal,%,44,44,0,44,44,2019-01,2022-08
+Dadra and Nagar Haveli and Daman and Diu,Fuel,Coal,ktCO2,44,44,0,44,44,2019-01,2022-08
+Dadra and Nagar Haveli and Daman and Diu,Fuel,Gas,%,44,44,0,44,44,2019-01,2022-08
+Dadra and Nagar Haveli and Daman and Diu,Fuel,Gas,ktCO2,44,44,0,44,44,2019-01,2022-08
+Dadra and Nagar Haveli and Daman and Diu,Fuel,Hydro,%,83,83,0,83,83,2019-01,2025-11
+Dadra and Nagar Haveli and Daman and Diu,Fuel,Hydro,ktCO2,83,83,0,83,83,2019-01,2025-11
+Dadra and Nagar Haveli and Daman and Diu,Fuel,Nuclear,%,44,44,0,44,44,2019-01,2022-08
+Dadra and Nagar Haveli and Daman and Diu,Fuel,Nuclear,ktCO2,44,44,0,44,44,2019-01,2022-08
+Dadra and Nagar Haveli and Daman and Diu,Fuel,Other Fossil,%,44,44,0,44,44,2019-01,2022-08
+Dadra and Nagar Haveli and Daman and Diu,Fuel,Other Fossil,ktCO2,44,44,0,44,44,2019-01,2022-08
+Dadra and Nagar Haveli and Daman and Diu,Fuel,Other Renewables,%,83,83,0,83,83,2019-01,2025-11
+Dadra and Nagar Haveli and Daman and Diu,Fuel,Other Renewables,ktCO2,83,83,0,83,83,2019-01,2025-11
+Dadra and Nagar Haveli and Daman and Diu,Fuel,Solar,%,83,83,0,0,83,2019-01,2025-11
+Dadra and Nagar Haveli and Daman and Diu,Fuel,Solar,ktCO2,83,83,0,0,83,2019-01,2025-11
+Dadra and Nagar Haveli and Daman and Diu,Fuel,Wind,%,83,83,0,83,83,2019-01,2025-11
+Dadra and Nagar Haveli and Daman and Diu,Fuel,Wind,ktCO2,83,83,0,83,83,2019-01,2025-11
+Dadra and Nagar Haveli and Daman and Diu,Total,Total emissions,ktCO2,83,83,0,0,83,2019-01,2025-11
+Delhi,Aggregate fuel,Clean,%,83,83,0,0,83,2019-01,2025-11
+Delhi,Aggregate fuel,Clean,ktCO2,83,83,0,0,83,2019-01,2025-11
+Delhi,Aggregate fuel,Fossil,%,83,83,0,0,83,2019-01,2025-11
+Delhi,Aggregate fuel,Fossil,ktCO2,83,83,0,0,83,2019-01,2025-11
+Delhi,Aggregate fuel,Gas and Other Fossil,%,83,83,0,0,83,2019-01,2025-11
+Delhi,Aggregate fuel,Gas and Other Fossil,ktCO2,83,83,0,0,83,2019-01,2025-11
+Delhi,Aggregate fuel,"Hydro, Bioenergy and Other Renewables",%,83,83,0,0,83,2019-01,2025-11
+Delhi,Aggregate fuel,"Hydro, Bioenergy and Other Renewables",ktCO2,83,83,0,0,83,2019-01,2025-11
+Delhi,Aggregate fuel,Renewables,%,83,83,0,0,83,2019-01,2025-11
+Delhi,Aggregate fuel,Renewables,ktCO2,83,83,0,0,83,2019-01,2025-11
+Delhi,Aggregate fuel,Wind and Solar,%,83,83,0,0,83,2019-01,2025-11
+Delhi,Aggregate fuel,Wind and Solar,ktCO2,83,83,0,0,83,2019-01,2025-11
+Delhi,CO2 intensity,CO2 intensity,gCO2/kWh,83,83,0,0,83,2019-01,2025-11
+Delhi,Fuel,Bioenergy,%,83,83,0,83,83,2019-01,2025-11
+Delhi,Fuel,Bioenergy,ktCO2,83,83,0,83,83,2019-01,2025-11
+Delhi,Fuel,Coal,%,83,83,0,83,83,2019-01,2025-11
+Delhi,Fuel,Coal,ktCO2,83,83,0,83,83,2019-01,2025-11
+Delhi,Fuel,Gas,%,83,83,0,0,83,2019-01,2025-11
+Delhi,Fuel,Gas,ktCO2,83,83,0,0,83,2019-01,2025-11
+Delhi,Fuel,Hydro,%,83,83,0,83,83,2019-01,2025-11
+Delhi,Fuel,Hydro,ktCO2,83,83,0,83,83,2019-01,2025-11
+Delhi,Fuel,Nuclear,%,83,83,0,83,83,2019-01,2025-11
+Delhi,Fuel,Nuclear,ktCO2,83,83,0,83,83,2019-01,2025-11
+Delhi,Fuel,Other Fossil,%,83,83,0,83,83,2019-01,2025-11
+Delhi,Fuel,Other Fossil,ktCO2,83,83,0,83,83,2019-01,2025-11
+Delhi,Fuel,Other Renewables,%,83,83,0,0,83,2019-01,2025-11
+Delhi,Fuel,Other Renewables,ktCO2,83,83,0,0,83,2019-01,2025-11
+Delhi,Fuel,Solar,%,83,83,0,0,83,2019-01,2025-11
+Delhi,Fuel,Solar,ktCO2,83,83,0,0,83,2019-01,2025-11
+Delhi,Fuel,Wind,%,83,83,0,83,83,2019-01,2025-11
+Delhi,Fuel,Wind,ktCO2,83,83,0,83,83,2019-01,2025-11
+Delhi,Total,Total emissions,ktCO2,83,83,0,0,83,2019-01,2025-11
+Goa,Aggregate fuel,Clean,%,83,83,0,19,83,2019-01,2025-11
+Goa,Aggregate fuel,Clean,ktCO2,83,83,0,19,83,2019-01,2025-11
+Goa,Aggregate fuel,Fossil,%,83,83,0,83,83,2019-01,2025-11
+Goa,Aggregate fuel,Fossil,ktCO2,83,83,0,83,83,2019-01,2025-11
+Goa,Aggregate fuel,Gas and Other Fossil,%,83,83,0,83,83,2019-01,2025-11
+Goa,Aggregate fuel,Gas and Other Fossil,ktCO2,83,83,0,83,83,2019-01,2025-11
+Goa,Aggregate fuel,"Hydro, Bioenergy and Other Renewables",%,83,83,0,37,83,2019-01,2025-11
+Goa,Aggregate fuel,"Hydro, Bioenergy and Other Renewables",ktCO2,83,83,0,37,83,2019-01,2025-11
+Goa,Aggregate fuel,Renewables,%,83,83,0,19,83,2019-01,2025-11
+Goa,Aggregate fuel,Renewables,ktCO2,83,83,0,19,83,2019-01,2025-11
+Goa,Aggregate fuel,Wind and Solar,%,83,83,0,19,83,2019-01,2025-11
+Goa,Aggregate fuel,Wind and Solar,ktCO2,83,83,0,19,83,2019-01,2025-11
+Goa,CO2 intensity,CO2 intensity,gCO2/kWh,83,74,9,10,83,2019-01,2025-11
+Goa,Fuel,Bioenergy,%,83,83,0,83,83,2019-01,2025-11
+Goa,Fuel,Bioenergy,ktCO2,83,83,0,83,83,2019-01,2025-11
+Goa,Fuel,Coal,%,83,83,0,83,83,2019-01,2025-11
+Goa,Fuel,Coal,ktCO2,83,83,0,83,83,2019-01,2025-11
+Goa,Fuel,Gas,%,83,83,0,83,83,2019-01,2025-11
+Goa,Fuel,Gas,ktCO2,83,83,0,83,83,2019-01,2025-11
+Goa,Fuel,Hydro,%,83,83,0,83,83,2019-01,2025-11
+Goa,Fuel,Hydro,ktCO2,83,83,0,83,83,2019-01,2025-11
+Goa,Fuel,Nuclear,%,83,83,0,83,83,2019-01,2025-11
+Goa,Fuel,Nuclear,ktCO2,83,83,0,83,83,2019-01,2025-11
+Goa,Fuel,Other Fossil,%,83,83,0,83,83,2019-01,2025-11
+Goa,Fuel,Other Fossil,ktCO2,83,83,0,83,83,2019-01,2025-11
+Goa,Fuel,Other Renewables,%,83,83,0,37,83,2019-01,2025-11
+Goa,Fuel,Other Renewables,ktCO2,83,83,0,37,83,2019-01,2025-11
+Goa,Fuel,Solar,%,83,83,0,19,83,2019-01,2025-11
+Goa,Fuel,Solar,ktCO2,83,83,0,19,83,2019-01,2025-11
+Goa,Fuel,Wind,%,83,83,0,83,83,2019-01,2025-11
+Goa,Fuel,Wind,ktCO2,83,83,0,83,83,2019-01,2025-11
+Goa,Total,Total emissions,ktCO2,83,83,0,19,83,2019-01,2025-11
+Gujarat,Aggregate fuel,Clean,%,83,83,0,0,83,2019-01,2025-11
+Gujarat,Aggregate fuel,Clean,ktCO2,83,83,0,0,83,2019-01,2025-11
+Gujarat,Aggregate fuel,Fossil,%,83,83,0,0,83,2019-01,2025-11
+Gujarat,Aggregate fuel,Fossil,ktCO2,83,83,0,0,83,2019-01,2025-11
+Gujarat,Aggregate fuel,Gas and Other Fossil,%,83,83,0,0,83,2019-01,2025-11
+Gujarat,Aggregate fuel,Gas and Other Fossil,ktCO2,83,83,0,0,83,2019-01,2025-11
+Gujarat,Aggregate fuel,"Hydro, Bioenergy and Other Renewables",%,83,83,0,0,83,2019-01,2025-11
+Gujarat,Aggregate fuel,"Hydro, Bioenergy and Other Renewables",ktCO2,83,83,0,0,83,2019-01,2025-11
+Gujarat,Aggregate fuel,Renewables,%,83,83,0,0,83,2019-01,2025-11
+Gujarat,Aggregate fuel,Renewables,ktCO2,83,83,0,0,83,2019-01,2025-11
+Gujarat,Aggregate fuel,Wind and Solar,%,83,83,0,0,83,2019-01,2025-11
+Gujarat,Aggregate fuel,Wind and Solar,ktCO2,83,83,0,0,83,2019-01,2025-11
+Gujarat,CO2 intensity,CO2 intensity,gCO2/kWh,83,83,0,0,83,2019-01,2025-11
+Gujarat,Fuel,Bioenergy,%,83,83,0,24,83,2019-01,2025-11
+Gujarat,Fuel,Bioenergy,ktCO2,83,83,0,24,83,2019-01,2025-11
+Gujarat,Fuel,Coal,%,83,83,0,0,83,2019-01,2025-11
+Gujarat,Fuel,Coal,ktCO2,83,83,0,0,83,2019-01,2025-11
+Gujarat,Fuel,Gas,%,83,83,0,0,83,2019-01,2025-11
+Gujarat,Fuel,Gas,ktCO2,83,83,0,0,83,2019-01,2025-11
+Gujarat,Fuel,Hydro,%,83,83,0,0,83,2019-01,2025-11
+Gujarat,Fuel,Hydro,ktCO2,83,83,0,0,83,2019-01,2025-11
+Gujarat,Fuel,Nuclear,%,83,83,0,0,83,2019-01,2025-11
+Gujarat,Fuel,Nuclear,ktCO2,83,83,0,0,83,2019-01,2025-11
+Gujarat,Fuel,Other Fossil,%,83,83,0,83,83,2019-01,2025-11
+Gujarat,Fuel,Other Fossil,ktCO2,83,83,0,83,83,2019-01,2025-11
+Gujarat,Fuel,Other Renewables,%,83,83,0,76,83,2019-01,2025-11
+Gujarat,Fuel,Other Renewables,ktCO2,83,83,0,76,83,2019-01,2025-11
+Gujarat,Fuel,Solar,%,83,83,0,0,83,2019-01,2025-11
+Gujarat,Fuel,Solar,ktCO2,83,83,0,0,83,2019-01,2025-11
+Gujarat,Fuel,Wind,%,83,83,0,0,83,2019-01,2025-11
+Gujarat,Fuel,Wind,ktCO2,83,83,0,0,83,2019-01,2025-11
+Gujarat,Total,Total emissions,ktCO2,83,83,0,0,83,2019-01,2025-11
+Haryana,Aggregate fuel,Clean,%,83,83,0,0,83,2019-01,2025-11
+Haryana,Aggregate fuel,Clean,ktCO2,83,83,0,0,83,2019-01,2025-11
+Haryana,Aggregate fuel,Fossil,%,83,83,0,0,83,2019-01,2025-11
+Haryana,Aggregate fuel,Fossil,ktCO2,83,83,0,0,83,2019-01,2025-11
+Haryana,Aggregate fuel,Gas and Other Fossil,%,83,83,0,39,83,2019-01,2025-11
+Haryana,Aggregate fuel,Gas and Other Fossil,ktCO2,83,83,0,39,83,2019-01,2025-11
+Haryana,Aggregate fuel,"Hydro, Bioenergy and Other Renewables",%,83,83,0,0,83,2019-01,2025-11
+Haryana,Aggregate fuel,"Hydro, Bioenergy and Other Renewables",ktCO2,83,83,0,0,83,2019-01,2025-11
+Haryana,Aggregate fuel,Renewables,%,83,83,0,0,83,2019-01,2025-11
+Haryana,Aggregate fuel,Renewables,ktCO2,83,83,0,0,83,2019-01,2025-11
+Haryana,Aggregate fuel,Wind and Solar,%,83,83,0,0,83,2019-01,2025-11
+Haryana,Aggregate fuel,Wind and Solar,ktCO2,83,83,0,0,83,2019-01,2025-11
+Haryana,CO2 intensity,CO2 intensity,gCO2/kWh,83,83,0,0,83,2019-01,2025-11
+Haryana,Fuel,Bioenergy,%,83,83,0,0,83,2019-01,2025-11
+Haryana,Fuel,Bioenergy,ktCO2,83,83,0,0,83,2019-01,2025-11
+Haryana,Fuel,Coal,%,83,83,0,0,83,2019-01,2025-11
+Haryana,Fuel,Coal,ktCO2,83,83,0,0,83,2019-01,2025-11
+Haryana,Fuel,Gas,%,83,83,0,39,83,2019-01,2025-11
+Haryana,Fuel,Gas,ktCO2,83,83,0,39,83,2019-01,2025-11
+Haryana,Fuel,Hydro,%,83,83,0,0,83,2019-01,2025-11
+Haryana,Fuel,Hydro,ktCO2,83,83,0,0,83,2019-01,2025-11
+Haryana,Fuel,Nuclear,%,83,83,0,83,83,2019-01,2025-11
+Haryana,Fuel,Nuclear,ktCO2,83,83,0,83,83,2019-01,2025-11
+Haryana,Fuel,Other Fossil,%,83,83,0,83,83,2019-01,2025-11
+Haryana,Fuel,Other Fossil,ktCO2,83,83,0,83,83,2019-01,2025-11
+Haryana,Fuel,Other Renewables,%,83,83,0,33,83,2019-01,2025-11
+Haryana,Fuel,Other Renewables,ktCO2,83,83,0,33,83,2019-01,2025-11
+Haryana,Fuel,Solar,%,83,83,0,0,83,2019-01,2025-11
+Haryana,Fuel,Solar,ktCO2,83,83,0,0,83,2019-01,2025-11
+Haryana,Fuel,Wind,%,83,83,0,83,83,2019-01,2025-11
+Haryana,Fuel,Wind,ktCO2,83,83,0,83,83,2019-01,2025-11
+Haryana,Total,Total emissions,ktCO2,83,83,0,0,83,2019-01,2025-11
+Himachal Pradesh,Aggregate fuel,Clean,%,83,83,0,0,83,2019-01,2025-11
+Himachal Pradesh,Aggregate fuel,Clean,ktCO2,83,83,0,0,83,2019-01,2025-11
+Himachal Pradesh,Aggregate fuel,Fossil,%,83,83,0,83,83,2019-01,2025-11
+Himachal Pradesh,Aggregate fuel,Fossil,ktCO2,83,83,0,83,83,2019-01,2025-11
+Himachal Pradesh,Aggregate fuel,Gas and Other Fossil,%,83,83,0,83,83,2019-01,2025-11
+Himachal Pradesh,Aggregate fuel,Gas and Other Fossil,ktCO2,83,83,0,83,83,2019-01,2025-11
+Himachal Pradesh,Aggregate fuel,"Hydro, Bioenergy and Other Renewables",%,83,83,0,0,83,2019-01,2025-11
+Himachal Pradesh,Aggregate fuel,"Hydro, Bioenergy and Other Renewables",ktCO2,83,83,0,0,83,2019-01,2025-11
+Himachal Pradesh,Aggregate fuel,Renewables,%,83,83,0,0,83,2019-01,2025-11
+Himachal Pradesh,Aggregate fuel,Renewables,ktCO2,83,83,0,0,83,2019-01,2025-11
+Himachal Pradesh,Aggregate fuel,Wind and Solar,%,83,83,0,10,83,2019-01,2025-11
+Himachal Pradesh,Aggregate fuel,Wind and Solar,ktCO2,83,83,0,10,83,2019-01,2025-11
+Himachal Pradesh,CO2 intensity,CO2 intensity,gCO2/kWh,83,83,0,0,83,2019-01,2025-11
+Himachal Pradesh,Fuel,Bioenergy,%,83,83,0,83,83,2019-01,2025-11
+Himachal Pradesh,Fuel,Bioenergy,ktCO2,83,83,0,83,83,2019-01,2025-11
+Himachal Pradesh,Fuel,Coal,%,83,83,0,83,83,2019-01,2025-11
+Himachal Pradesh,Fuel,Coal,ktCO2,83,83,0,83,83,2019-01,2025-11
+Himachal Pradesh,Fuel,Gas,%,83,83,0,83,83,2019-01,2025-11
+Himachal Pradesh,Fuel,Gas,ktCO2,83,83,0,83,83,2019-01,2025-11
+Himachal Pradesh,Fuel,Hydro,%,83,83,0,0,83,2019-01,2025-11
+Himachal Pradesh,Fuel,Hydro,ktCO2,83,83,0,0,83,2019-01,2025-11
+Himachal Pradesh,Fuel,Nuclear,%,83,83,0,83,83,2019-01,2025-11
+Himachal Pradesh,Fuel,Nuclear,ktCO2,83,83,0,83,83,2019-01,2025-11
+Himachal Pradesh,Fuel,Other Fossil,%,83,83,0,83,83,2019-01,2025-11
+Himachal Pradesh,Fuel,Other Fossil,ktCO2,83,83,0,83,83,2019-01,2025-11
+Himachal Pradesh,Fuel,Other Renewables,%,83,83,0,83,83,2019-01,2025-11
+Himachal Pradesh,Fuel,Other Renewables,ktCO2,83,83,0,83,83,2019-01,2025-11
+Himachal Pradesh,Fuel,Solar,%,83,83,0,10,83,2019-01,2025-11
+Himachal Pradesh,Fuel,Solar,ktCO2,83,83,0,10,83,2019-01,2025-11
+Himachal Pradesh,Fuel,Wind,%,83,83,0,83,83,2019-01,2025-11
+Himachal Pradesh,Fuel,Wind,ktCO2,83,83,0,83,83,2019-01,2025-11
+Himachal Pradesh,Total,Total emissions,ktCO2,83,83,0,0,83,2019-01,2025-11
+Jammu and Kashmir,Aggregate fuel,Clean,%,83,83,0,0,83,2019-01,2025-11
+Jammu and Kashmir,Aggregate fuel,Clean,ktCO2,83,83,0,0,83,2019-01,2025-11
+Jammu and Kashmir,Aggregate fuel,Fossil,%,83,83,0,83,83,2019-01,2025-11
+Jammu and Kashmir,Aggregate fuel,Fossil,ktCO2,83,83,0,83,83,2019-01,2025-11
+Jammu and Kashmir,Aggregate fuel,Gas and Other Fossil,%,83,83,0,83,83,2019-01,2025-11
+Jammu and Kashmir,Aggregate fuel,Gas and Other Fossil,ktCO2,83,83,0,83,83,2019-01,2025-11
+Jammu and Kashmir,Aggregate fuel,"Hydro, Bioenergy and Other Renewables",%,83,83,0,0,83,2019-01,2025-11
+Jammu and Kashmir,Aggregate fuel,"Hydro, Bioenergy and Other Renewables",ktCO2,83,83,0,0,83,2019-01,2025-11
+Jammu and Kashmir,Aggregate fuel,Renewables,%,83,83,0,0,83,2019-01,2025-11
+Jammu and Kashmir,Aggregate fuel,Renewables,ktCO2,83,83,0,0,83,2019-01,2025-11
+Jammu and Kashmir,Aggregate fuel,Wind and Solar,%,83,83,0,74,83,2019-01,2025-11
+Jammu and Kashmir,Aggregate fuel,Wind and Solar,ktCO2,83,83,0,74,83,2019-01,2025-11
+Jammu and Kashmir,CO2 intensity,CO2 intensity,gCO2/kWh,83,83,0,0,83,2019-01,2025-11
+Jammu and Kashmir,Fuel,Bioenergy,%,83,83,0,83,83,2019-01,2025-11
+Jammu and Kashmir,Fuel,Bioenergy,ktCO2,83,83,0,83,83,2019-01,2025-11
+Jammu and Kashmir,Fuel,Coal,%,83,83,0,83,83,2019-01,2025-11
+Jammu and Kashmir,Fuel,Coal,ktCO2,83,83,0,83,83,2019-01,2025-11
+Jammu and Kashmir,Fuel,Gas,%,83,83,0,83,83,2019-01,2025-11
+Jammu and Kashmir,Fuel,Gas,ktCO2,83,83,0,83,83,2019-01,2025-11
+Jammu and Kashmir,Fuel,Hydro,%,83,83,0,0,83,2019-01,2025-11
+Jammu and Kashmir,Fuel,Hydro,ktCO2,83,83,0,0,83,2019-01,2025-11
+Jammu and Kashmir,Fuel,Nuclear,%,83,83,0,83,83,2019-01,2025-11
+Jammu and Kashmir,Fuel,Nuclear,ktCO2,83,83,0,83,83,2019-01,2025-11
+Jammu and Kashmir,Fuel,Other Fossil,%,83,83,0,83,83,2019-01,2025-11
+Jammu and Kashmir,Fuel,Other Fossil,ktCO2,83,83,0,83,83,2019-01,2025-11
+Jammu and Kashmir,Fuel,Other Renewables,%,83,83,0,83,83,2019-01,2025-11
+Jammu and Kashmir,Fuel,Other Renewables,ktCO2,83,83,0,83,83,2019-01,2025-11
+Jammu and Kashmir,Fuel,Solar,%,83,83,0,74,83,2019-01,2025-11
+Jammu and Kashmir,Fuel,Solar,ktCO2,83,83,0,74,83,2019-01,2025-11
+Jammu and Kashmir,Fuel,Wind,%,83,83,0,83,83,2019-01,2025-11
+Jammu and Kashmir,Fuel,Wind,ktCO2,83,83,0,83,83,2019-01,2025-11
+Jammu and Kashmir,Total,Total emissions,ktCO2,83,83,0,0,83,2019-01,2025-11
+Jharkhand,Aggregate fuel,Clean,%,83,83,0,0,83,2019-01,2025-11
+Jharkhand,Aggregate fuel,Clean,ktCO2,83,83,0,0,83,2019-01,2025-11
+Jharkhand,Aggregate fuel,Fossil,%,83,83,0,0,83,2019-01,2025-11
+Jharkhand,Aggregate fuel,Fossil,ktCO2,83,83,0,0,83,2019-01,2025-11
+Jharkhand,Aggregate fuel,Gas and Other Fossil,%,83,83,0,83,83,2019-01,2025-11
+Jharkhand,Aggregate fuel,Gas and Other Fossil,ktCO2,83,83,0,83,83,2019-01,2025-11
+Jharkhand,Aggregate fuel,"Hydro, Bioenergy and Other Renewables",%,83,83,0,3,83,2019-01,2025-11
+Jharkhand,Aggregate fuel,"Hydro, Bioenergy and Other Renewables",ktCO2,83,83,0,3,83,2019-01,2025-11
+Jharkhand,Aggregate fuel,Renewables,%,83,83,0,0,83,2019-01,2025-11
+Jharkhand,Aggregate fuel,Renewables,ktCO2,83,83,0,0,83,2019-01,2025-11
+Jharkhand,Aggregate fuel,Wind and Solar,%,83,83,0,0,83,2019-01,2025-11
+Jharkhand,Aggregate fuel,Wind and Solar,ktCO2,83,83,0,0,83,2019-01,2025-11
+Jharkhand,CO2 intensity,CO2 intensity,gCO2/kWh,83,83,0,0,83,2019-01,2025-11
+Jharkhand,Fuel,Bioenergy,%,83,83,0,83,83,2019-01,2025-11
+Jharkhand,Fuel,Bioenergy,ktCO2,83,83,0,83,83,2019-01,2025-11
+Jharkhand,Fuel,Coal,%,83,83,0,0,83,2019-01,2025-11
+Jharkhand,Fuel,Coal,ktCO2,83,83,0,0,83,2019-01,2025-11
+Jharkhand,Fuel,Gas,%,83,83,0,83,83,2019-01,2025-11
+Jharkhand,Fuel,Gas,ktCO2,83,83,0,83,83,2019-01,2025-11
+Jharkhand,Fuel,Hydro,%,83,83,0,3,83,2019-01,2025-11
+Jharkhand,Fuel,Hydro,ktCO2,83,83,0,3,83,2019-01,2025-11
+Jharkhand,Fuel,Nuclear,%,83,83,0,83,83,2019-01,2025-11
+Jharkhand,Fuel,Nuclear,ktCO2,83,83,0,83,83,2019-01,2025-11
+Jharkhand,Fuel,Other Fossil,%,83,83,0,83,83,2019-01,2025-11
+Jharkhand,Fuel,Other Fossil,ktCO2,83,83,0,83,83,2019-01,2025-11
+Jharkhand,Fuel,Other Renewables,%,83,83,0,83,83,2019-01,2025-11
+Jharkhand,Fuel,Other Renewables,ktCO2,83,83,0,83,83,2019-01,2025-11
+Jharkhand,Fuel,Solar,%,83,83,0,0,83,2019-01,2025-11
+Jharkhand,Fuel,Solar,ktCO2,83,83,0,0,83,2019-01,2025-11
+Jharkhand,Fuel,Wind,%,83,83,0,83,83,2019-01,2025-11
+Jharkhand,Fuel,Wind,ktCO2,83,83,0,83,83,2019-01,2025-11
+Jharkhand,Total,Total emissions,ktCO2,83,83,0,0,83,2019-01,2025-11
+Karnataka,Aggregate fuel,Clean,%,83,83,0,0,83,2019-01,2025-11
+Karnataka,Aggregate fuel,Clean,ktCO2,83,83,0,0,83,2019-01,2025-11
+Karnataka,Aggregate fuel,Fossil,%,83,83,0,0,83,2019-01,2025-11
+Karnataka,Aggregate fuel,Fossil,ktCO2,83,83,0,0,83,2019-01,2025-11
+Karnataka,Aggregate fuel,Gas and Other Fossil,%,83,83,0,78,83,2019-01,2025-11
+Karnataka,Aggregate fuel,Gas and Other Fossil,ktCO2,83,83,0,78,83,2019-01,2025-11
+Karnataka,Aggregate fuel,"Hydro, Bioenergy and Other Renewables",%,83,83,0,0,83,2019-01,2025-11
+Karnataka,Aggregate fuel,"Hydro, Bioenergy and Other Renewables",ktCO2,83,83,0,0,83,2019-01,2025-11
+Karnataka,Aggregate fuel,Renewables,%,83,83,0,0,83,2019-01,2025-11
+Karnataka,Aggregate fuel,Renewables,ktCO2,83,83,0,0,83,2019-01,2025-11
+Karnataka,Aggregate fuel,Wind and Solar,%,83,83,0,0,83,2019-01,2025-11
+Karnataka,Aggregate fuel,Wind and Solar,ktCO2,83,83,0,0,83,2019-01,2025-11
+Karnataka,CO2 intensity,CO2 intensity,gCO2/kWh,83,83,0,0,83,2019-01,2025-11
+Karnataka,Fuel,Bioenergy,%,83,83,0,0,83,2019-01,2025-11
+Karnataka,Fuel,Bioenergy,ktCO2,83,83,0,0,83,2019-01,2025-11
+Karnataka,Fuel,Coal,%,83,83,0,0,83,2019-01,2025-11
+Karnataka,Fuel,Coal,ktCO2,83,83,0,0,83,2019-01,2025-11
+Karnataka,Fuel,Gas,%,83,83,0,78,83,2019-01,2025-11
+Karnataka,Fuel,Gas,ktCO2,83,83,0,78,83,2019-01,2025-11
+Karnataka,Fuel,Hydro,%,83,83,0,0,83,2019-01,2025-11
+Karnataka,Fuel,Hydro,ktCO2,83,83,0,0,83,2019-01,2025-11
+Karnataka,Fuel,Nuclear,%,83,83,0,0,83,2019-01,2025-11
+Karnataka,Fuel,Nuclear,ktCO2,83,83,0,0,83,2019-01,2025-11
+Karnataka,Fuel,Other Fossil,%,83,83,0,83,83,2019-01,2025-11
+Karnataka,Fuel,Other Fossil,ktCO2,83,83,0,83,83,2019-01,2025-11
+Karnataka,Fuel,Other Renewables,%,83,83,0,83,83,2019-01,2025-11
+Karnataka,Fuel,Other Renewables,ktCO2,83,83,0,83,83,2019-01,2025-11
+Karnataka,Fuel,Solar,%,83,83,0,0,83,2019-01,2025-11
+Karnataka,Fuel,Solar,ktCO2,83,83,0,0,83,2019-01,2025-11
+Karnataka,Fuel,Wind,%,83,83,0,0,83,2019-01,2025-11
+Karnataka,Fuel,Wind,ktCO2,83,83,0,0,83,2019-01,2025-11
+Karnataka,Total,Total emissions,ktCO2,83,83,0,0,83,2019-01,2025-11
+Kerala,Aggregate fuel,Clean,%,83,83,0,0,83,2019-01,2025-11
+Kerala,Aggregate fuel,Clean,ktCO2,83,83,0,0,83,2019-01,2025-11
+Kerala,Aggregate fuel,Fossil,%,83,83,0,70,83,2019-01,2025-11
+Kerala,Aggregate fuel,Fossil,ktCO2,83,83,0,70,83,2019-01,2025-11
+Kerala,Aggregate fuel,Gas and Other Fossil,%,83,83,0,70,83,2019-01,2025-11
+Kerala,Aggregate fuel,Gas and Other Fossil,ktCO2,83,83,0,70,83,2019-01,2025-11
+Kerala,Aggregate fuel,"Hydro, Bioenergy and Other Renewables",%,83,83,0,0,83,2019-01,2025-11
+Kerala,Aggregate fuel,"Hydro, Bioenergy and Other Renewables",ktCO2,83,83,0,0,83,2019-01,2025-11
+Kerala,Aggregate fuel,Renewables,%,83,83,0,0,83,2019-01,2025-11
+Kerala,Aggregate fuel,Renewables,ktCO2,83,83,0,0,83,2019-01,2025-11
+Kerala,Aggregate fuel,Wind and Solar,%,83,83,0,0,83,2019-01,2025-11
+Kerala,Aggregate fuel,Wind and Solar,ktCO2,83,83,0,0,83,2019-01,2025-11
+Kerala,CO2 intensity,CO2 intensity,gCO2/kWh,83,83,0,0,83,2019-01,2025-11
+Kerala,Fuel,Bioenergy,%,83,83,0,28,83,2019-01,2025-11
+Kerala,Fuel,Bioenergy,ktCO2,83,83,0,28,83,2019-01,2025-11
+Kerala,Fuel,Coal,%,83,83,0,83,83,2019-01,2025-11
+Kerala,Fuel,Coal,ktCO2,83,83,0,83,83,2019-01,2025-11
+Kerala,Fuel,Gas,%,83,83,0,80,83,2019-01,2025-11
+Kerala,Fuel,Gas,ktCO2,83,83,0,80,83,2019-01,2025-11
+Kerala,Fuel,Hydro,%,83,83,0,0,83,2019-01,2025-11
+Kerala,Fuel,Hydro,ktCO2,83,83,0,0,83,2019-01,2025-11
+Kerala,Fuel,Nuclear,%,83,83,0,83,83,2019-01,2025-11
+Kerala,Fuel,Nuclear,ktCO2,83,83,0,83,83,2019-01,2025-11
+Kerala,Fuel,Other Fossil,%,83,83,0,71,83,2019-01,2025-11
+Kerala,Fuel,Other Fossil,ktCO2,83,83,0,71,83,2019-01,2025-11
+Kerala,Fuel,Other Renewables,%,83,83,0,66,83,2019-01,2025-11
+Kerala,Fuel,Other Renewables,ktCO2,83,83,0,66,83,2019-01,2025-11
+Kerala,Fuel,Solar,%,83,83,0,0,83,2019-01,2025-11
+Kerala,Fuel,Solar,ktCO2,83,83,0,0,83,2019-01,2025-11
+Kerala,Fuel,Wind,%,83,83,0,0,83,2019-01,2025-11
+Kerala,Fuel,Wind,ktCO2,83,83,0,0,83,2019-01,2025-11
+Kerala,Total,Total emissions,ktCO2,83,83,0,0,83,2019-01,2025-11
+Ladakh,Aggregate fuel,Clean,%,53,53,0,0,53,2021-07,2025-11
+Ladakh,Aggregate fuel,Clean,ktCO2,53,53,0,0,53,2021-07,2025-11
+Ladakh,Aggregate fuel,Fossil,%,53,53,0,53,53,2021-07,2025-11
+Ladakh,Aggregate fuel,Fossil,ktCO2,53,53,0,53,53,2021-07,2025-11
+Ladakh,Aggregate fuel,Gas and Other Fossil,%,53,53,0,53,53,2021-07,2025-11
+Ladakh,Aggregate fuel,Gas and Other Fossil,ktCO2,53,53,0,53,53,2021-07,2025-11
+Ladakh,Aggregate fuel,"Hydro, Bioenergy and Other Renewables",%,53,53,0,0,53,2021-07,2025-11
+Ladakh,Aggregate fuel,"Hydro, Bioenergy and Other Renewables",ktCO2,53,53,0,0,53,2021-07,2025-11
+Ladakh,Aggregate fuel,Renewables,%,53,53,0,0,53,2021-07,2025-11
+Ladakh,Aggregate fuel,Renewables,ktCO2,53,53,0,0,53,2021-07,2025-11
+Ladakh,Aggregate fuel,Wind and Solar,%,53,53,0,53,53,2021-07,2025-11
+Ladakh,Aggregate fuel,Wind and Solar,ktCO2,53,53,0,53,53,2021-07,2025-11
+Ladakh,CO2 intensity,CO2 intensity,gCO2/kWh,53,53,0,0,53,2021-07,2025-11
+Ladakh,Fuel,Bioenergy,%,53,53,0,53,53,2021-07,2025-11
+Ladakh,Fuel,Bioenergy,ktCO2,53,53,0,53,53,2021-07,2025-11
+Ladakh,Fuel,Coal,%,53,53,0,53,53,2021-07,2025-11
+Ladakh,Fuel,Coal,ktCO2,53,53,0,53,53,2021-07,2025-11
+Ladakh,Fuel,Gas,%,53,53,0,53,53,2021-07,2025-11
+Ladakh,Fuel,Gas,ktCO2,53,53,0,53,53,2021-07,2025-11
+Ladakh,Fuel,Hydro,%,53,53,0,0,53,2021-07,2025-11
+Ladakh,Fuel,Hydro,ktCO2,53,53,0,0,53,2021-07,2025-11
+Ladakh,Fuel,Nuclear,%,53,53,0,53,53,2021-07,2025-11
+Ladakh,Fuel,Nuclear,ktCO2,53,53,0,53,53,2021-07,2025-11
+Ladakh,Fuel,Other Fossil,%,53,53,0,53,53,2021-07,2025-11
+Ladakh,Fuel,Other Fossil,ktCO2,53,53,0,53,53,2021-07,2025-11
+Ladakh,Fuel,Other Renewables,%,53,53,0,53,53,2021-07,2025-11
+Ladakh,Fuel,Other Renewables,ktCO2,53,53,0,53,53,2021-07,2025-11
+Ladakh,Fuel,Solar,%,53,53,0,53,53,2021-07,2025-11
+Ladakh,Fuel,Solar,ktCO2,53,53,0,53,53,2021-07,2025-11
+Ladakh,Fuel,Wind,%,53,53,0,53,53,2021-07,2025-11
+Ladakh,Fuel,Wind,ktCO2,53,53,0,53,53,2021-07,2025-11
+Ladakh,Total,Total emissions,ktCO2,53,53,0,0,53,2021-07,2025-11
+Lakshadweep,Aggregate fuel,Clean,%,83,83,0,83,83,2019-01,2025-11
+Lakshadweep,Aggregate fuel,Clean,ktCO2,83,83,0,83,83,2019-01,2025-11
+Lakshadweep,Aggregate fuel,Fossil,%,80,80,0,45,80,2019-01,2025-11
+Lakshadweep,Aggregate fuel,Fossil,ktCO2,80,80,0,45,80,2019-01,2025-11
+Lakshadweep,Aggregate fuel,Gas and Other Fossil,%,80,80,0,80,80,2019-01,2025-11
+Lakshadweep,Aggregate fuel,Gas and Other Fossil,ktCO2,80,80,0,80,80,2019-01,2025-11
+Lakshadweep,Aggregate fuel,"Hydro, Bioenergy and Other Renewables",%,83,83,0,83,83,2019-01,2025-11
+Lakshadweep,Aggregate fuel,"Hydro, Bioenergy and Other Renewables",ktCO2,83,83,0,83,83,2019-01,2025-11
+Lakshadweep,Aggregate fuel,Renewables,%,83,83,0,83,83,2019-01,2025-11
+Lakshadweep,Aggregate fuel,Renewables,ktCO2,83,83,0,83,83,2019-01,2025-11
+Lakshadweep,Aggregate fuel,Wind and Solar,%,83,83,0,83,83,2019-01,2025-11
+Lakshadweep,Aggregate fuel,Wind and Solar,ktCO2,83,83,0,83,83,2019-01,2025-11
+Lakshadweep,CO2 intensity,CO2 intensity,gCO2/kWh,83,82,1,47,83,2019-01,2025-11
+Lakshadweep,Fuel,Bioenergy,%,83,83,0,83,83,2019-01,2025-11
+Lakshadweep,Fuel,Bioenergy,ktCO2,83,83,0,83,83,2019-01,2025-11
+Lakshadweep,Fuel,Coal,%,80,80,0,45,80,2019-01,2025-11
+Lakshadweep,Fuel,Coal,ktCO2,80,80,0,45,80,2019-01,2025-11
+Lakshadweep,Fuel,Gas,%,80,80,0,80,80,2019-01,2025-11
+Lakshadweep,Fuel,Gas,ktCO2,80,80,0,80,80,2019-01,2025-11
+Lakshadweep,Fuel,Hydro,%,83,83,0,83,83,2019-01,2025-11
+Lakshadweep,Fuel,Hydro,ktCO2,83,83,0,83,83,2019-01,2025-11
+Lakshadweep,Fuel,Nuclear,%,80,80,0,80,80,2019-01,2025-11
+Lakshadweep,Fuel,Nuclear,ktCO2,80,80,0,80,80,2019-01,2025-11
+Lakshadweep,Fuel,Other Fossil,%,80,80,0,80,80,2019-01,2025-11
+Lakshadweep,Fuel,Other Fossil,ktCO2,80,80,0,80,80,2019-01,2025-11
+Lakshadweep,Fuel,Other Renewables,%,83,83,0,83,83,2019-01,2025-11
+Lakshadweep,Fuel,Other Renewables,ktCO2,83,83,0,83,83,2019-01,2025-11
+Lakshadweep,Fuel,Solar,%,83,83,0,83,83,2019-01,2025-11
+Lakshadweep,Fuel,Solar,ktCO2,83,83,0,83,83,2019-01,2025-11
+Lakshadweep,Fuel,Wind,%,83,83,0,83,83,2019-01,2025-11
+Lakshadweep,Fuel,Wind,ktCO2,83,83,0,83,83,2019-01,2025-11
+Lakshadweep,Total,Total emissions,ktCO2,83,83,0,48,83,2019-01,2025-11
+Madhya Pradesh,Aggregate fuel,Clean,%,83,83,0,0,83,2019-01,2025-11
+Madhya Pradesh,Aggregate fuel,Clean,ktCO2,83,83,0,0,83,2019-01,2025-11
+Madhya Pradesh,Aggregate fuel,Fossil,%,83,83,0,0,83,2019-01,2025-11
+Madhya Pradesh,Aggregate fuel,Fossil,ktCO2,83,83,0,0,83,2019-01,2025-11
+Madhya Pradesh,Aggregate fuel,Gas and Other Fossil,%,83,83,0,83,83,2019-01,2025-11
+Madhya Pradesh,Aggregate fuel,Gas and Other Fossil,ktCO2,83,83,0,83,83,2019-01,2025-11
+Madhya Pradesh,Aggregate fuel,"Hydro, Bioenergy and Other Renewables",%,83,83,0,0,83,2019-01,2025-11
+Madhya Pradesh,Aggregate fuel,"Hydro, Bioenergy and Other Renewables",ktCO2,83,83,0,0,83,2019-01,2025-11
+Madhya Pradesh,Aggregate fuel,Renewables,%,83,83,0,0,83,2019-01,2025-11
+Madhya Pradesh,Aggregate fuel,Renewables,ktCO2,83,83,0,0,83,2019-01,2025-11
+Madhya Pradesh,Aggregate fuel,Wind and Solar,%,83,83,0,0,83,2019-01,2025-11
+Madhya Pradesh,Aggregate fuel,Wind and Solar,ktCO2,83,83,0,0,83,2019-01,2025-11
+Madhya Pradesh,CO2 intensity,CO2 intensity,gCO2/kWh,83,83,0,0,83,2019-01,2025-11
+Madhya Pradesh,Fuel,Bioenergy,%,83,83,0,10,83,2019-01,2025-11
+Madhya Pradesh,Fuel,Bioenergy,ktCO2,83,83,0,10,83,2019-01,2025-11
+Madhya Pradesh,Fuel,Coal,%,83,83,0,0,83,2019-01,2025-11
+Madhya Pradesh,Fuel,Coal,ktCO2,83,83,0,0,83,2019-01,2025-11
+Madhya Pradesh,Fuel,Gas,%,83,83,0,83,83,2019-01,2025-11
+Madhya Pradesh,Fuel,Gas,ktCO2,83,83,0,83,83,2019-01,2025-11
+Madhya Pradesh,Fuel,Hydro,%,83,83,0,0,83,2019-01,2025-11
+Madhya Pradesh,Fuel,Hydro,ktCO2,83,83,0,0,83,2019-01,2025-11
+Madhya Pradesh,Fuel,Nuclear,%,83,83,0,83,83,2019-01,2025-11
+Madhya Pradesh,Fuel,Nuclear,ktCO2,83,83,0,83,83,2019-01,2025-11
+Madhya Pradesh,Fuel,Other Fossil,%,83,83,0,83,83,2019-01,2025-11
+Madhya Pradesh,Fuel,Other Fossil,ktCO2,83,83,0,83,83,2019-01,2025-11
+Madhya Pradesh,Fuel,Other Renewables,%,83,83,0,1,83,2019-01,2025-11
+Madhya Pradesh,Fuel,Other Renewables,ktCO2,83,83,0,1,83,2019-01,2025-11
+Madhya Pradesh,Fuel,Solar,%,83,83,0,0,83,2019-01,2025-11
+Madhya Pradesh,Fuel,Solar,ktCO2,83,83,0,0,83,2019-01,2025-11
+Madhya Pradesh,Fuel,Wind,%,83,83,0,0,83,2019-01,2025-11
+Madhya Pradesh,Fuel,Wind,ktCO2,83,83,0,0,83,2019-01,2025-11
+Madhya Pradesh,Total,Total emissions,ktCO2,83,83,0,0,83,2019-01,2025-11
+Maharashtra,Aggregate fuel,Clean,%,83,83,0,0,83,2019-01,2025-11
+Maharashtra,Aggregate fuel,Clean,ktCO2,83,83,0,0,83,2019-01,2025-11
+Maharashtra,Aggregate fuel,Fossil,%,83,83,0,0,83,2019-01,2025-11
+Maharashtra,Aggregate fuel,Fossil,ktCO2,83,83,0,0,83,2019-01,2025-11
+Maharashtra,Aggregate fuel,Gas and Other Fossil,%,83,83,0,0,83,2019-01,2025-11
+Maharashtra,Aggregate fuel,Gas and Other Fossil,ktCO2,83,83,0,0,83,2019-01,2025-11
+Maharashtra,Aggregate fuel,"Hydro, Bioenergy and Other Renewables",%,83,83,0,0,83,2019-01,2025-11
+Maharashtra,Aggregate fuel,"Hydro, Bioenergy and Other Renewables",ktCO2,83,83,0,0,83,2019-01,2025-11
+Maharashtra,Aggregate fuel,Renewables,%,83,83,0,0,83,2019-01,2025-11
+Maharashtra,Aggregate fuel,Renewables,ktCO2,83,83,0,0,83,2019-01,2025-11
+Maharashtra,Aggregate fuel,Wind and Solar,%,83,83,0,0,83,2019-01,2025-11
+Maharashtra,Aggregate fuel,Wind and Solar,ktCO2,83,83,0,0,83,2019-01,2025-11
+Maharashtra,CO2 intensity,CO2 intensity,gCO2/kWh,83,83,0,0,83,2019-01,2025-11
+Maharashtra,Fuel,Bioenergy,%,83,83,0,0,83,2019-01,2025-11
+Maharashtra,Fuel,Bioenergy,ktCO2,83,83,0,0,83,2019-01,2025-11
+Maharashtra,Fuel,Coal,%,83,83,0,0,83,2019-01,2025-11
+Maharashtra,Fuel,Coal,ktCO2,83,83,0,0,83,2019-01,2025-11
+Maharashtra,Fuel,Gas,%,83,83,0,0,83,2019-01,2025-11
+Maharashtra,Fuel,Gas,ktCO2,83,83,0,0,83,2019-01,2025-11
+Maharashtra,Fuel,Hydro,%,83,83,0,0,83,2019-01,2025-11
+Maharashtra,Fuel,Hydro,ktCO2,83,83,0,0,83,2019-01,2025-11
+Maharashtra,Fuel,Nuclear,%,83,83,0,0,83,2019-01,2025-11
+Maharashtra,Fuel,Nuclear,ktCO2,83,83,0,0,83,2019-01,2025-11
+Maharashtra,Fuel,Other Fossil,%,83,83,0,83,83,2019-01,2025-11
+Maharashtra,Fuel,Other Fossil,ktCO2,83,83,0,83,83,2019-01,2025-11
+Maharashtra,Fuel,Other Renewables,%,83,83,0,58,83,2019-01,2025-11
+Maharashtra,Fuel,Other Renewables,ktCO2,83,83,0,58,83,2019-01,2025-11
+Maharashtra,Fuel,Solar,%,83,83,0,0,83,2019-01,2025-11
+Maharashtra,Fuel,Solar,ktCO2,83,83,0,0,83,2019-01,2025-11
+Maharashtra,Fuel,Wind,%,83,83,0,0,83,2019-01,2025-11
+Maharashtra,Fuel,Wind,ktCO2,83,83,0,0,83,2019-01,2025-11
+Maharashtra,Total,Total emissions,ktCO2,83,83,0,0,83,2019-01,2025-11
+Manipur,Aggregate fuel,Clean,%,83,83,0,0,83,2019-01,2025-11
+Manipur,Aggregate fuel,Clean,ktCO2,83,83,0,0,83,2019-01,2025-11
+Manipur,Aggregate fuel,Fossil,%,83,83,0,83,83,2019-01,2025-11
+Manipur,Aggregate fuel,Fossil,ktCO2,83,83,0,83,83,2019-01,2025-11
+Manipur,Aggregate fuel,Gas and Other Fossil,%,83,83,0,83,83,2019-01,2025-11
+Manipur,Aggregate fuel,Gas and Other Fossil,ktCO2,83,83,0,83,83,2019-01,2025-11
+Manipur,Aggregate fuel,"Hydro, Bioenergy and Other Renewables",%,83,83,0,0,83,2019-01,2025-11
+Manipur,Aggregate fuel,"Hydro, Bioenergy and Other Renewables",ktCO2,83,83,0,0,83,2019-01,2025-11
+Manipur,Aggregate fuel,Renewables,%,83,83,0,0,83,2019-01,2025-11
+Manipur,Aggregate fuel,Renewables,ktCO2,83,83,0,0,83,2019-01,2025-11
+Manipur,Aggregate fuel,Wind and Solar,%,83,83,0,1,83,2019-01,2025-11
+Manipur,Aggregate fuel,Wind and Solar,ktCO2,83,83,0,1,83,2019-01,2025-11
+Manipur,CO2 intensity,CO2 intensity,gCO2/kWh,83,83,0,0,83,2019-01,2025-11
+Manipur,Fuel,Bioenergy,%,83,83,0,83,83,2019-01,2025-11
+Manipur,Fuel,Bioenergy,ktCO2,83,83,0,83,83,2019-01,2025-11
+Manipur,Fuel,Coal,%,83,83,0,83,83,2019-01,2025-11
+Manipur,Fuel,Coal,ktCO2,83,83,0,83,83,2019-01,2025-11
+Manipur,Fuel,Gas,%,83,83,0,83,83,2019-01,2025-11
+Manipur,Fuel,Gas,ktCO2,83,83,0,83,83,2019-01,2025-11
+Manipur,Fuel,Hydro,%,83,83,0,0,83,2019-01,2025-11
+Manipur,Fuel,Hydro,ktCO2,83,83,0,0,83,2019-01,2025-11
+Manipur,Fuel,Nuclear,%,83,83,0,83,83,2019-01,2025-11
+Manipur,Fuel,Nuclear,ktCO2,83,83,0,83,83,2019-01,2025-11
+Manipur,Fuel,Other Fossil,%,83,83,0,83,83,2019-01,2025-11
+Manipur,Fuel,Other Fossil,ktCO2,83,83,0,83,83,2019-01,2025-11
+Manipur,Fuel,Other Renewables,%,83,83,0,80,83,2019-01,2025-11
+Manipur,Fuel,Other Renewables,ktCO2,83,83,0,80,83,2019-01,2025-11
+Manipur,Fuel,Solar,%,83,83,0,1,83,2019-01,2025-11
+Manipur,Fuel,Solar,ktCO2,83,83,0,1,83,2019-01,2025-11
+Manipur,Fuel,Wind,%,83,83,0,83,83,2019-01,2025-11
+Manipur,Fuel,Wind,ktCO2,83,83,0,83,83,2019-01,2025-11
+Manipur,Total,Total emissions,ktCO2,83,83,0,0,83,2019-01,2025-11
+Meghalaya,Aggregate fuel,Clean,%,83,83,0,0,83,2019-01,2025-11
+Meghalaya,Aggregate fuel,Clean,ktCO2,83,83,0,0,83,2019-01,2025-11
+Meghalaya,Aggregate fuel,Fossil,%,83,83,0,83,83,2019-01,2025-11
+Meghalaya,Aggregate fuel,Fossil,ktCO2,83,83,0,83,83,2019-01,2025-11
+Meghalaya,Aggregate fuel,Gas and Other Fossil,%,83,83,0,83,83,2019-01,2025-11
+Meghalaya,Aggregate fuel,Gas and Other Fossil,ktCO2,83,83,0,83,83,2019-01,2025-11
+Meghalaya,Aggregate fuel,"Hydro, Bioenergy and Other Renewables",%,83,83,0,0,83,2019-01,2025-11
+Meghalaya,Aggregate fuel,"Hydro, Bioenergy and Other Renewables",ktCO2,83,83,0,0,83,2019-01,2025-11
+Meghalaya,Aggregate fuel,Renewables,%,83,83,0,0,83,2019-01,2025-11
+Meghalaya,Aggregate fuel,Renewables,ktCO2,83,83,0,0,83,2019-01,2025-11
+Meghalaya,Aggregate fuel,Wind and Solar,%,83,83,0,82,83,2019-01,2025-11
+Meghalaya,Aggregate fuel,Wind and Solar,ktCO2,83,83,0,82,83,2019-01,2025-11
+Meghalaya,CO2 intensity,CO2 intensity,gCO2/kWh,83,83,0,0,83,2019-01,2025-11
+Meghalaya,Fuel,Bioenergy,%,83,83,0,83,83,2019-01,2025-11
+Meghalaya,Fuel,Bioenergy,ktCO2,83,83,0,83,83,2019-01,2025-11
+Meghalaya,Fuel,Coal,%,83,83,0,83,83,2019-01,2025-11
+Meghalaya,Fuel,Coal,ktCO2,83,83,0,83,83,2019-01,2025-11
+Meghalaya,Fuel,Gas,%,83,83,0,83,83,2019-01,2025-11
+Meghalaya,Fuel,Gas,ktCO2,83,83,0,83,83,2019-01,2025-11
+Meghalaya,Fuel,Hydro,%,83,83,0,0,83,2019-01,2025-11
+Meghalaya,Fuel,Hydro,ktCO2,83,83,0,0,83,2019-01,2025-11
+Meghalaya,Fuel,Nuclear,%,83,83,0,83,83,2019-01,2025-11
+Meghalaya,Fuel,Nuclear,ktCO2,83,83,0,83,83,2019-01,2025-11
+Meghalaya,Fuel,Other Fossil,%,83,83,0,83,83,2019-01,2025-11
+Meghalaya,Fuel,Other Fossil,ktCO2,83,83,0,83,83,2019-01,2025-11
+Meghalaya,Fuel,Other Renewables,%,83,83,0,83,83,2019-01,2025-11
+Meghalaya,Fuel,Other Renewables,ktCO2,83,83,0,83,83,2019-01,2025-11
+Meghalaya,Fuel,Solar,%,83,83,0,82,83,2019-01,2025-11
+Meghalaya,Fuel,Solar,ktCO2,83,83,0,82,83,2019-01,2025-11
+Meghalaya,Fuel,Wind,%,83,83,0,83,83,2019-01,2025-11
+Meghalaya,Fuel,Wind,ktCO2,83,83,0,83,83,2019-01,2025-11
+Meghalaya,Total,Total emissions,ktCO2,83,83,0,0,83,2019-01,2025-11
+Mizoram,Aggregate fuel,Clean,%,83,83,0,0,83,2019-01,2025-11
+Mizoram,Aggregate fuel,Clean,ktCO2,83,83,0,0,83,2019-01,2025-11
+Mizoram,Aggregate fuel,Fossil,%,83,83,0,83,83,2019-01,2025-11
+Mizoram,Aggregate fuel,Fossil,ktCO2,83,83,0,83,83,2019-01,2025-11
+Mizoram,Aggregate fuel,Gas and Other Fossil,%,83,83,0,83,83,2019-01,2025-11
+Mizoram,Aggregate fuel,Gas and Other Fossil,ktCO2,83,83,0,83,83,2019-01,2025-11
+Mizoram,Aggregate fuel,"Hydro, Bioenergy and Other Renewables",%,83,83,0,0,83,2019-01,2025-11
+Mizoram,Aggregate fuel,"Hydro, Bioenergy and Other Renewables",ktCO2,83,83,0,0,83,2019-01,2025-11
+Mizoram,Aggregate fuel,Renewables,%,83,83,0,0,83,2019-01,2025-11
+Mizoram,Aggregate fuel,Renewables,ktCO2,83,83,0,0,83,2019-01,2025-11
+Mizoram,Aggregate fuel,Wind and Solar,%,83,83,0,29,83,2019-01,2025-11
+Mizoram,Aggregate fuel,Wind and Solar,ktCO2,83,83,0,29,83,2019-01,2025-11
+Mizoram,CO2 intensity,CO2 intensity,gCO2/kWh,83,83,0,0,83,2019-01,2025-11
+Mizoram,Fuel,Bioenergy,%,83,83,0,83,83,2019-01,2025-11
+Mizoram,Fuel,Bioenergy,ktCO2,83,83,0,83,83,2019-01,2025-11
+Mizoram,Fuel,Coal,%,83,83,0,83,83,2019-01,2025-11
+Mizoram,Fuel,Coal,ktCO2,83,83,0,83,83,2019-01,2025-11
+Mizoram,Fuel,Gas,%,83,83,0,83,83,2019-01,2025-11
+Mizoram,Fuel,Gas,ktCO2,83,83,0,83,83,2019-01,2025-11
+Mizoram,Fuel,Hydro,%,83,83,0,0,83,2019-01,2025-11
+Mizoram,Fuel,Hydro,ktCO2,83,83,0,0,83,2019-01,2025-11
+Mizoram,Fuel,Nuclear,%,83,83,0,83,83,2019-01,2025-11
+Mizoram,Fuel,Nuclear,ktCO2,83,83,0,83,83,2019-01,2025-11
+Mizoram,Fuel,Other Fossil,%,83,83,0,83,83,2019-01,2025-11
+Mizoram,Fuel,Other Fossil,ktCO2,83,83,0,83,83,2019-01,2025-11
+Mizoram,Fuel,Other Renewables,%,83,83,0,83,83,2019-01,2025-11
+Mizoram,Fuel,Other Renewables,ktCO2,83,83,0,83,83,2019-01,2025-11
+Mizoram,Fuel,Solar,%,83,83,0,29,83,2019-01,2025-11
+Mizoram,Fuel,Solar,ktCO2,83,83,0,29,83,2019-01,2025-11
+Mizoram,Fuel,Wind,%,83,83,0,83,83,2019-01,2025-11
+Mizoram,Fuel,Wind,ktCO2,83,83,0,83,83,2019-01,2025-11
+Mizoram,Total,Total emissions,ktCO2,83,83,0,0,83,2019-01,2025-11
+Nagaland,Aggregate fuel,Clean,%,83,83,0,0,83,2019-01,2025-11
+Nagaland,Aggregate fuel,Clean,ktCO2,83,83,0,0,83,2019-01,2025-11
+Nagaland,Aggregate fuel,Fossil,%,83,83,0,83,83,2019-01,2025-11
+Nagaland,Aggregate fuel,Fossil,ktCO2,83,83,0,83,83,2019-01,2025-11
+Nagaland,Aggregate fuel,Gas and Other Fossil,%,83,83,0,83,83,2019-01,2025-11
+Nagaland,Aggregate fuel,Gas and Other Fossil,ktCO2,83,83,0,83,83,2019-01,2025-11
+Nagaland,Aggregate fuel,"Hydro, Bioenergy and Other Renewables",%,83,83,0,0,83,2019-01,2025-11
+Nagaland,Aggregate fuel,"Hydro, Bioenergy and Other Renewables",ktCO2,83,83,0,0,83,2019-01,2025-11
+Nagaland,Aggregate fuel,Renewables,%,83,83,0,0,83,2019-01,2025-11
+Nagaland,Aggregate fuel,Renewables,ktCO2,83,83,0,0,83,2019-01,2025-11
+Nagaland,Aggregate fuel,Wind and Solar,%,83,83,0,81,83,2019-01,2025-11
+Nagaland,Aggregate fuel,Wind and Solar,ktCO2,83,83,0,81,83,2019-01,2025-11
+Nagaland,CO2 intensity,CO2 intensity,gCO2/kWh,83,83,0,0,83,2019-01,2025-11
+Nagaland,Fuel,Bioenergy,%,83,83,0,83,83,2019-01,2025-11
+Nagaland,Fuel,Bioenergy,ktCO2,83,83,0,83,83,2019-01,2025-11
+Nagaland,Fuel,Coal,%,83,83,0,83,83,2019-01,2025-11
+Nagaland,Fuel,Coal,ktCO2,83,83,0,83,83,2019-01,2025-11
+Nagaland,Fuel,Gas,%,83,83,0,83,83,2019-01,2025-11
+Nagaland,Fuel,Gas,ktCO2,83,83,0,83,83,2019-01,2025-11
+Nagaland,Fuel,Hydro,%,83,83,0,0,83,2019-01,2025-11
+Nagaland,Fuel,Hydro,ktCO2,83,83,0,0,83,2019-01,2025-11
+Nagaland,Fuel,Nuclear,%,83,83,0,83,83,2019-01,2025-11
+Nagaland,Fuel,Nuclear,ktCO2,83,83,0,83,83,2019-01,2025-11
+Nagaland,Fuel,Other Fossil,%,83,83,0,83,83,2019-01,2025-11
+Nagaland,Fuel,Other Fossil,ktCO2,83,83,0,83,83,2019-01,2025-11
+Nagaland,Fuel,Other Renewables,%,83,83,0,83,83,2019-01,2025-11
+Nagaland,Fuel,Other Renewables,ktCO2,83,83,0,83,83,2019-01,2025-11
+Nagaland,Fuel,Solar,%,83,83,0,83,83,2019-01,2025-11
+Nagaland,Fuel,Solar,ktCO2,83,83,0,83,83,2019-01,2025-11
+Nagaland,Fuel,Wind,%,83,83,0,81,83,2019-01,2025-11
+Nagaland,Fuel,Wind,ktCO2,83,83,0,81,83,2019-01,2025-11
+Nagaland,Total,Total emissions,ktCO2,83,83,0,0,83,2019-01,2025-11
+Odisha,Aggregate fuel,Clean,%,83,83,0,0,83,2019-01,2025-11
+Odisha,Aggregate fuel,Clean,ktCO2,83,83,0,0,83,2019-01,2025-11
+Odisha,Aggregate fuel,Fossil,%,83,83,0,0,83,2019-01,2025-11
+Odisha,Aggregate fuel,Fossil,ktCO2,83,83,0,0,83,2019-01,2025-11
+Odisha,Aggregate fuel,Gas and Other Fossil,%,83,83,0,83,83,2019-01,2025-11
+Odisha,Aggregate fuel,Gas and Other Fossil,ktCO2,83,83,0,83,83,2019-01,2025-11
+Odisha,Aggregate fuel,"Hydro, Bioenergy and Other Renewables",%,83,83,0,0,83,2019-01,2025-11
+Odisha,Aggregate fuel,"Hydro, Bioenergy and Other Renewables",ktCO2,83,83,0,0,83,2019-01,2025-11
+Odisha,Aggregate fuel,Renewables,%,83,83,0,0,83,2019-01,2025-11
+Odisha,Aggregate fuel,Renewables,ktCO2,83,83,0,0,83,2019-01,2025-11
+Odisha,Aggregate fuel,Wind and Solar,%,83,83,0,0,83,2019-01,2025-11
+Odisha,Aggregate fuel,Wind and Solar,ktCO2,83,83,0,0,83,2019-01,2025-11
+Odisha,CO2 intensity,CO2 intensity,gCO2/kWh,83,83,0,0,83,2019-01,2025-11
+Odisha,Fuel,Bioenergy,%,83,83,0,5,83,2019-01,2025-11
+Odisha,Fuel,Bioenergy,ktCO2,83,83,0,5,83,2019-01,2025-11
+Odisha,Fuel,Coal,%,83,83,0,0,83,2019-01,2025-11
+Odisha,Fuel,Coal,ktCO2,83,83,0,0,83,2019-01,2025-11
+Odisha,Fuel,Gas,%,83,83,0,83,83,2019-01,2025-11
+Odisha,Fuel,Gas,ktCO2,83,83,0,83,83,2019-01,2025-11
+Odisha,Fuel,Hydro,%,83,83,0,0,83,2019-01,2025-11
+Odisha,Fuel,Hydro,ktCO2,83,83,0,0,83,2019-01,2025-11
+Odisha,Fuel,Nuclear,%,83,83,0,83,83,2019-01,2025-11
+Odisha,Fuel,Nuclear,ktCO2,83,83,0,83,83,2019-01,2025-11
+Odisha,Fuel,Other Fossil,%,83,83,0,83,83,2019-01,2025-11
+Odisha,Fuel,Other Fossil,ktCO2,83,83,0,83,83,2019-01,2025-11
+Odisha,Fuel,Other Renewables,%,83,83,0,83,83,2019-01,2025-11
+Odisha,Fuel,Other Renewables,ktCO2,83,83,0,83,83,2019-01,2025-11
+Odisha,Fuel,Solar,%,83,83,0,0,83,2019-01,2025-11
+Odisha,Fuel,Solar,ktCO2,83,83,0,0,83,2019-01,2025-11
+Odisha,Fuel,Wind,%,83,83,0,77,83,2019-01,2025-11
+Odisha,Fuel,Wind,ktCO2,83,83,0,77,83,2019-01,2025-11
+Odisha,Total,Total emissions,ktCO2,83,83,0,0,83,2019-01,2025-11
+Puducherry,Aggregate fuel,Clean,%,83,83,0,0,83,2019-01,2025-11
+Puducherry,Aggregate fuel,Clean,ktCO2,83,83,0,0,83,2019-01,2025-11
+Puducherry,Aggregate fuel,Fossil,%,83,83,0,1,83,2019-01,2025-11
+Puducherry,Aggregate fuel,Fossil,ktCO2,83,83,0,1,83,2019-01,2025-11
+Puducherry,Aggregate fuel,Gas and Other Fossil,%,83,83,0,1,83,2019-01,2025-11
+Puducherry,Aggregate fuel,Gas and Other Fossil,ktCO2,83,83,0,1,83,2019-01,2025-11
+Puducherry,Aggregate fuel,"Hydro, Bioenergy and Other Renewables",%,83,83,0,83,83,2019-01,2025-11
+Puducherry,Aggregate fuel,"Hydro, Bioenergy and Other Renewables",ktCO2,83,83,0,83,83,2019-01,2025-11
+Puducherry,Aggregate fuel,Renewables,%,83,83,0,0,83,2019-01,2025-11
+Puducherry,Aggregate fuel,Renewables,ktCO2,83,83,0,0,83,2019-01,2025-11
+Puducherry,Aggregate fuel,Wind and Solar,%,83,83,0,0,83,2019-01,2025-11
+Puducherry,Aggregate fuel,Wind and Solar,ktCO2,83,83,0,0,83,2019-01,2025-11
+Puducherry,CO2 intensity,CO2 intensity,gCO2/kWh,83,83,0,0,83,2019-01,2025-11
+Puducherry,Fuel,Bioenergy,%,83,83,0,83,83,2019-01,2025-11
+Puducherry,Fuel,Bioenergy,ktCO2,83,83,0,83,83,2019-01,2025-11
+Puducherry,Fuel,Coal,%,83,83,0,83,83,2019-01,2025-11
+Puducherry,Fuel,Coal,ktCO2,83,83,0,83,83,2019-01,2025-11
+Puducherry,Fuel,Gas,%,83,83,0,1,83,2019-01,2025-11
+Puducherry,Fuel,Gas,ktCO2,83,83,0,1,83,2019-01,2025-11
+Puducherry,Fuel,Hydro,%,83,83,0,83,83,2019-01,2025-11
+Puducherry,Fuel,Hydro,ktCO2,83,83,0,83,83,2019-01,2025-11
+Puducherry,Fuel,Nuclear,%,83,83,0,83,83,2019-01,2025-11
+Puducherry,Fuel,Nuclear,ktCO2,83,83,0,83,83,2019-01,2025-11
+Puducherry,Fuel,Other Fossil,%,83,83,0,83,83,2019-01,2025-11
+Puducherry,Fuel,Other Fossil,ktCO2,83,83,0,83,83,2019-01,2025-11
+Puducherry,Fuel,Other Renewables,%,83,83,0,83,83,2019-01,2025-11
+Puducherry,Fuel,Other Renewables,ktCO2,83,83,0,83,83,2019-01,2025-11
+Puducherry,Fuel,Solar,%,83,83,0,0,83,2019-01,2025-11
+Puducherry,Fuel,Solar,ktCO2,83,83,0,0,83,2019-01,2025-11
+Puducherry,Fuel,Wind,%,83,83,0,83,83,2019-01,2025-11
+Puducherry,Fuel,Wind,ktCO2,83,83,0,83,83,2019-01,2025-11
+Puducherry,Total,Total emissions,ktCO2,83,83,0,0,83,2019-01,2025-11
+Punjab,Aggregate fuel,Clean,%,83,83,0,0,83,2019-01,2025-11
+Punjab,Aggregate fuel,Clean,ktCO2,83,83,0,0,83,2019-01,2025-11
+Punjab,Aggregate fuel,Fossil,%,83,83,0,1,83,2019-01,2025-11
+Punjab,Aggregate fuel,Fossil,ktCO2,83,83,0,1,83,2019-01,2025-11
+Punjab,Aggregate fuel,Gas and Other Fossil,%,83,83,0,83,83,2019-01,2025-11
+Punjab,Aggregate fuel,Gas and Other Fossil,ktCO2,83,83,0,83,83,2019-01,2025-11
+Punjab,Aggregate fuel,"Hydro, Bioenergy and Other Renewables",%,83,83,0,0,83,2019-01,2025-11
+Punjab,Aggregate fuel,"Hydro, Bioenergy and Other Renewables",ktCO2,83,83,0,0,83,2019-01,2025-11
+Punjab,Aggregate fuel,Renewables,%,83,83,0,0,83,2019-01,2025-11
+Punjab,Aggregate fuel,Renewables,ktCO2,83,83,0,0,83,2019-01,2025-11
+Punjab,Aggregate fuel,Wind and Solar,%,83,83,0,0,83,2019-01,2025-11
+Punjab,Aggregate fuel,Wind and Solar,ktCO2,83,83,0,0,83,2019-01,2025-11
+Punjab,CO2 intensity,CO2 intensity,gCO2/kWh,83,83,0,0,83,2019-01,2025-11
+Punjab,Fuel,Bioenergy,%,83,83,0,0,83,2019-01,2025-11
+Punjab,Fuel,Bioenergy,ktCO2,83,83,0,0,83,2019-01,2025-11
+Punjab,Fuel,Coal,%,83,83,0,1,83,2019-01,2025-11
+Punjab,Fuel,Coal,ktCO2,83,83,0,1,83,2019-01,2025-11
+Punjab,Fuel,Gas,%,83,83,0,83,83,2019-01,2025-11
+Punjab,Fuel,Gas,ktCO2,83,83,0,83,83,2019-01,2025-11
+Punjab,Fuel,Hydro,%,83,83,0,0,83,2019-01,2025-11
+Punjab,Fuel,Hydro,ktCO2,83,83,0,0,83,2019-01,2025-11
+Punjab,Fuel,Nuclear,%,83,83,0,83,83,2019-01,2025-11
+Punjab,Fuel,Nuclear,ktCO2,83,83,0,83,83,2019-01,2025-11
+Punjab,Fuel,Other Fossil,%,83,83,0,83,83,2019-01,2025-11
+Punjab,Fuel,Other Fossil,ktCO2,83,83,0,83,83,2019-01,2025-11
+Punjab,Fuel,Other Renewables,%,83,83,0,83,83,2019-01,2025-11
+Punjab,Fuel,Other Renewables,ktCO2,83,83,0,83,83,2019-01,2025-11
+Punjab,Fuel,Solar,%,83,83,0,0,83,2019-01,2025-11
+Punjab,Fuel,Solar,ktCO2,83,83,0,0,83,2019-01,2025-11
+Punjab,Fuel,Wind,%,83,83,0,81,83,2019-01,2025-11
+Punjab,Fuel,Wind,ktCO2,83,83,0,81,83,2019-01,2025-11
+Punjab,Total,Total emissions,ktCO2,83,83,0,0,83,2019-01,2025-11
+Rajasthan,Aggregate fuel,Clean,%,83,83,0,0,83,2019-01,2025-11
+Rajasthan,Aggregate fuel,Clean,ktCO2,83,83,0,0,83,2019-01,2025-11
+Rajasthan,Aggregate fuel,Fossil,%,83,83,0,0,83,2019-01,2025-11
+Rajasthan,Aggregate fuel,Fossil,ktCO2,83,83,0,0,83,2019-01,2025-11
+Rajasthan,Aggregate fuel,Gas and Other Fossil,%,83,83,0,0,83,2019-01,2025-11
+Rajasthan,Aggregate fuel,Gas and Other Fossil,ktCO2,83,83,0,0,83,2019-01,2025-11
+Rajasthan,Aggregate fuel,"Hydro, Bioenergy and Other Renewables",%,83,83,0,0,83,2019-01,2025-11
+Rajasthan,Aggregate fuel,"Hydro, Bioenergy and Other Renewables",ktCO2,83,83,0,0,83,2019-01,2025-11
+Rajasthan,Aggregate fuel,Renewables,%,83,83,0,0,83,2019-01,2025-11
+Rajasthan,Aggregate fuel,Renewables,ktCO2,83,83,0,0,83,2019-01,2025-11
+Rajasthan,Aggregate fuel,Wind and Solar,%,83,83,0,0,83,2019-01,2025-11
+Rajasthan,Aggregate fuel,Wind and Solar,ktCO2,83,83,0,0,83,2019-01,2025-11
+Rajasthan,CO2 intensity,CO2 intensity,gCO2/kWh,83,83,0,0,83,2019-01,2025-11
+Rajasthan,Fuel,Bioenergy,%,83,83,0,0,83,2019-01,2025-11
+Rajasthan,Fuel,Bioenergy,ktCO2,83,83,0,0,83,2019-01,2025-11
+Rajasthan,Fuel,Coal,%,83,83,0,0,83,2019-01,2025-11
+Rajasthan,Fuel,Coal,ktCO2,83,83,0,0,83,2019-01,2025-11
+Rajasthan,Fuel,Gas,%,83,83,0,0,83,2019-01,2025-11
+Rajasthan,Fuel,Gas,ktCO2,83,83,0,0,83,2019-01,2025-11
+Rajasthan,Fuel,Hydro,%,83,83,0,1,83,2019-01,2025-11
+Rajasthan,Fuel,Hydro,ktCO2,83,83,0,1,83,2019-01,2025-11
+Rajasthan,Fuel,Nuclear,%,83,83,0,0,83,2019-01,2025-11
+Rajasthan,Fuel,Nuclear,ktCO2,83,83,0,0,83,2019-01,2025-11
+Rajasthan,Fuel,Other Fossil,%,83,83,0,83,83,2019-01,2025-11
+Rajasthan,Fuel,Other Fossil,ktCO2,83,83,0,83,83,2019-01,2025-11
+Rajasthan,Fuel,Other Renewables,%,83,83,0,83,83,2019-01,2025-11
+Rajasthan,Fuel,Other Renewables,ktCO2,83,83,0,83,83,2019-01,2025-11
+Rajasthan,Fuel,Solar,%,83,83,0,0,83,2019-01,2025-11
+Rajasthan,Fuel,Solar,ktCO2,83,83,0,0,83,2019-01,2025-11
+Rajasthan,Fuel,Wind,%,83,83,0,0,83,2019-01,2025-11
+Rajasthan,Fuel,Wind,ktCO2,83,83,0,0,83,2019-01,2025-11
+Rajasthan,Total,Total emissions,ktCO2,83,83,0,0,83,2019-01,2025-11
+Sikkim,Aggregate fuel,Clean,%,83,83,0,0,83,2019-01,2025-11
+Sikkim,Aggregate fuel,Clean,ktCO2,83,83,0,0,83,2019-01,2025-11
+Sikkim,Aggregate fuel,Fossil,%,83,83,0,83,83,2019-01,2025-11
+Sikkim,Aggregate fuel,Fossil,ktCO2,83,83,0,83,83,2019-01,2025-11
+Sikkim,Aggregate fuel,Gas and Other Fossil,%,83,83,0,83,83,2019-01,2025-11
+Sikkim,Aggregate fuel,Gas and Other Fossil,ktCO2,83,83,0,83,83,2019-01,2025-11
+Sikkim,Aggregate fuel,"Hydro, Bioenergy and Other Renewables",%,83,83,0,0,83,2019-01,2025-11
+Sikkim,Aggregate fuel,"Hydro, Bioenergy and Other Renewables",ktCO2,83,83,0,0,83,2019-01,2025-11
+Sikkim,Aggregate fuel,Renewables,%,83,83,0,0,83,2019-01,2025-11
+Sikkim,Aggregate fuel,Renewables,ktCO2,83,83,0,0,83,2019-01,2025-11
+Sikkim,Aggregate fuel,Wind and Solar,%,83,83,0,82,83,2019-01,2025-11
+Sikkim,Aggregate fuel,Wind and Solar,ktCO2,83,83,0,82,83,2019-01,2025-11
+Sikkim,CO2 intensity,CO2 intensity,gCO2/kWh,83,83,0,0,83,2019-01,2025-11
+Sikkim,Fuel,Bioenergy,%,83,83,0,83,83,2019-01,2025-11
+Sikkim,Fuel,Bioenergy,ktCO2,83,83,0,83,83,2019-01,2025-11
+Sikkim,Fuel,Coal,%,83,83,0,83,83,2019-01,2025-11
+Sikkim,Fuel,Coal,ktCO2,83,83,0,83,83,2019-01,2025-11
+Sikkim,Fuel,Gas,%,83,83,0,83,83,2019-01,2025-11
+Sikkim,Fuel,Gas,ktCO2,83,83,0,83,83,2019-01,2025-11
+Sikkim,Fuel,Hydro,%,83,83,0,0,83,2019-01,2025-11
+Sikkim,Fuel,Hydro,ktCO2,83,83,0,0,83,2019-01,2025-11
+Sikkim,Fuel,Nuclear,%,83,83,0,83,83,2019-01,2025-11
+Sikkim,Fuel,Nuclear,ktCO2,83,83,0,83,83,2019-01,2025-11
+Sikkim,Fuel,Other Fossil,%,83,83,0,83,83,2019-01,2025-11
+Sikkim,Fuel,Other Fossil,ktCO2,83,83,0,83,83,2019-01,2025-11
+Sikkim,Fuel,Other Renewables,%,83,83,0,83,83,2019-01,2025-11
+Sikkim,Fuel,Other Renewables,ktCO2,83,83,0,83,83,2019-01,2025-11
+Sikkim,Fuel,Solar,%,83,83,0,82,83,2019-01,2025-11
+Sikkim,Fuel,Solar,ktCO2,83,83,0,82,83,2019-01,2025-11
+Sikkim,Fuel,Wind,%,83,83,0,83,83,2019-01,2025-11
+Sikkim,Fuel,Wind,ktCO2,83,83,0,83,83,2019-01,2025-11
+Sikkim,Total,Total emissions,ktCO2,83,83,0,0,83,2019-01,2025-11
+Tamil Nadu,Aggregate fuel,Clean,%,83,83,0,0,83,2019-01,2025-11
+Tamil Nadu,Aggregate fuel,Clean,ktCO2,83,83,0,0,83,2019-01,2025-11
+Tamil Nadu,Aggregate fuel,Fossil,%,83,83,0,0,83,2019-01,2025-11
+Tamil Nadu,Aggregate fuel,Fossil,ktCO2,83,83,0,0,83,2019-01,2025-11
+Tamil Nadu,Aggregate fuel,Gas and Other Fossil,%,83,83,0,0,83,2019-01,2025-11
+Tamil Nadu,Aggregate fuel,Gas and Other Fossil,ktCO2,83,83,0,0,83,2019-01,2025-11
+Tamil Nadu,Aggregate fuel,"Hydro, Bioenergy and Other Renewables",%,83,83,0,0,83,2019-01,2025-11
+Tamil Nadu,Aggregate fuel,"Hydro, Bioenergy and Other Renewables",ktCO2,83,83,0,0,83,2019-01,2025-11
+Tamil Nadu,Aggregate fuel,Renewables,%,83,83,0,0,83,2019-01,2025-11
+Tamil Nadu,Aggregate fuel,Renewables,ktCO2,83,83,0,0,83,2019-01,2025-11
+Tamil Nadu,Aggregate fuel,Wind and Solar,%,83,83,0,0,83,2019-01,2025-11
+Tamil Nadu,Aggregate fuel,Wind and Solar,ktCO2,83,83,0,0,83,2019-01,2025-11
+Tamil Nadu,CO2 intensity,CO2 intensity,gCO2/kWh,83,83,0,0,83,2019-01,2025-11
+Tamil Nadu,Fuel,Bioenergy,%,83,83,0,0,83,2019-01,2025-11
+Tamil Nadu,Fuel,Bioenergy,ktCO2,83,83,0,0,83,2019-01,2025-11
+Tamil Nadu,Fuel,Coal,%,83,83,0,0,83,2019-01,2025-11
+Tamil Nadu,Fuel,Coal,ktCO2,83,83,0,0,83,2019-01,2025-11
+Tamil Nadu,Fuel,Gas,%,83,83,0,0,83,2019-01,2025-11
+Tamil Nadu,Fuel,Gas,ktCO2,83,83,0,0,83,2019-01,2025-11
+Tamil Nadu,Fuel,Hydro,%,83,83,0,0,83,2019-01,2025-11
+Tamil Nadu,Fuel,Hydro,ktCO2,83,83,0,0,83,2019-01,2025-11
+Tamil Nadu,Fuel,Nuclear,%,83,83,0,0,83,2019-01,2025-11
+Tamil Nadu,Fuel,Nuclear,ktCO2,83,83,0,0,83,2019-01,2025-11
+Tamil Nadu,Fuel,Other Fossil,%,83,83,0,83,83,2019-01,2025-11
+Tamil Nadu,Fuel,Other Fossil,ktCO2,83,83,0,83,83,2019-01,2025-11
+Tamil Nadu,Fuel,Other Renewables,%,83,83,0,83,83,2019-01,2025-11
+Tamil Nadu,Fuel,Other Renewables,ktCO2,83,83,0,83,83,2019-01,2025-11
+Tamil Nadu,Fuel,Solar,%,83,83,0,0,83,2019-01,2025-11
+Tamil Nadu,Fuel,Solar,ktCO2,83,83,0,0,83,2019-01,2025-11
+Tamil Nadu,Fuel,Wind,%,83,83,0,0,83,2019-01,2025-11
+Tamil Nadu,Fuel,Wind,ktCO2,83,83,0,0,83,2019-01,2025-11
+Tamil Nadu,Total,Total emissions,ktCO2,83,83,0,0,83,2019-01,2025-11
+Telangana,Aggregate fuel,Clean,%,83,83,0,0,83,2019-01,2025-11
+Telangana,Aggregate fuel,Clean,ktCO2,83,83,0,0,83,2019-01,2025-11
+Telangana,Aggregate fuel,Fossil,%,83,83,0,0,83,2019-01,2025-11
+Telangana,Aggregate fuel,Fossil,ktCO2,83,83,0,0,83,2019-01,2025-11
+Telangana,Aggregate fuel,Gas and Other Fossil,%,83,83,0,83,83,2019-01,2025-11
+Telangana,Aggregate fuel,Gas and Other Fossil,ktCO2,83,83,0,83,83,2019-01,2025-11
+Telangana,Aggregate fuel,"Hydro, Bioenergy and Other Renewables",%,83,83,0,0,83,2019-01,2025-11
+Telangana,Aggregate fuel,"Hydro, Bioenergy and Other Renewables",ktCO2,83,83,0,0,83,2019-01,2025-11
+Telangana,Aggregate fuel,Renewables,%,83,83,0,0,83,2019-01,2025-11
+Telangana,Aggregate fuel,Renewables,ktCO2,83,83,0,0,83,2019-01,2025-11
+Telangana,Aggregate fuel,Wind and Solar,%,83,83,0,0,83,2019-01,2025-11
+Telangana,Aggregate fuel,Wind and Solar,ktCO2,83,83,0,0,83,2019-01,2025-11
+Telangana,CO2 intensity,CO2 intensity,gCO2/kWh,83,83,0,0,83,2019-01,2025-11
+Telangana,Fuel,Bioenergy,%,83,83,0,4,83,2019-01,2025-11
+Telangana,Fuel,Bioenergy,ktCO2,83,83,0,4,83,2019-01,2025-11
+Telangana,Fuel,Coal,%,83,83,0,0,83,2019-01,2025-11
+Telangana,Fuel,Coal,ktCO2,83,83,0,0,83,2019-01,2025-11
+Telangana,Fuel,Gas,%,83,83,0,83,83,2019-01,2025-11
+Telangana,Fuel,Gas,ktCO2,83,83,0,83,83,2019-01,2025-11
+Telangana,Fuel,Hydro,%,83,83,0,2,83,2019-01,2025-11
+Telangana,Fuel,Hydro,ktCO2,83,83,0,2,83,2019-01,2025-11
+Telangana,Fuel,Nuclear,%,83,83,0,83,83,2019-01,2025-11
+Telangana,Fuel,Nuclear,ktCO2,83,83,0,83,83,2019-01,2025-11
+Telangana,Fuel,Other Fossil,%,83,83,0,83,83,2019-01,2025-11
+Telangana,Fuel,Other Fossil,ktCO2,83,83,0,83,83,2019-01,2025-11
+Telangana,Fuel,Other Renewables,%,83,83,0,3,83,2019-01,2025-11
+Telangana,Fuel,Other Renewables,ktCO2,83,83,0,3,83,2019-01,2025-11
+Telangana,Fuel,Solar,%,83,83,0,0,83,2019-01,2025-11
+Telangana,Fuel,Solar,ktCO2,83,83,0,0,83,2019-01,2025-11
+Telangana,Fuel,Wind,%,83,83,0,0,83,2019-01,2025-11
+Telangana,Fuel,Wind,ktCO2,83,83,0,0,83,2019-01,2025-11
+Telangana,Total,Total emissions,ktCO2,83,83,0,0,83,2019-01,2025-11
+Tripura,Aggregate fuel,Clean,%,83,83,0,1,83,2019-01,2025-11
+Tripura,Aggregate fuel,Clean,ktCO2,83,83,0,1,83,2019-01,2025-11
+Tripura,Aggregate fuel,Fossil,%,83,83,0,0,83,2019-01,2025-11
+Tripura,Aggregate fuel,Fossil,ktCO2,83,83,0,0,83,2019-01,2025-11
+Tripura,Aggregate fuel,Gas and Other Fossil,%,83,83,0,0,83,2019-01,2025-11
+Tripura,Aggregate fuel,Gas and Other Fossil,ktCO2,83,83,0,0,83,2019-01,2025-11
+Tripura,Aggregate fuel,"Hydro, Bioenergy and Other Renewables",%,83,83,0,61,83,2019-01,2025-11
+Tripura,Aggregate fuel,"Hydro, Bioenergy and Other Renewables",ktCO2,83,83,0,61,83,2019-01,2025-11
+Tripura,Aggregate fuel,Renewables,%,83,83,0,1,83,2019-01,2025-11
+Tripura,Aggregate fuel,Renewables,ktCO2,83,83,0,1,83,2019-01,2025-11
+Tripura,Aggregate fuel,Wind and Solar,%,83,83,0,7,83,2019-01,2025-11
+Tripura,Aggregate fuel,Wind and Solar,ktCO2,83,83,0,7,83,2019-01,2025-11
+Tripura,CO2 intensity,CO2 intensity,gCO2/kWh,83,83,0,0,83,2019-01,2025-11
+Tripura,Fuel,Bioenergy,%,83,83,0,83,83,2019-01,2025-11
+Tripura,Fuel,Bioenergy,ktCO2,83,83,0,83,83,2019-01,2025-11
+Tripura,Fuel,Coal,%,83,83,0,83,83,2019-01,2025-11
+Tripura,Fuel,Coal,ktCO2,83,83,0,83,83,2019-01,2025-11
+Tripura,Fuel,Gas,%,83,83,0,0,83,2019-01,2025-11
+Tripura,Fuel,Gas,ktCO2,83,83,0,0,83,2019-01,2025-11
+Tripura,Fuel,Hydro,%,83,83,0,61,83,2019-01,2025-11
+Tripura,Fuel,Hydro,ktCO2,83,83,0,61,83,2019-01,2025-11
+Tripura,Fuel,Nuclear,%,83,83,0,83,83,2019-01,2025-11
+Tripura,Fuel,Nuclear,ktCO2,83,83,0,83,83,2019-01,2025-11
+Tripura,Fuel,Other Fossil,%,83,83,0,83,83,2019-01,2025-11
+Tripura,Fuel,Other Fossil,ktCO2,83,83,0,83,83,2019-01,2025-11
+Tripura,Fuel,Other Renewables,%,83,83,0,83,83,2019-01,2025-11
+Tripura,Fuel,Other Renewables,ktCO2,83,83,0,83,83,2019-01,2025-11
+Tripura,Fuel,Solar,%,83,83,0,7,83,2019-01,2025-11
+Tripura,Fuel,Solar,ktCO2,83,83,0,7,83,2019-01,2025-11
+Tripura,Fuel,Wind,%,83,83,0,83,83,2019-01,2025-11
+Tripura,Fuel,Wind,ktCO2,83,83,0,83,83,2019-01,2025-11
+Tripura,Total,Total emissions,ktCO2,83,83,0,0,83,2019-01,2025-11
+Uttar Pradesh,Aggregate fuel,Clean,%,83,83,0,0,83,2019-01,2025-11
+Uttar Pradesh,Aggregate fuel,Clean,ktCO2,83,83,0,0,83,2019-01,2025-11
+Uttar Pradesh,Aggregate fuel,Fossil,%,83,83,0,0,83,2019-01,2025-11
+Uttar Pradesh,Aggregate fuel,Fossil,ktCO2,83,83,0,0,83,2019-01,2025-11
+Uttar Pradesh,Aggregate fuel,Gas and Other Fossil,%,83,83,0,3,83,2019-01,2025-11
+Uttar Pradesh,Aggregate fuel,Gas and Other Fossil,ktCO2,83,83,0,3,83,2019-01,2025-11
+Uttar Pradesh,Aggregate fuel,"Hydro, Bioenergy and Other Renewables",%,83,83,0,0,83,2019-01,2025-11
+Uttar Pradesh,Aggregate fuel,"Hydro, Bioenergy and Other Renewables",ktCO2,83,83,0,0,83,2019-01,2025-11
+Uttar Pradesh,Aggregate fuel,Renewables,%,83,83,0,0,83,2019-01,2025-11
+Uttar Pradesh,Aggregate fuel,Renewables,ktCO2,83,83,0,0,83,2019-01,2025-11
+Uttar Pradesh,Aggregate fuel,Wind and Solar,%,83,83,0,0,83,2019-01,2025-11
+Uttar Pradesh,Aggregate fuel,Wind and Solar,ktCO2,83,83,0,0,83,2019-01,2025-11
+Uttar Pradesh,CO2 intensity,CO2 intensity,gCO2/kWh,83,83,0,0,83,2019-01,2025-11
+Uttar Pradesh,Fuel,Bioenergy,%,83,83,0,0,83,2019-01,2025-11
+Uttar Pradesh,Fuel,Bioenergy,ktCO2,83,83,0,0,83,2019-01,2025-11
+Uttar Pradesh,Fuel,Coal,%,83,83,0,0,83,2019-01,2025-11
+Uttar Pradesh,Fuel,Coal,ktCO2,83,83,0,0,83,2019-01,2025-11
+Uttar Pradesh,Fuel,Gas,%,83,83,0,3,83,2019-01,2025-11
+Uttar Pradesh,Fuel,Gas,ktCO2,83,83,0,3,83,2019-01,2025-11
+Uttar Pradesh,Fuel,Hydro,%,83,83,0,0,83,2019-01,2025-11
+Uttar Pradesh,Fuel,Hydro,ktCO2,83,83,0,0,83,2019-01,2025-11
+Uttar Pradesh,Fuel,Nuclear,%,83,83,0,0,83,2019-01,2025-11
+Uttar Pradesh,Fuel,Nuclear,ktCO2,83,83,0,0,83,2019-01,2025-11
+Uttar Pradesh,Fuel,Other Fossil,%,83,83,0,83,83,2019-01,2025-11
+Uttar Pradesh,Fuel,Other Fossil,ktCO2,83,83,0,83,83,2019-01,2025-11
+Uttar Pradesh,Fuel,Other Renewables,%,83,83,0,38,83,2019-01,2025-11
+Uttar Pradesh,Fuel,Other Renewables,ktCO2,83,83,0,38,83,2019-01,2025-11
+Uttar Pradesh,Fuel,Solar,%,83,83,0,0,83,2019-01,2025-11
+Uttar Pradesh,Fuel,Solar,ktCO2,83,83,0,0,83,2019-01,2025-11
+Uttar Pradesh,Fuel,Wind,%,83,83,0,83,83,2019-01,2025-11
+Uttar Pradesh,Fuel,Wind,ktCO2,83,83,0,83,83,2019-01,2025-11
+Uttar Pradesh,Total,Total emissions,ktCO2,83,83,0,0,83,2019-01,2025-11
+Uttarakhand,Aggregate fuel,Clean,%,83,83,0,0,83,2019-01,2025-11
+Uttarakhand,Aggregate fuel,Clean,ktCO2,83,83,0,0,83,2019-01,2025-11
+Uttarakhand,Aggregate fuel,Fossil,%,83,83,0,38,83,2019-01,2025-11
+Uttarakhand,Aggregate fuel,Fossil,ktCO2,83,83,0,38,83,2019-01,2025-11
+Uttarakhand,Aggregate fuel,Gas and Other Fossil,%,83,83,0,38,83,2019-01,2025-11
+Uttarakhand,Aggregate fuel,Gas and Other Fossil,ktCO2,83,83,0,38,83,2019-01,2025-11
+Uttarakhand,Aggregate fuel,"Hydro, Bioenergy and Other Renewables",%,83,83,0,0,83,2019-01,2025-11
+Uttarakhand,Aggregate fuel,"Hydro, Bioenergy and Other Renewables",ktCO2,83,83,0,0,83,2019-01,2025-11
+Uttarakhand,Aggregate fuel,Renewables,%,83,83,0,0,83,2019-01,2025-11
+Uttarakhand,Aggregate fuel,Renewables,ktCO2,83,83,0,0,83,2019-01,2025-11
+Uttarakhand,Aggregate fuel,Wind and Solar,%,83,83,0,0,83,2019-01,2025-11
+Uttarakhand,Aggregate fuel,Wind and Solar,ktCO2,83,83,0,0,83,2019-01,2025-11
+Uttarakhand,CO2 intensity,CO2 intensity,gCO2/kWh,83,83,0,0,83,2019-01,2025-11
+Uttarakhand,Fuel,Bioenergy,%,83,83,0,13,83,2019-01,2025-11
+Uttarakhand,Fuel,Bioenergy,ktCO2,83,83,0,13,83,2019-01,2025-11
+Uttarakhand,Fuel,Coal,%,83,83,0,83,83,2019-01,2025-11
+Uttarakhand,Fuel,Coal,ktCO2,83,83,0,83,83,2019-01,2025-11
+Uttarakhand,Fuel,Gas,%,83,83,0,38,83,2019-01,2025-11
+Uttarakhand,Fuel,Gas,ktCO2,83,83,0,38,83,2019-01,2025-11
+Uttarakhand,Fuel,Hydro,%,83,83,0,0,83,2019-01,2025-11
+Uttarakhand,Fuel,Hydro,ktCO2,83,83,0,0,83,2019-01,2025-11
+Uttarakhand,Fuel,Nuclear,%,83,83,0,83,83,2019-01,2025-11
+Uttarakhand,Fuel,Nuclear,ktCO2,83,83,0,83,83,2019-01,2025-11
+Uttarakhand,Fuel,Other Fossil,%,83,83,0,83,83,2019-01,2025-11
+Uttarakhand,Fuel,Other Fossil,ktCO2,83,83,0,83,83,2019-01,2025-11
+Uttarakhand,Fuel,Other Renewables,%,83,83,0,83,83,2019-01,2025-11
+Uttarakhand,Fuel,Other Renewables,ktCO2,83,83,0,83,83,2019-01,2025-11
+Uttarakhand,Fuel,Solar,%,83,83,0,0,83,2019-01,2025-11
+Uttarakhand,Fuel,Solar,ktCO2,83,83,0,0,83,2019-01,2025-11
+Uttarakhand,Fuel,Wind,%,83,83,0,83,83,2019-01,2025-11
+Uttarakhand,Fuel,Wind,ktCO2,83,83,0,83,83,2019-01,2025-11
+Uttarakhand,Total,Total emissions,ktCO2,83,83,0,0,83,2019-01,2025-11
+West Bengal,Aggregate fuel,Clean,%,83,83,0,0,83,2019-01,2025-11
+West Bengal,Aggregate fuel,Clean,ktCO2,83,83,0,0,83,2019-01,2025-11
+West Bengal,Aggregate fuel,Fossil,%,83,83,0,0,83,2019-01,2025-11
+West Bengal,Aggregate fuel,Fossil,ktCO2,83,83,0,0,83,2019-01,2025-11
+West Bengal,Aggregate fuel,Gas and Other Fossil,%,83,83,0,83,83,2019-01,2025-11
+West Bengal,Aggregate fuel,Gas and Other Fossil,ktCO2,83,83,0,83,83,2019-01,2025-11
+West Bengal,Aggregate fuel,"Hydro, Bioenergy and Other Renewables",%,83,83,0,0,83,2019-01,2025-11
+West Bengal,Aggregate fuel,"Hydro, Bioenergy and Other Renewables",ktCO2,83,83,0,0,83,2019-01,2025-11
+West Bengal,Aggregate fuel,Renewables,%,83,83,0,0,83,2019-01,2025-11
+West Bengal,Aggregate fuel,Renewables,ktCO2,83,83,0,0,83,2019-01,2025-11
+West Bengal,Aggregate fuel,Wind and Solar,%,83,83,0,0,83,2019-01,2025-11
+West Bengal,Aggregate fuel,Wind and Solar,ktCO2,83,83,0,0,83,2019-01,2025-11
+West Bengal,CO2 intensity,CO2 intensity,gCO2/kWh,83,83,0,0,83,2019-01,2025-11
+West Bengal,Fuel,Bioenergy,%,83,83,0,66,83,2019-01,2025-11
+West Bengal,Fuel,Bioenergy,ktCO2,83,83,0,66,83,2019-01,2025-11
+West Bengal,Fuel,Coal,%,83,83,0,0,83,2019-01,2025-11
+West Bengal,Fuel,Coal,ktCO2,83,83,0,0,83,2019-01,2025-11
+West Bengal,Fuel,Gas,%,83,83,0,83,83,2019-01,2025-11
+West Bengal,Fuel,Gas,ktCO2,83,83,0,83,83,2019-01,2025-11
+West Bengal,Fuel,Hydro,%,83,83,0,0,83,2019-01,2025-11
+West Bengal,Fuel,Hydro,ktCO2,83,83,0,0,83,2019-01,2025-11
+West Bengal,Fuel,Nuclear,%,83,83,0,83,83,2019-01,2025-11
+West Bengal,Fuel,Nuclear,ktCO2,83,83,0,83,83,2019-01,2025-11
+West Bengal,Fuel,Other Fossil,%,83,83,0,83,83,2019-01,2025-11
+West Bengal,Fuel,Other Fossil,ktCO2,83,83,0,83,83,2019-01,2025-11
+West Bengal,Fuel,Other Renewables,%,83,83,0,17,83,2019-01,2025-11
+West Bengal,Fuel,Other Renewables,ktCO2,83,83,0,17,83,2019-01,2025-11
+West Bengal,Fuel,Solar,%,83,83,0,0,83,2019-01,2025-11
+West Bengal,Fuel,Solar,ktCO2,83,83,0,0,83,2019-01,2025-11
+West Bengal,Fuel,Wind,%,83,83,0,83,83,2019-01,2025-11
+West Bengal,Fuel,Wind,ktCO2,83,83,0,83,83,2019-01,2025-11
+West Bengal,Total,Total emissions,ktCO2,83,83,0,0,83,2019-01,2025-11

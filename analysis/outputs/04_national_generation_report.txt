@@ -1,0 +1,38 @@
+======================================================================
+A1: NATIONAL GENERATION ANALYSIS REPORT
+======================================================================
+
+DATA VALIDATION
+National record: India Total
+Monthly rows: 83
+Period: 2019-01 to 2025-11
+Required fields: complete
+Duplicate months: 0
+Negative generation values: 0
+
+RENEWABLE SOURCE RECONCILIATION
+Months matching aggregate: 83/83
+Maximum absolute difference (GWh): 0.0000000000
+
+ANNUAL SUMMARY
+ Year  Months_Observed  Total_Generation_GWh  Renewable_Generation_GWh  Fossil_Generation_GWh  Solar_GWh  Wind_GWh  Hydro_GWh  Bioenergy_GWh  Other_Renewables_GWh  Months_Expected          Period_Status  Renewable Share (%)  Fossil Share (%)  Solar Share of Renewables (%)  Wind Share of Renewables (%)  Hydro Share of Renewables (%)  Bioenergy Share of Renewables (%)  Other Renewables Share of Renewables (%)
+ 2019               12            1378509.82                 286427.82             1046919.12   46267.67  63314.28  161716.14       14746.76                382.97               12 Complete calendar year            20.778076         75.945714                      16.153344                     22.104794                      56.459648                           5.148508                                  0.133706
+ 2020               12            1342629.08                 298182.64              999833.33   58683.51  60427.42  163364.80       14495.97               1210.94               12 Complete calendar year            22.208862         74.468321                      19.680391                     20.265237                      54.786825                           4.861440                                  0.406107
+ 2021               12            1470121.55                 313878.08             1112325.54   68305.89  68094.26  159985.35       15331.80               2160.78               12 Complete calendar year            21.350485         75.662148                      21.761918                     21.694494                      50.970539                           4.884635                                  0.688414
+ 2022               12            1594834.18                 358564.90             1190074.60   95160.31  70045.17  174506.80       16349.00               2503.62               12 Complete calendar year            22.482895         74.620585                      26.539215                     19.534865                      48.668121                           4.559565                                  0.698233
+ 2023               12            1704979.42                 361866.73             1294908.26  113409.35  82106.39  148747.50       14929.90               2673.59               12 Complete calendar year            21.224111         75.948615                      31.340088                     22.689676                      41.105603                           4.125801                                  0.738833
+ 2024               12            1804423.83                 387472.44             1362247.33  133795.05  81544.17  155796.69       13479.52               2857.01               12 Complete calendar year            21.473472         75.494865                      34.530211                     21.045154                      40.208457                           3.478833                                  0.737345
+ 2025               11            1677496.99                 430550.11             1197353.36  149238.23  98997.47  167788.02       11862.57               2663.82               11           Partial year            25.666223         71.377378                      34.662221                     22.993252                      38.970614                           2.755212                                  0.618702
+
+LATEST MONTH — NOVEMBER 2025
+      Date   Month  Total Generation  Renewables   Fossil    Solar    Wind    Hydro  Bioenergy  Other Renewables  Year  Month_Number Month_Name  Renewable Share (%)  Fossil Share (%)  Solar Share of Total (%)  Wind Share of Total (%)  Hydro Share of Total (%)  Bioenergy Share of Total (%)  Other Renewables Share of Total (%)  Solar Share of Renewables (%)  Wind Share of Renewables (%)  Hydro Share of Renewables (%)  Bioenergy Share of Renewables (%)  Other Renewables Share of Renewables (%)  Total Generation YoY Change (%)  Renewables YoY Change (%)  Fossil YoY Change (%)  Solar YoY Change (%)  Wind YoY Change (%)  Hydro YoY Change (%)  Bioenergy YoY Change (%)  Other Renewables YoY Change (%)  Renewable Sources Sum  Renewable Reconciliation Difference  Renewable Reconciliation Match
+2025-11-01 2025-11          132124.1    30408.57 97855.25 13185.97 4483.33 10729.17     1766.9             243.2  2025            11        Nov            23.015158         74.063135                  9.979989                 3.393272                  8.120525                      1.337303                             0.184069                      43.362677                      14.74364                      35.283376                           5.810533                                  0.799775                        -1.706966                  19.825443               -6.11732              17.24489            44.189584             13.140498                 35.679511                         2.950514               30408.57                        -3.637979e-12                            True
+
+OUTPUT FILES
+04_monthly_national_metrics.csv
+04_annual_national_summary.csv
+04_national_generation_report.txt
+charts/04_01_monthly_generation_trends.png
+charts/04_02_monthly_generation_shares.png
+charts/04_03_annual_renewable_share.png
+charts/04_04_renewable_source_trends.png

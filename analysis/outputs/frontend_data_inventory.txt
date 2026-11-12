@@ -1,0 +1,568 @@
+FRONTEND DATA INVENTORY
+Output directory: D:\Renewable energy intelligence platform\analysis\outputs
+
+=================================================================
+state_month_analysis.csv
+Shape: (1908, 75)
+Columns:
+State [str] | Month [str] | State code [str] | State type [str] | Bioenergy [float64] | Clean [float64] | Coal [float64] | Fossil [float64] | Gas [float64] | Gas and Other Fossil [float64] | Hydro [float64] | Hydro, Bioenergy and Other Renewables [float64] | Nuclear [float64] | Other Fossil [float64] | Other Renewables [float64] | Renewables [float64] | Solar [float64] | Total Generation [float64] | Wind [float64] | Wind and Solar [float64] | record_present__Bioenergy [bool] | value_missing__Bioenergy [bool] | record_missing__Bioenergy [bool] | record_present__Clean [bool] | value_missing__Clean [bool] | record_missing__Clean [bool] | record_present__Coal [bool] | value_missing__Coal [bool] | record_missing__Coal [bool] | record_present__Fossil [bool] | value_missing__Fossil [bool] | record_missing__Fossil [bool] | record_present__Gas [bool] | value_missing__Gas [bool] | record_missing__Gas [bool] | record_present__Gas and Other Fossil [bool] | value_missing__Gas and Other Fossil [bool] | record_missing__Gas and Other Fossil [bool] | record_present__Hydro [bool] | value_missing__Hydro [bool] | record_missing__Hydro [bool] | record_present__Hydro, Bioenergy and Other Renewables [bool] | value_missing__Hydro, Bioenergy and Other Renewables [bool] | record_missing__Hydro, Bioenergy and Other Renewables [bool] | record_present__Nuclear [bool] | value_missing__Nuclear [bool] | record_missing__Nuclear [bool] | record_present__Other Fossil [bool] | value_missing__Other Fossil [bool] | record_missing__Other Fossil [bool] | record_present__Other Renewables [bool] | value_missing__Other Renewables [bool] | record_missing__Other Renewables [bool] | record_present__Renewables [bool] | value_missing__Renewables [bool] | record_missing__Renewables [bool] | record_present__Solar [bool] | value_missing__Solar [bool] | record_missing__Solar [bool] | record_present__Total Generation [bool] | value_missing__Total Generation [bool] | record_missing__Total Generation [bool] | record_present__Wind [bool] | value_missing__Wind [bool] | record_missing__Wind [bool] | record_present__Wind and Solar [bool] | value_missing__Wind and Solar [bool] | record_missing__Wind and Solar [bool] | total_generation_available [bool] | renewable_generation_available [bool] | fossil_generation_available [bool] | renewable_share_inputs_available [bool] | fossil_share_inputs_available [bool] | renewable_source_breakdown_available [bool] | fossil_source_breakdown_available [bool]
+Missing: Coal=81 | Fossil=81 | Gas=81 | Gas and Other Fossil=81 | Nuclear=81 | Other Fossil=81
+Month range: 2021-07-01 to 2025-11-01
+State unique count: 36
+Sample records:
+              State   Month State code      State type  Bioenergy  Clean  Coal  ...  total_generation_available  renewable_generation_available  fossil_generation_available  renewable_share_inputs_available  fossil_share_inputs_available  renewable_source_breakdown_available  fossil_source_breakdown_available
+Andaman and Nicobar 2021-07         AN Union territory        0.0   2.62   0.0  ...                        True                            True                         True                              True                           True                                  True                               True
+Andaman and Nicobar 2021-08         AN Union territory        0.0   3.03   0.0  ...                        True                            True                         True                              True                           True                                  True                               True
+Numeric ranges:
+  Bioenergy: 0.0 to 945.1
+  Clean: 0.01 to 8962.31
+  Coal: 0.0 to 15328.61
+  Fossil: 0.0 to 15503.41
+  Gas: 0.0 to 2002.92
+  Gas and Other Fossil: 0.0 to 2002.92
+  Hydro: 0.0 to 6871.04
+  Hydro, Bioenergy and Other Renewables: 0.0 to 6871.04
+  Nuclear: 0.0 to 1689.01
+  Other Fossil: 0.0 to 35.28
+  Other Renewables: 0.0 to 148.16
+  Renewables: 0.01 to 7710.71
+  Solar: 0.0 to 5687.92
+  Total Generation: 0.01 to 16391.72
+  Wind: 0.0 to 4807.61
+  Wind and Solar: 0.0 to 6415.87
+
+=================================================================
+national_month_analysis.csv
+Shape: (83, 73)
+Columns:
+State [str] | Month [str] | Bioenergy [float64] | Clean [float64] | Coal [float64] | Fossil [float64] | Gas [float64] | Gas and Other Fossil [float64] | Hydro [float64] | Hydro, Bioenergy and Other Renewables [float64] | Nuclear [float64] | Other Fossil [float64] | Other Renewables [float64] | Renewables [float64] | Solar [float64] | Total Generation [float64] | Wind [float64] | Wind and Solar [float64] | record_present__Bioenergy [bool] | value_missing__Bioenergy [bool] | record_missing__Bioenergy [bool] | record_present__Clean [bool] | value_missing__Clean [bool] | record_missing__Clean [bool] | record_present__Coal [bool] | value_missing__Coal [bool] | record_missing__Coal [bool] | record_present__Fossil [bool] | value_missing__Fossil [bool] | record_missing__Fossil [bool] | record_present__Gas [bool] | value_missing__Gas [bool] | record_missing__Gas [bool] | record_present__Gas and Other Fossil [bool] | value_missing__Gas and Other Fossil [bool] | record_missing__Gas and Other Fossil [bool] | record_present__Hydro [bool] | value_missing__Hydro [bool] | record_missing__Hydro [bool] | record_present__Hydro, Bioenergy and Other Renewables [bool] | value_missing__Hydro, Bioenergy and Other Renewables [bool] | record_missing__Hydro, Bioenergy and Other Renewables [bool] | record_present__Nuclear [bool] | value_missing__Nuclear [bool] | record_missing__Nuclear [bool] | record_present__Other Fossil [bool] | value_missing__Other Fossil [bool] | record_missing__Other Fossil [bool] | record_present__Other Renewables [bool] | value_missing__Other Renewables [bool] | record_missing__Other Renewables [bool] | record_present__Renewables [bool] | value_missing__Renewables [bool] | record_missing__Renewables [bool] | record_present__Solar [bool] | value_missing__Solar [bool] | record_missing__Solar [bool] | record_present__Total Generation [bool] | value_missing__Total Generation [bool] | record_missing__Total Generation [bool] | record_present__Wind [bool] | value_missing__Wind [bool] | record_missing__Wind [bool] | record_present__Wind and Solar [bool] | value_missing__Wind and Solar [bool] | record_missing__Wind and Solar [bool] | total_generation_available [bool] | renewable_generation_available [bool] | fossil_generation_available [bool] | renewable_share_inputs_available [bool] | fossil_share_inputs_available [bool] | renewable_source_breakdown_available [bool] | fossil_source_breakdown_available [bool]
+Month range: 2019-01-01 to 2025-11-01
+State values: India Total
+Sample records:
+      State   Month  Bioenergy    Clean     Coal   Fossil     Gas  ...  total_generation_available  renewable_generation_available  fossil_generation_available  renewable_share_inputs_available  fossil_share_inputs_available  renewable_source_breakdown_available  fossil_source_breakdown_available
+India Total 2019-01     2582.0 19914.91 86375.09 90353.52 3971.55  ...                        True                            True                         True                              True                           True                                  True                               True
+India Total 2019-02     2186.5 19338.23 78298.38 81500.42 3194.95  ...                        True                            True                         True                              True                           True                                  True                               True
+Numeric ranges:
+  Bioenergy: 337.11 to 2593.42
+  Clean: 19338.23 to 59025.77
+  Coal: 61936.91 to 122671.82
+  Fossil: 66805.72 to 127870.48
+  Gas: 1433.56 to 5227.27
+  Gas and Other Fossil: 1463.47 to 5238.43
+  Hydro: 6370.17 to 25157.53
+  Hydro, Bioenergy and Other Renewables: 8597.33 to 25828.09
+  Nuclear: 2704.82 to 5492.07
+  Other Fossil: 5.75 to 35.5
+  Other Renewables: 23.95 to 252.03
+  Renewables: 16459.24 to 54489.41
+  Solar: 3438.82 to 16453.47
+  Total Generation: 91499.53 to 167414.52
+  Wind: 2111.48 to 17572.87
+  Wind and Solar: 5993.89 to 29673.48
+
+=================================================================
+04_annual_national_summary.csv
+Shape: (7, 19)
+Columns:
+Year [int64] | Months_Observed [int64] | Total_Generation_GWh [float64] | Renewable_Generation_GWh [float64] | Fossil_Generation_GWh [float64] | Solar_GWh [float64] | Wind_GWh [float64] | Hydro_GWh [float64] | Bioenergy_GWh [float64] | Other_Renewables_GWh [float64] | Months_Expected [int64] | Period_Status [str] | Renewable Share (%) [float64] | Fossil Share (%) [float64] | Solar Share of Renewables (%) [float64] | Wind Share of Renewables (%) [float64] | Hydro Share of Renewables (%) [float64] | Bioenergy Share of Renewables (%) [float64] | Other Renewables Share of Renewables (%) [float64]
+Year values: 2019, 2020, 2021, 2022, 2023, 2024, 2025
+Sample records:
+ Year  Months_Observed  Total_Generation_GWh  Renewable_Generation_GWh  Fossil_Generation_GWh  Solar_GWh  Wind_GWh  ...  Renewable Share (%)  Fossil Share (%)  Solar Share of Renewables (%)  Wind Share of Renewables (%) Hydro Share of Renewables (%)  Bioenergy Share of Renewables (%)  Other Renewables Share of Renewables (%)
+ 2019               12            1378509.82                 286427.82             1046919.12   46267.67  63314.28  ...            20.778076         75.945714                      16.153344                     22.104794                     56.459648                           5.148508                                  0.133706
+ 2020               12            1342629.08                 298182.64              999833.33   58683.51  60427.42  ...            22.208862         74.468321                      19.680391                     20.265237                     54.786825                           4.861440                                  0.406107
+Numeric ranges:
+  Year: 2019 to 2025
+  Months_Observed: 11 to 12
+  Total_Generation_GWh: 1342629.08 to 1804423.83
+  Renewable_Generation_GWh: 286427.82 to 430550.11
+  Fossil_Generation_GWh: 999833.33 to 1362247.33
+  Solar_GWh: 46267.67 to 149238.23
+  Wind_GWh: 60427.42 to 98997.47
+  Hydro_GWh: 148747.5 to 174506.8
+  Bioenergy_GWh: 11862.57 to 16349.0
+  Other_Renewables_GWh: 382.97 to 2857.01
+  Months_Expected: 11 to 12
+  Renewable Share (%): 20.778076140219294 to 25.666222506902976
+  Fossil Share (%): 71.37737755344646 to 75.94861526246459
+  Solar Share of Renewables (%): 16.15334362423315 to 34.66222085043714
+  Wind Share of Renewables (%): 19.53486523639096 to 22.99325158690588
+  Hydro Share of Renewables (%): 38.97061366445824 to 56.45964836795532
+  Bioenergy Share of Renewables (%): 2.7552123956024537 to 5.148508269901995
+  Other Renewables Share of Renewables (%): 0.1337055876765043 to 0.7388327741541756
+
+=================================================================
+04_monthly_national_metrics.csv
+Shape: (83, 36)
+Columns:
+Date [str] | Month [str] | Total Generation [float64] | Renewables [float64] | Fossil [float64] | Solar [float64] | Wind [float64] | Hydro [float64] | Bioenergy [float64] | Other Renewables [float64] | Year [int64] | Month_Number [int64] | Month_Name [str] | Renewable Share (%) [float64] | Fossil Share (%) [float64] | Solar Share of Total (%) [float64] | Wind Share of Total (%) [float64] | Hydro Share of Total (%) [float64] | Bioenergy Share of Total (%) [float64] | Other Renewables Share of Total (%) [float64] | Solar Share of Renewables (%) [float64] | Wind Share of Renewables (%) [float64] | Hydro Share of Renewables (%) [float64] | Bioenergy Share of Renewables (%) [float64] | Other Renewables Share of Renewables (%) [float64] | Total Generation YoY Change (%) [float64] | Renewables YoY Change (%) [float64] | Fossil YoY Change (%) [float64] | Solar YoY Change (%) [float64] | Wind YoY Change (%) [float64] | Hydro YoY Change (%) [float64] | Bioenergy YoY Change (%) [float64] | Other Renewables YoY Change (%) [float64] | Renewable Sources Sum [float64] | Renewable Reconciliation Difference [float64] | Renewable Reconciliation Match [bool]
+Missing: Total Generation YoY Change (%)=12 | Renewables YoY Change (%)=12 | Fossil YoY Change (%)=12 | Solar YoY Change (%)=12 | Wind YoY Change (%)=12 | Hydro YoY Change (%)=12 | Bioenergy YoY Change (%)=12 | Other Renewables YoY Change (%)=12
+Date range: 2019-01-01 to 2025-11-01
+Month range: 2019-01-01 to 2025-11-01
+Year values: 2019, 2020, 2021, 2022, 2023, 2024, 2025
+Sample records:
+      Date   Month  Total Generation  Renewables   Fossil   Solar    Wind  ...  Wind YoY Change (%)  Hydro YoY Change (%)  Bioenergy YoY Change (%)  Other Renewables YoY Change (%)  Renewable Sources Sum Renewable Reconciliation Difference  Renewable Reconciliation Match
+2019-01-01 2019-01         110268.43    16794.80 90353.52 3534.81 2851.89  ...                  NaN                   NaN                       NaN                              NaN               16794.80                        0.000000e+00                            True
+2019-02-01 2019-02         100838.65    16459.24 81500.42 3630.46 3094.47  ...                  NaN                   NaN                       NaN                              NaN               16459.24                        3.637979e-12                            True
+Numeric ranges:
+  Total Generation: 91499.53 to 167414.52
+  Renewables: 16459.24 to 54489.41
+  Fossil: 66805.72 to 127870.48
+  Solar: 3438.82 to 16453.47
+  Wind: 2111.48 to 17572.87
+  Hydro: 6370.17 to 25157.53
+  Bioenergy: 337.11 to 2593.42
+  Other Renewables: 23.95 to 252.03
+  Year: 2019 to 2025
+  Month_Number: 1 to 12
+  Renewable Share (%): 15.23083261455704 to 32.99193865431031
+  Fossil Share (%): 64.26141184381645 to 81.93960864410603
+  Solar Share of Total (%): 2.779780247637306 to 10.288694921364362
+  Wind Share of Total (%): 1.9976491566936208 to 10.639921574121834
+  Hydro Share of Total (%): 4.660210922686896 to 19.23643319075728
+  Bioenergy Share of Total (%): 0.2425137400708593 to 2.341558685473258
+  Other Renewables Share of Total (%): 0.0209196142353097 to 0.1956974616095633
+  Solar Share of Renewables (%): 10.293754755982928 to 50.56858450733228
+  Wind Share of Renewables (%): 9.480904877088324 to 35.49962540065231
+  Hydro Share of Renewables (%): 26.62432244579462 to 70.70338967449409
+  Bioenergy Share of Renewables (%): 0.7743100267049087 to 15.373806178102749
+  Other Renewables Share of Renewables (%): 0.0719925258616435 to 1.10057089185909
+  Total Generation YoY Change (%): -23.048510720322625 to 38.77187128720771
+  Renewables YoY Change (%): -13.081471773177244 to 33.86293096132513
+  Fossil YoY Change (%): -29.43070667617087 to 55.22233724896609
+  Solar YoY Change (%): -3.0305672437381754 to 59.067713972923976
+  Wind YoY Change (%): -38.582548749955926 to 97.83619699346563
+  Hydro YoY Change (%): -32.13232334926594 to 40.40785194834135
+  Bioenergy YoY Change (%): -54.167881230713554 to 220.1829575740114
+  Other Renewables YoY Change (%): -31.78581600683566 to 586.847599164927
+  Renewable Sources Sum: 16459.239999999998 to 54489.41
+  Renewable Reconciliation Difference: -7.275957614183426e-12 to 7.275957614183426e-12
+
+=================================================================
+07_national_annual_source_summary.csv
+Shape: (7, 20)
+Columns:
+Year [int64] | Months_Observed [int64] | Renewable_Generation_GWh [float64] | Total_Generation_GWh [float64] | Solar_GWh [float64] | Wind_GWh [float64] | Hydro_GWh [float64] | Bioenergy_GWh [float64] | Other Renewables_GWh [float64] | Solar_Share_of_Renewables_Pct [float64] | Solar_Share_of_Total_Generation_Pct [float64] | Wind_Share_of_Renewables_Pct [float64] | Wind_Share_of_Total_Generation_Pct [float64] | Hydro_Share_of_Renewables_Pct [float64] | Hydro_Share_of_Total_Generation_Pct [float64] | Bioenergy_Share_of_Renewables_Pct [float64] | Bioenergy_Share_of_Total_Generation_Pct [float64] | Other Renewables_Share_of_Renewables_Pct [float64] | Other Renewables_Share_of_Total_Generation_Pct [float64] | Period_Status [str]
+Year values: 2019, 2020, 2021, 2022, 2023, 2024, 2025
+Sample records:
+ Year  Months_Observed  Renewable_Generation_GWh  Total_Generation_GWh  Solar_GWh  Wind_GWh  Hydro_GWh  ...  Hydro_Share_of_Renewables_Pct  Hydro_Share_of_Total_Generation_Pct  Bioenergy_Share_of_Renewables_Pct  Bioenergy_Share_of_Total_Generation_Pct  Other Renewables_Share_of_Renewables_Pct  Other Renewables_Share_of_Total_Generation_Pct          Period_Status
+ 2019               12                 286427.82            1378509.82   46267.67  63314.28  161716.14  ...                      56.459648                            11.731229                           5.148508                                 1.069761                                  0.133706                                        0.027781 Complete calendar year
+ 2020               12                 298182.64            1342629.08   58683.51  60427.42  163364.80  ...                      54.786825                            12.167530                           4.861440                                 1.079670                                  0.406107                                        0.090192 Complete calendar year
+Numeric ranges:
+  Year: 2019 to 2025
+  Months_Observed: 11 to 12
+  Renewable_Generation_GWh: 286427.82 to 430550.11
+  Total_Generation_GWh: 1342629.08 to 1804423.83
+  Solar_GWh: 46267.67 to 149238.23
+  Wind_GWh: 60427.42 to 98997.47
+  Hydro_GWh: 148747.5 to 174506.8
+  Bioenergy_GWh: 11862.57 to 16349.0
+  Other Renewables_GWh: 382.97 to 2857.01
+  Solar_Share_of_Renewables_Pct: 16.15334362423315 to 34.66222085043714
+  Solar_Share_of_Total_Generation_Pct: 3.356354037434423 to 8.896482729307312
+  Wind_Share_of_Renewables_Pct: 19.53486523639096 to 22.99325158690588
+  Wind_Share_of_Total_Generation_Pct: 4.39200331159193 to 5.901499113867263
+  Hydro_Share_of_Renewables_Pct: 38.97061366445824 to 56.45964836795532
+  Hydro_Share_of_Total_Generation_Pct: 8.634151656044134 to 12.16753029064438
+  Bioenergy_Share_of_Renewables_Pct: 2.7552123956024537 to 5.148508269901995
+  Bioenergy_Share_of_Total_Generation_Pct: 0.7071589439930976 to 1.0796704924639349
+  Other Renewables_Share_of_Renewables_Pct: 0.1337055876765043 to 0.7388327741541756
+  Other Renewables_Share_of_Total_Generation_Pct: 0.0277814488111517 to 0.1587973043099171
+
+=================================================================
+07_national_monthly_source_metrics.csv
+Shape: (83, 18)
+Columns:
+Month [str] | Renewables [float64] | Total Generation [float64] | Solar [float64] | Wind [float64] | Hydro [float64] | Bioenergy [float64] | Other Renewables [float64] | Solar_Share_of_Renewables_Pct [float64] | Solar_Share_of_Total_Generation_Pct [float64] | Wind_Share_of_Renewables_Pct [float64] | Wind_Share_of_Total_Generation_Pct [float64] | Hydro_Share_of_Renewables_Pct [float64] | Hydro_Share_of_Total_Generation_Pct [float64] | Bioenergy_Share_of_Renewables_Pct [float64] | Bioenergy_Share_of_Total_Generation_Pct [float64] | Other Renewables_Share_of_Renewables_Pct [float64] | Other Renewables_Share_of_Total_Generation_Pct [float64]
+Month range: 2019-01-01 to 2025-11-01
+Sample records:
+  Month  Renewables  Total Generation   Solar    Wind   Hydro  Bioenergy  ...  Wind_Share_of_Total_Generation_Pct  Hydro_Share_of_Renewables_Pct  Hydro_Share_of_Total_Generation_Pct  Bioenergy_Share_of_Renewables_Pct  Bioenergy_Share_of_Total_Generation_Pct  Other Renewables_Share_of_Renewables_Pct  Other Renewables_Share_of_Total_Generation_Pct
+2019-01    16794.80         110268.43 3534.81 2851.89 7790.99     2582.0  ...                            2.586316                      46.389299                             7.065476                          15.373806                                 2.341559                                  0.209053                                         0.03184
+2019-02    16459.24         100838.65 3630.46 3094.47 7506.94     2186.5  ...                            3.068734                      45.609275                             7.444507                          13.284331                                 2.168315                                  0.248310                                         0.04053
+Numeric ranges:
+  Renewables: 16459.24 to 54489.41
+  Total Generation: 91499.53 to 167414.52
+  Solar: 3438.82 to 16453.47
+  Wind: 2111.48 to 17572.87
+  Hydro: 6370.17 to 25157.53
+  Bioenergy: 337.11 to 2593.42
+  Other Renewables: 23.95 to 252.03
+  Solar_Share_of_Renewables_Pct: 10.293754755982928 to 50.56858450733228
+  Solar_Share_of_Total_Generation_Pct: 2.779780247637306 to 10.288694921364362
+  Wind_Share_of_Renewables_Pct: 9.480904877088324 to 35.49962540065231
+  Wind_Share_of_Total_Generation_Pct: 1.9976491566936208 to 10.639921574121834
+  Hydro_Share_of_Renewables_Pct: 26.62432244579462 to 70.70338967449409
+  Hydro_Share_of_Total_Generation_Pct: 4.660210922686896 to 19.23643319075728
+  Bioenergy_Share_of_Renewables_Pct: 0.7743100267049087 to 15.373806178102749
+  Bioenergy_Share_of_Total_Generation_Pct: 0.2425137400708593 to 2.341558685473258
+  Other Renewables_Share_of_Renewables_Pct: 0.0719925258616435 to 1.10057089185909
+  Other Renewables_Share_of_Total_Generation_Pct: 0.0209196142353097 to 0.1956974616095633
+
+=================================================================
+07_national_source_composition.csv
+Shape: (5, 3)
+Columns:
+Source [str] | Generation_GWh [float64] | Share_of_Renewables_Pct [float64]
+Source values: Hydro, Solar, Wind, Bioenergy, Other Renewables
+Sample records:
+Source  Generation_GWh  Share_of_Renewables_Pct
+ Hydro      1131905.30                46.447760
+ Solar       664860.01                27.282546
+Numeric ranges:
+  Generation_GWh: 14452.73 to 1131905.3
+  Share_of_Renewables_Pct: 0.5930681046126518 to 46.44775975694661
+
+=================================================================
+07_annual_state_source_summary.csv
+Shape: (180, 16)
+Columns:
+State [str] | Year [int64] | Months_Observed [int64] | Renewable_Generation_GWh [float64] | Total_Generation_GWh [float64] | Solar_GWh [float64] | Wind_GWh [float64] | Hydro_GWh [float64] | Bioenergy_GWh [float64] | Other Renewables_GWh [float64] | Solar_Share_of_Renewables_Pct [float64] | Wind_Share_of_Renewables_Pct [float64] | Hydro_Share_of_Renewables_Pct [float64] | Bioenergy_Share_of_Renewables_Pct [float64] | Other Renewables_Share_of_Renewables_Pct [float64] | Period_Status [str]
+State unique count: 36
+Year values: 2021, 2022, 2023, 2024, 2025
+Sample records:
+              State  Year  Months_Observed  Renewable_Generation_GWh  Total_Generation_GWh  Solar_GWh  Wind_GWh  ...  Other Renewables_GWh  Solar_Share_of_Renewables_Pct  Wind_Share_of_Renewables_Pct  Hydro_Share_of_Renewables_Pct  Bioenergy_Share_of_Renewables_Pct  Other Renewables_Share_of_Renewables_Pct          Period_Status
+Andaman and Nicobar  2021                6                     18.88                 73.47       9.71       0.0  ...                   0.0                      51.430085                           0.0                      48.569915                                0.0                                       0.0           Partial year
+Andaman and Nicobar  2022               12                     37.76                214.93      23.47       0.0  ...                   0.0                      62.155720                           0.0                      37.844280                                0.0                                       0.0 Complete calendar year
+Numeric ranges:
+  Year: 2021 to 2025
+  Months_Observed: 6 to 12
+  Renewable_Generation_GWh: 0.11 to 61053.64
+  Total_Generation_GWh: 0.12 to 172204.84
+  Solar_GWh: 0.0 to 52459.59
+  Wind_GWh: 0.0 to 30793.54
+  Hydro_GWh: 0.0 to 43220.380000000005
+  Bioenergy_GWh: 0.0 to 5232.82
+  Other Renewables_GWh: 0.0 to 1662.6
+  Solar_Share_of_Renewables_Pct: 0.0 to 100.0
+  Wind_Share_of_Renewables_Pct: 0.0 to 68.27852225296947
+  Hydro_Share_of_Renewables_Pct: 0.0 to 100.0
+  Bioenergy_Share_of_Renewables_Pct: 0.0 to 55.29927563858177
+  Other Renewables_Share_of_Renewables_Pct: 0.0 to 72.99650884556546
+
+=================================================================
+07_state_source_period_metrics.csv
+Shape: (180, 9)
+Columns:
+State [str] | Source [str] | Months_Observed [int64] | Source_Generation_GWh [float64] | Renewable_Generation_GWh [float64] | Total_Generation_GWh [float64] | Source_Share_of_Renewables_Pct [float64] | Source_Share_of_Total_Generation_Pct [float64] | Contribution_to_India_Source_Pct [float64]
+State unique count: 36
+Source values: Solar, Wind, Hydro, Bioenergy, Other Renewables
+Sample records:
+              State Source  Months_Observed  Source_Generation_GWh  Renewable_Generation_GWh  Total_Generation_GWh  Source_Share_of_Renewables_Pct  Source_Share_of_Total_Generation_Pct  Contribution_to_India_Source_Pct
+Andaman and Nicobar  Solar               53                 102.37                    165.53                1429.9                       61.843775                              7.159242                          0.019509
+Andaman and Nicobar   Wind               53                   0.00                    165.53                1429.9                        0.000000                              0.000000                          0.000000
+Numeric ranges:
+  Months_Observed: 53 to 53
+  Source_Generation_GWh: 0.0 to 190916.83
+  Renewable_Generation_GWh: 0.64 to 212509.47
+  Total_Generation_GWh: 48.26 to 728014.02
+  Source_Share_of_Renewables_Pct: 0.0 to 100.0
+  Source_Share_of_Total_Generation_Pct: 0.0 to 100.0
+  Contribution_to_India_Source_Pct: 0.0 to 57.6381679918034
+
+=================================================================
+07_state_source_rankings.csv
+Shape: (180, 12)
+Columns:
+State [str] | Source [str] | Months_Observed [int64] | Source_Generation_GWh [float64] | Renewable_Generation_GWh [float64] | Total_Generation_GWh [float64] | Source_Share_of_Renewables_Pct [float64] | Source_Share_of_Total_Generation_Pct [float64] | Contribution_to_India_Source_Pct [float64] | Generation_Rank [int64] | Renewable_Mix_Share_Rank [int64] | National_Contribution_Rank [int64]
+State unique count: 36
+Source values: Solar, Wind, Hydro, Bioenergy, Other Renewables
+Sample records:
+    State Source  Months_Observed  Source_Generation_GWh  Renewable_Generation_GWh  Total_Generation_GWh  Source_Share_of_Renewables_Pct  Source_Share_of_Total_Generation_Pct  Contribution_to_India_Source_Pct  Generation_Rank  Renewable_Mix_Share_Rank  National_Contribution_Rank
+Rajasthan  Solar               53              175281.43                 212509.47             508972.56                       82.481703                             34.438287                         33.404099                1                         6                           1
+Karnataka  Solar               53               65537.48                 202569.13             408182.25                       32.353143                             16.055936                         12.489746                2                        18                           2
+Numeric ranges:
+  Months_Observed: 53 to 53
+  Source_Generation_GWh: 0.0 to 190916.83
+  Renewable_Generation_GWh: 0.64 to 212509.47
+  Total_Generation_GWh: 48.26 to 728014.02
+  Source_Share_of_Renewables_Pct: 0.0 to 100.0
+  Source_Share_of_Total_Generation_Pct: 0.0 to 100.0
+  Contribution_to_India_Source_Pct: 0.0 to 57.6381679918034
+  Generation_Rank: 1 to 36
+  Renewable_Mix_Share_Rank: 1 to 34
+  National_Contribution_Rank: 1 to 34
+
+=================================================================
+09_national_capacity_summary.csv
+Shape: (7, 5)
+Columns:
+Variable [str] | State_Month_Observations [int64] | Average_State_Capacity_MW [float64] | Average_National_Capacity_MW [float64] | Latest_National_Capacity_MW [float64]
+Missing: Latest_National_Capacity_MW=1
+Variable values: Renewables, Solar, Wind, Hydro, Bioenergy, Other Renewables, Fossil
+Sample records:
+  Variable  State_Month_Observations  Average_State_Capacity_MW  Average_National_Capacity_MW  Latest_National_Capacity_MW
+Renewables                      1896                5188.794536                 185621.781887                    253724.13
+     Solar                      1896                2168.157521                  77562.767170                    132594.98
+Numeric ranges:
+  State_Month_Observations: 504 to 1896
+  Average_State_Capacity_MW: 0.0 to 6953.5342364532025
+  Average_National_Capacity_MW: 0.0 to 239700.13301886787
+  Latest_National_Capacity_MW: 11610.18 to 253724.13
+
+=================================================================
+09_annual_state_capacity_summary.csv
+Shape: (180, 17)
+Columns:
+State [str] | Year [int64] | Months_Expected [int64] | Renewables_Average_MW [float64] | Renewables_Observed_Months [int64] | Solar_Average_MW [float64] | Solar_Observed_Months [int64] | Wind_Average_MW [float64] | Wind_Observed_Months [int64] | Hydro_Average_MW [float64] | Hydro_Observed_Months [int64] | Bioenergy_Average_MW [float64] | Bioenergy_Observed_Months [int64] | Other Renewables_Average_MW [float64] | Other Renewables_Observed_Months [int64] | Fossil_Average_MW [float64] | Fossil_Observed_Months [int64]
+Missing: Other Renewables_Average_MW=108 | Fossil_Average_MW=6
+State unique count: 36
+Year values: 2021, 2022, 2023, 2024, 2025
+Sample records:
+              State  Year  Months_Expected  Renewables_Average_MW  Renewables_Observed_Months  Solar_Average_MW  Solar_Observed_Months  ...  Hydro_Observed_Months  Bioenergy_Average_MW  Bioenergy_Observed_Months  Other Renewables_Average_MW  Other Renewables_Observed_Months  Fossil_Average_MW  Fossil_Observed_Months
+Andaman and Nicobar  2021                6                 34.740                           6            29.490                      6  ...                      6                   0.0                          6                          0.0                                 6          40.050000                       6
+Andaman and Nicobar  2022               12                 35.055                          12            29.805                     12  ...                     12                   0.0                         12                          0.0                                 8          57.603333                      12
+Numeric ranges:
+  Year: 2021 to 2025
+  Months_Expected: 6 to 12
+  Renewables_Average_MW: 3.27 to 37192.94454545455
+  Renewables_Observed_Months: 5 to 12
+  Solar_Average_MW: 3.028333333333333 to 31348.35454545455
+  Solar_Observed_Months: 5 to 12
+  Wind_Average_MW: 0.0 to 13686.372727272728
+  Wind_Observed_Months: 5 to 12
+  Hydro_Average_MW: 0.0 to 12094.449090909093
+  Hydro_Observed_Months: 5 to 12
+  Bioenergy_Average_MW: 0.0 to 2996.862727272727
+  Bioenergy_Observed_Months: 5 to 12
+  Other Renewables_Average_MW: 0.0 to 0.0
+  Other Renewables_Observed_Months: 0 to 8
+  Fossil_Average_MW: 0.0 to 30068.140000000003
+  Fossil_Observed_Months: 0 to 12
+
+=================================================================
+09_state_period_capacity_summary.csv
+Shape: (36, 30)
+Columns:
+State [str] | Months_Expected [int64] | Renewables_Observed_Months [int64] | Renewables_Average_MW [float64] | Renewables_Latest_MW [float64] | Renewables_Latest_Month [str] | Solar_Observed_Months [int64] | Solar_Average_MW [float64] | Solar_Latest_MW [float64] | Solar_Latest_Month [str] | Wind_Observed_Months [int64] | Wind_Average_MW [float64] | Wind_Latest_MW [float64] | Wind_Latest_Month [str] | Hydro_Observed_Months [int64] | Hydro_Average_MW [float64] | Hydro_Latest_MW [float64] | Hydro_Latest_Month [str] | Bioenergy_Observed_Months [int64] | Bioenergy_Average_MW [float64] | Bioenergy_Latest_MW [float64] | Bioenergy_Latest_Month [str] | Other Renewables_Observed_Months [int64] | Other Renewables_Average_MW [float64] | Other Renewables_Latest_MW [float64] | Other Renewables_Latest_Month [str] | Fossil_Observed_Months [int64] | Fossil_Average_MW [float64] | Fossil_Latest_MW [float64] | Fossil_Latest_Month [str]
+State unique count: 36
+Sample records:
+    State  Months_Expected  Renewables_Observed_Months  Renewables_Average_MW  Renewables_Latest_MW Renewables_Latest_Month  Solar_Observed_Months  ...  Other Renewables_Average_MW  Other Renewables_Latest_MW Other Renewables_Latest_Month  Fossil_Observed_Months  Fossil_Average_MW  Fossil_Latest_MW Fossil_Latest_Month
+  Gujarat               53                          53           25536.693774              41665.15                 2025-11                     53  ...                          0.0                         0.0                       2022-08                      53       23496.828868          22672.31             2025-11
+Rajasthan               53                          53           25251.568868              41763.52                 2025-11                     53  ...                          0.0                         0.0                       2022-08                      53       11625.673396          11846.83             2025-11
+Numeric ranges:
+  Months_Expected: 53 to 53
+  Renewables_Observed_Months: 47 to 53
+  Renewables_Average_MW: 4.247358490566037 to 25536.693773584902
+  Renewables_Latest_MW: 6.57 to 41763.52
+  Solar_Observed_Months: 47 to 53
+  Solar_Average_MW: 3.10320754716981 to 19753.384150943395
+  Solar_Latest_MW: 3.34 to 35910.9
+  Wind_Observed_Months: 47 to 53
+  Wind_Average_MW: 0.0 to 11116.272075471696
+  Wind_Latest_MW: 0.0 to 14638.0
+  Hydro_Observed_Months: 47 to 53
+  Hydro_Average_MW: 0.0 to 11374.388679245278
+  Hydro_Latest_MW: 0.0 to 12421.72
+  Bioenergy_Observed_Months: 47 to 53
+  Bioenergy_Average_MW: 0.0 to 2738.498679245282
+  Bioenergy_Latest_MW: 0.0 to 2998.3
+  Other Renewables_Observed_Months: 14 to 14
+  Other Renewables_Average_MW: 0.0 to 0.0
+  Other Renewables_Latest_MW: 0.0 to 0.0
+  Fossil_Observed_Months: 14 to 53
+  Fossil_Average_MW: 0.0 to 27073.00867924529
+  Fossil_Latest_MW: 0.0 to 31508.14
+
+=================================================================
+10_national_source_capacity_factor_summary.csv
+Shape: (4, 9)
+Columns:
+Source [str] | Valid_State_Months [int64] | Missing_Capacity_Months [int64] | Zero_Capacity_Positive_Generation_Months [int64] | Capacity_Factor_Above_100_Months [int64] | Generation_GWh [float64] | Capacity_Weighted_Factor_Pct [float64] | Mean_Monthly_Factor_Pct [float64] | Median_Monthly_Factor_Pct [float64]
+Source values: Solar, Wind, Hydro, Bioenergy
+Sample records:
+Source  Valid_State_Months  Missing_Capacity_Months  Zero_Capacity_Positive_Generation_Months  Capacity_Factor_Above_100_Months  Generation_GWh  Capacity_Weighted_Factor_Pct  Mean_Monthly_Factor_Pct  Median_Monthly_Factor_Pct
+ Solar                1896                       12                                         0                                 1       524716.00                     17.464844                 9.934709                   9.034501
+  Wind                 477                       12                                         0                                 2       370277.09                     21.282763                22.026912                  18.432392
+Numeric ranges:
+  Valid_State_Months: 477 to 1896
+  Missing_Capacity_Months: 12 to 12
+  Zero_Capacity_Positive_Generation_Months: 0 to 30
+  Capacity_Factor_Above_100_Months: 1 to 36
+  Generation_GWh: 63248.71000000001 to 743933.54
+  Capacity_Weighted_Factor_Pct: 14.884822370817387 to 36.80788264274554
+  Mean_Monthly_Factor_Pct: 9.934708737958813 to 30.712973177880556
+  Median_Monthly_Factor_Pct: 3.892817588826337 to 25.82921041219317
+
+=================================================================
+10_state_source_capacity_factor_summary.csv
+Shape: (144, 12)
+Columns:
+State [str] | Source [str] | Expected_Months [int64] | Valid_Capacity_Months [int64] | Missing_Capacity_Months [int64] | Zero_Capacity_Positive_Generation_Months [int64] | Capacity_Factor_Above_100_Months [int64] | Period_Generation_GWh [float64] | Average_Capacity_MW [float64] | Capacity_Weighted_Factor_Pct [float64] | Mean_Monthly_Factor_Pct [float64] | Median_Monthly_Factor_Pct [float64]
+Missing: Average_Capacity_MW=44 | Capacity_Weighted_Factor_Pct=44 | Mean_Monthly_Factor_Pct=44 | Median_Monthly_Factor_Pct=44
+State unique count: 36
+Source values: Bioenergy, Hydro, Solar, Wind
+Sample records:
+              State    Source  Expected_Months  Valid_Capacity_Months  Missing_Capacity_Months  Zero_Capacity_Positive_Generation_Months  Capacity_Factor_Above_100_Months  Period_Generation_GWh  Average_Capacity_MW  Capacity_Weighted_Factor_Pct  Mean_Monthly_Factor_Pct  Median_Monthly_Factor_Pct
+Andaman and Nicobar Bioenergy               53                      0                        0                                         0                                 0                   0.00                  NaN                           NaN                      NaN                        NaN
+Andaman and Nicobar     Hydro               53                     53                        0                                         0                                 0                  63.16                 5.25                     31.057611                31.000467                  31.490015
+Numeric ranges:
+  Expected_Months: 53 to 53
+  Valid_Capacity_Months: 0 to 53
+  Missing_Capacity_Months: 0 to 6
+  Zero_Capacity_Positive_Generation_Months: 0 to 30
+  Capacity_Factor_Above_100_Months: 0 to 36
+  Period_Generation_GWh: 0.0 to 190916.83
+  Average_Capacity_MW: 0.0499999999999999 to 19753.384150943395
+  Capacity_Weighted_Factor_Pct: 0.0 to 205.245766212309
+  Mean_Monthly_Factor_Pct: 0.0 to 205.14893091088865
+  Median_Monthly_Factor_Pct: 0.0 to 229.44444444444443
+
+=================================================================
+12_capacity_factor_sensitivity.csv
+Shape: (4, 9)
+Columns:
+Source [str] | Total_State_Month_Rows [int64] | Original_Valid_Months [int64] | Above_100_Months [int64] | Zero_Capacity_Positive_Generation_Months [int64] | Adjusted_Valid_Months [int64] | Original_Weighted_Factor_Pct [float64] | Adjusted_Weighted_Factor_Pct [float64] | Difference_Percentage_Points [float64]
+Source values: Solar, Wind, Hydro, Bioenergy
+Sample records:
+Source  Total_State_Month_Rows  Original_Valid_Months  Above_100_Months  Zero_Capacity_Positive_Generation_Months  Adjusted_Valid_Months  Original_Weighted_Factor_Pct  Adjusted_Weighted_Factor_Pct  Difference_Percentage_Points
+ Solar                    1908                   1896                 1                                         0                   1895                     17.464844                     17.464520                     -0.000325
+  Wind                    1908                    477                 2                                         0                    475                     21.282763                     21.275052                     -0.007710
+Numeric ranges:
+  Total_State_Month_Rows: 1908 to 1908
+  Original_Valid_Months: 477 to 1896
+  Above_100_Months: 1 to 36
+  Zero_Capacity_Positive_Generation_Months: 0 to 30
+  Adjusted_Valid_Months: 475 to 1895
+  Original_Weighted_Factor_Pct: 14.884822370817387 to 36.80788264274554
+  Adjusted_Weighted_Factor_Pct: 14.84034326336875 to 36.63782336896861
+  Difference_Percentage_Points: -0.1700592737769284 to -0.0003248640967008
+
+=================================================================
+13_adjusted_state_capacity_factor_rankings.csv
+Shape: (144, 15)
+Columns:
+State [str] | Source [str] | Original_Valid_Months [int64] | Excluded_Above_100_Months [int64] | Excluded_Kerala_Bioenergy_Months [int64] | Zero_Capacity_Positive_Generation_Months [int64] | Adjusted_Valid_Months [int64] | Adjusted_Generation_GWh [float64] | Average_Capacity_MW [float64] | Adjusted_Weighted_Factor_Pct [float64] | Mean_Monthly_Factor_Pct [float64] | Median_Monthly_Factor_Pct [float64] | Ranking_Eligible [bool] | Rank [float64] | Ranking_Status [str]
+Missing: Average_Capacity_MW=45 | Adjusted_Weighted_Factor_Pct=45 | Mean_Monthly_Factor_Pct=45 | Median_Monthly_Factor_Pct=45 | Rank=48
+State unique count: 36
+Source values: Bioenergy, Hydro, Solar, Wind
+Sample records:
+       State    Source  Original_Valid_Months  Excluded_Above_100_Months  Excluded_Kerala_Bioenergy_Months  Zero_Capacity_Positive_Generation_Months  Adjusted_Valid_Months  Adjusted_Generation_GWh  Average_Capacity_MW  Adjusted_Weighted_Factor_Pct  Mean_Monthly_Factor_Pct  Median_Monthly_Factor_Pct  Ranking_Eligible  Rank Ranking_Status
+Chhattisgarh Bioenergy                     53                          0                                 0                                         0                     53                  6125.60           276.665472                     57.158202                57.133818                  58.934506              True   1.0       Eligible
+   Rajasthan Bioenergy                     53                          0                                 0                                         0                     53                  1949.37           141.479434                     35.583213                35.372534                  36.598799              True   2.0       Eligible
+Numeric ranges:
+  Original_Valid_Months: 0 to 53
+  Excluded_Above_100_Months: 0 to 36
+  Excluded_Kerala_Bioenergy_Months: 0 to 53
+  Zero_Capacity_Positive_Generation_Months: 0 to 30
+  Adjusted_Valid_Months: 0 to 53
+  Adjusted_Generation_GWh: 0.0 to 190916.83
+  Average_Capacity_MW: 0.0499999999999999 to 19753.384150943395
+  Adjusted_Weighted_Factor_Pct: 0.0 to 57.15820227368863
+  Mean_Monthly_Factor_Pct: 0.0 to 57.13381799726388
+  Median_Monthly_Factor_Pct: 0.0 to 59.02816140200451
+  Rank: 1.0 to 31.0
+
+=================================================================
+13_capacity_factor_exclusion_register.csv
+Shape: (89, 7)
+Columns:
+State [str] | Month [str] | Source [str] | Generation_GWh [float64] | Capacity_MW [float64] | Original_Capacity_Factor_Pct [float64] | Exclusion_Reason [str]
+Missing: Original_Capacity_Factor_Pct=30
+Month range: 2021-07-01 to 2025-11-01
+State values: Sikkim, Kerala, Dadra and Nagar Haveli and Daman and Diu
+Source values: Solar, Wind, Hydro, Bioenergy
+Sample records:
+ State   Month Source  Generation_GWh  Capacity_MW  Original_Capacity_Factor_Pct           Exclusion_Reason
+Sikkim 2022-04  Solar           10.35         4.69                    306.503198 Capacity factor above 100%
+Kerala 2022-11   Wind           56.04        62.50                    124.533333 Capacity factor above 100%
+Numeric ranges:
+  Generation_GWh: 0.0 to 1795.38
+  Capacity_MW: 0.0 to 2337.11
+  Original_Capacity_Factor_Pct: 0.0 to 551.0752688172043
+
+=================================================================
+15_monthly_state_emissions.csv
+Shape: (1908, 8)
+Columns:
+State [str] | Month [str] | Total_Emissions_ktCO2 [float64] | Reported_CO2_Intensity_gCO2_kWh [float64] | Total_Generation_GWh [float64] | Calculated_CO2_Intensity_gCO2_kWh [float64] | Intensity_Absolute_Difference [float64] | Year [int64]
+Month range: 2021-07-01 to 2025-11-01
+State unique count: 36
+Year values: 2021, 2022, 2023, 2024, 2025
+Sample records:
+              State   Month  Total_Emissions_ktCO2  Reported_CO2_Intensity_gCO2_kWh  Total_Generation_GWh  Calculated_CO2_Intensity_gCO2_kWh  Intensity_Absolute_Difference  Year
+Andaman and Nicobar 2021-07                   5.46                           531.13                 10.28                         531.128405                       0.001595  2021
+Andaman and Nicobar 2021-08                   5.08                           500.99                 10.14                         500.986193                       0.003807  2021
+Numeric ranges:
+  Total_Emissions_ktCO2: 0.0 to 12644.29
+  Reported_CO2_Intensity_gCO2_kWh: 0.0 to 819.37
+  Total_Generation_GWh: 0.01 to 16391.72
+  Calculated_CO2_Intensity_gCO2_kWh: 0.0 to 819.366852886406
+  Intensity_Absolute_Difference: 0.0 to 0.0054877941305448
+  Year: 2021 to 2025
+
+=================================================================
+15_annual_state_emissions_summary.csv
+Shape: (180, 7)
+Columns:
+State [str] | Year [int64] | Months [float64] | Total_Emissions_ktCO2 [float64] | Total_Generation_GWh [float64] | Generation_Weighted_CO2_Intensity_gCO2_kWh [float64] | Period_Status [str]
+State unique count: 36
+Year values: 2021, 2022, 2023, 2024, 2025
+Sample records:
+              State  Year  Months  Total_Emissions_ktCO2  Total_Generation_GWh  Generation_Weighted_CO2_Intensity_gCO2_kWh Period_Status
+Andaman and Nicobar  2021     6.0                  38.91                 73.47                                  529.605570  Partial year
+Andaman and Nicobar  2022    12.0                 125.50                214.93                                  583.912277     Full year
+Numeric ranges:
+  Year: 2021 to 2025
+  Months: 6.0 to 12.0
+  Total_Emissions_ktCO2: 0.0 to 135295.75
+  Total_Generation_GWh: 0.1199999999999999 to 172204.84
+  Generation_Weighted_CO2_Intensity_gCO2_kWh: 0.0 to 818.6121648979591
+
+=================================================================
+15_state_period_emissions_summary.csv
+Shape: (36, 8)
+Columns:
+State [str] | Months [float64] | Total_Emissions_ktCO2 [float64] | Total_Generation_GWh [float64] | Generation_Weighted_CO2_Intensity_gCO2_kWh [float64] | Calculated_Period_CO2_Intensity_gCO2_kWh [float64] | Emissions_Rank [int64] | Intensity_Rank [int64]
+State unique count: 36
+Sample records:
+        State  Months  Total_Emissions_ktCO2  Total_Generation_GWh  Generation_Weighted_CO2_Intensity_gCO2_kWh  Calculated_Period_CO2_Intensity_gCO2_kWh  Emissions_Rank  Intensity_Rank
+ Chhattisgarh    53.0              561802.72             696156.44                                  807.006830                                807.006425               1               4
+Uttar Pradesh    53.0              557550.47             728014.02                                  765.851735                                765.851281               2               7
+Numeric ranges:
+  Months: 53.0 to 53.0
+  Total_Emissions_ktCO2: 2.33 to 561802.7200000001
+  Total_Generation_GWh: 48.26 to 728014.0199999999
+  Generation_Weighted_CO2_Intensity_gCO2_kWh: 23.96874548694144 to 817.302979090434
+  Calculated_Period_CO2_Intensity_gCO2_kWh: 23.96805301573905 to 817.3026659696809
+  Emissions_Rank: 1 to 36
+  Intensity_Rank: 1 to 36
+
+=================================================================
+15_state_emissions_2024_2025_comparison.csv
+Shape: (36, 10)
+Columns:
+State [str] | Total_Emissions_ktCO2_2024 [float64] | Total_Emissions_ktCO2_2025 [float64] | Total_Generation_GWh_2024 [float64] | Total_Generation_GWh_2025 [float64] | Generation_Weighted_CO2_Intensity_gCO2_kWh_2024 [float64] | Generation_Weighted_CO2_Intensity_gCO2_kWh_2025 [float64] | Total_Emissions_ktCO2_Change_Pct [float64] | Total_Generation_GWh_Change_Pct [float64] | Generation_Weighted_CO2_Intensity_gCO2_kWh_Change_Pct [float64]
+State unique count: 36
+Sample records:
+              State  Total_Emissions_ktCO2_2024  Total_Emissions_ktCO2_2025  Total_Generation_GWh_2024  Total_Generation_GWh_2025  Generation_Weighted_CO2_Intensity_gCO2_kWh_2024  Generation_Weighted_CO2_Intensity_gCO2_kWh_2025  Total_Emissions_ktCO2_Change_Pct  Total_Generation_GWh_Change_Pct  Generation_Weighted_CO2_Intensity_gCO2_kWh_Change_Pct
+Andaman and Nicobar                      232.14                      238.20                     368.63                     368.82                                       629.737620                                       645.844281                          2.610494                         0.051542                                               2.557678
+     Andhra Pradesh                    54913.94                    56157.94                   84215.13                   89601.50                                       652.068318                                       626.751164                          2.265363                         6.395965                                              -3.882592
+Numeric ranges:
+  Total_Emissions_ktCO2_2024: 0.41 to 123499.0
+  Total_Emissions_ktCO2_2025: 0.31 to 125027.75
+  Total_Generation_GWh_2024: 8.639999999999999 to 158737.57
+  Total_Generation_GWh_2025: 6.460000000000001 to 159791.95
+  Generation_Weighted_CO2_Intensity_gCO2_kWh_2024: 23.973043286068894 to 818.5074910394264
+  Generation_Weighted_CO2_Intensity_gCO2_kWh_2025: 23.976679115675747 to 818.6121648979591
+  Total_Emissions_ktCO2_Change_Pct: -37.18868477576653 to 30.107526881720425
+  Total_Generation_GWh_Change_Pct: -33.240430648895305 to 30.799776704784158
+  Generation_Weighted_CO2_Intensity_gCO2_kWh_Change_Pct: -31.17178859314911 to 5.245292895367477
+
+=================================================================
+CHART FILES
+charts\04_01_monthly_generation_trends.png (222600 bytes)
+charts\04_02_monthly_generation_shares.png (160413 bytes)
+charts\04_03_annual_renewable_share.png (50239 bytes)
+charts\04_04_renewable_source_trends.png (304594 bytes)
+charts\05_state_annual_renewable_share_heatmap.png (174644 bytes)
+charts\05_state_period_renewable_share.png (151561 bytes)
+charts\05_state_renewable_share_change_2024_2025.png (154585 bytes)
+charts\06_renewable_share_vs_generation.png (106396 bytes)
+charts\06_top_national_renewable_contributors.png (82888 bytes)
+charts\06_top_renewable_generation_states.png (83524 bytes)
+charts\07_national_annual_source_trends.png (154948 bytes)
+charts\07_national_renewable_source_composition.png (72394 bytes)
+charts\07_top_states_bioenergy.png (74914 bytes)
+charts\07_top_states_hydro.png (75198 bytes)
+charts\07_top_states_other_renewables.png (73629 bytes)
+charts\07_top_states_solar.png (74727 bytes)
+charts\07_top_states_wind.png (70014 bytes)

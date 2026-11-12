@@ -1,0 +1,32 @@
+Subcategory,Variable,Unit,rows,states,months
+Aggregate fuel,Clean,%,3085,38,83
+Aggregate fuel,Clean,GWh,3085,38,83
+Aggregate fuel,Fossil,%,3004,38,83
+Aggregate fuel,Fossil,GWh,3004,38,83
+Aggregate fuel,Gas and Other Fossil,%,3004,38,83
+Aggregate fuel,Gas and Other Fossil,GWh,3004,38,83
+Aggregate fuel,"Hydro, Bioenergy and Other Renewables",%,3085,38,83
+Aggregate fuel,"Hydro, Bioenergy and Other Renewables",GWh,3085,38,83
+Aggregate fuel,Renewables,%,3085,38,83
+Aggregate fuel,Renewables,GWh,3085,38,83
+Aggregate fuel,Wind and Solar,%,3085,38,83
+Aggregate fuel,Wind and Solar,GWh,3085,38,83
+Fuel,Bioenergy,%,3085,38,83
+Fuel,Bioenergy,GWh,3085,38,83
+Fuel,Coal,%,3004,38,83
+Fuel,Coal,GWh,3004,38,83
+Fuel,Gas,%,3004,38,83
+Fuel,Gas,GWh,3004,38,83
+Fuel,Hydro,%,3085,38,83
+Fuel,Hydro,GWh,3085,38,83
+Fuel,Nuclear,%,3004,38,83
+Fuel,Nuclear,GWh,3004,38,83
+Fuel,Other Fossil,%,3004,38,83
+Fuel,Other Fossil,GWh,3004,38,83
+Fuel,Other Renewables,%,3085,38,83
+Fuel,Other Renewables,GWh,3085,38,83
+Fuel,Solar,%,3085,38,83
+Fuel,Solar,GWh,3085,38,83
+Fuel,Wind,%,3085,38,83
+Fuel,Wind,GWh,3085,38,83
+Total,Total Generation,GWh,3085,38,83

@@ -1,0 +1,118 @@
+SOURCE DATASET INVENTORY
+=================================================================
+File: D:\Renewable energy intelligence platform\india_monthly.csv
+Rows: 238,200
+Columns: 13
+Column names: ['Country', 'Country code', 'State', 'State code', 'State type', 'Date', 'Category', 'Subcategory', 'Variable', 'Unit', 'Value', 'YoY absolute change', 'YoY % change']
+
+COLUMN-WISE NON-EMPTY COUNTS
+-----------------------------------------------------------------
+Country: 238,200 non-empty / 238,200
+Country code: 238,200 non-empty / 238,200
+State: 238,200 non-empty / 238,200
+State code: 238,200 non-empty / 238,200
+State type: 238,200 non-empty / 238,200
+Date: 238,200 non-empty / 238,200
+Category: 238,200 non-empty / 238,200
+Subcategory: 238,200 non-empty / 238,200
+Variable: 238,200 non-empty / 238,200
+Unit: 238,200 non-empty / 238,200
+Value: 234,687 non-empty / 238,200
+YoY absolute change: 122,043 non-empty / 238,200
+YoY % change: 74,593 non-empty / 238,200
+
+UNIQUE VALUES IN IMPORTANT COLUMNS
+-----------------------------------------------------------------
+
+Category (3 unique values):
+  'Capacity'
+  'Electricity generation'
+  'Power sector emissions'
+
+Subcategory (4 unique values):
+  'Aggregate fuel'
+  'CO2 intensity'
+  'Fuel'
+  'Total'
+
+Variable (18 unique values):
+  'Bioenergy'
+  'CO2 intensity'
+  'Clean'
+  'Coal'
+  'Fossil'
+  'Gas'
+  'Gas and Other Fossil'
+  'Hydro'
+  'Hydro, Bioenergy and Other Renewables'
+  'Nuclear'
+  'Other Fossil'
+  'Other Renewables'
+  'Renewables'
+  'Solar'
+  'Total Generation'
+  'Total emissions'
+  'Wind'
+  'Wind and Solar'
+
+Unit (5 unique values):
+  '%'
+  'GWh'
+  'MW'
+  'gCO2/kWh'
+  'ktCO2'
+
+DATE RANGE
+-----------------------------------------------------------------
+Invalid dates: 0
+Minimum date: 2019-01-01 00:00:00
+Maximum date: 2025-11-01 00:00:00
+Unique valid dates: 83
+
+STATE LABELS
+-----------------------------------------------------------------
+Count: 38
+  Andaman and Nicobar
+  Andhra Pradesh
+  Arunachal Pradesh
+  Assam
+  Bihar
+  Chandigarh
+  Chhattisgarh
+  Dadra and Nagar Haveli and Daman and Diu
+  Delhi
+  Goa
+  Gujarat
+  Haryana
+  Himachal Pradesh
+  India Total
+  Jammu and Kashmir
+  Jharkhand
+  Karnataka
+  Kerala
+  Ladakh
+  Lakshadweep
+  Madhya Pradesh
+  Maharashtra
+  Manipur
+  Meghalaya
+  Mizoram
+  Nagaland
+  Odisha
+  Others
+  Puducherry
+  Punjab
+  Rajasthan
+  Sikkim
+  Tamil Nadu
+  Telangana
+  Tripura
+  Uttar Pradesh
+  Uttarakhand
+  West Bengal
+
+VALUE FIELD
+-----------------------------------------------------------------
+Blank values: 3,513
+Numeric values: 234,687
+Non-blank, non-numeric values: 0

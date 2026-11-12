@@ -1,0 +1,3086 @@
+State,Month,rows,unique_variables,numeric_values,missing_variable_records,blank_value_records,complete
+Andaman and Nicobar,2019-01,16,16,16,0,0,True
+Andaman and Nicobar,2019-02,16,16,16,0,0,True
+Andaman and Nicobar,2019-03,16,16,16,0,0,True
+Andaman and Nicobar,2019-04,16,16,16,0,0,True
+Andaman and Nicobar,2019-05,16,16,16,0,0,True
+Andaman and Nicobar,2019-06,16,16,16,0,0,True
+Andaman and Nicobar,2019-07,16,16,16,0,0,True
+Andaman and Nicobar,2019-08,16,16,16,0,0,True
+Andaman and Nicobar,2019-09,16,16,16,0,0,True
+Andaman and Nicobar,2019-10,16,16,16,0,0,True
+Andaman and Nicobar,2019-11,16,16,16,0,0,True
+Andaman and Nicobar,2019-12,16,16,16,0,0,True
+Andaman and Nicobar,2020-01,16,16,16,0,0,True
+Andaman and Nicobar,2020-02,16,16,16,0,0,True
+Andaman and Nicobar,2020-03,16,16,16,0,0,True
+Andaman and Nicobar,2020-04,16,16,16,0,0,True
+Andaman and Nicobar,2020-05,16,16,16,0,0,True
+Andaman and Nicobar,2020-06,16,16,16,0,0,True
+Andaman and Nicobar,2020-07,16,16,16,0,0,True
+Andaman and Nicobar,2020-08,16,16,16,0,0,True
+Andaman and Nicobar,2020-09,16,16,16,0,0,True
+Andaman and Nicobar,2020-10,16,16,16,0,0,True
+Andaman and Nicobar,2020-11,16,16,16,0,0,True
+Andaman and Nicobar,2020-12,16,16,16,0,0,True
+Andaman and Nicobar,2021-01,16,16,16,0,0,True
+Andaman and Nicobar,2021-02,16,16,16,0,0,True
+Andaman and Nicobar,2021-03,16,16,16,0,0,True
+Andaman and Nicobar,2021-04,16,16,16,0,0,True
+Andaman and Nicobar,2021-05,16,16,16,0,0,True
+Andaman and Nicobar,2021-06,16,16,16,0,0,True
+Andaman and Nicobar,2021-07,16,16,16,0,0,True
+Andaman and Nicobar,2021-08,16,16,16,0,0,True
+Andaman and Nicobar,2021-09,16,16,16,0,0,True
+Andaman and Nicobar,2021-10,16,16,16,0,0,True
+Andaman and Nicobar,2021-11,16,16,16,0,0,True
+Andaman and Nicobar,2021-12,16,16,16,0,0,True
+Andaman and Nicobar,2022-01,16,16,16,0,0,True
+Andaman and Nicobar,2022-02,16,16,16,0,0,True
+Andaman and Nicobar,2022-03,16,16,16,0,0,True
+Andaman and Nicobar,2022-04,16,16,16,0,0,True
+Andaman and Nicobar,2022-05,16,16,16,0,0,True
+Andaman and Nicobar,2022-06,16,16,16,0,0,True
+Andaman and Nicobar,2022-07,16,16,16,0,0,True
+Andaman and Nicobar,2022-08,16,16,16,0,0,True
+Andaman and Nicobar,2022-09,16,16,16,0,0,True
+Andaman and Nicobar,2022-10,16,16,16,0,0,True
+Andaman and Nicobar,2022-11,16,16,16,0,0,True
+Andaman and Nicobar,2022-12,16,16,16,0,0,True
+Andaman and Nicobar,2023-01,16,16,16,0,0,True
+Andaman and Nicobar,2023-02,16,16,16,0,0,True
+Andaman and Nicobar,2023-03,16,16,16,0,0,True
+Andaman and Nicobar,2023-04,16,16,16,0,0,True
+Andaman and Nicobar,2023-05,16,16,16,0,0,True
+Andaman and Nicobar,2023-06,16,16,16,0,0,True
+Andaman and Nicobar,2023-07,16,16,16,0,0,True
+Andaman and Nicobar,2023-08,16,16,16,0,0,True
+Andaman and Nicobar,2023-09,16,16,16,0,0,True
+Andaman and Nicobar,2023-10,16,16,16,0,0,True
+Andaman and Nicobar,2023-11,16,16,16,0,0,True
+Andaman and Nicobar,2023-12,16,16,16,0,0,True
+Andaman and Nicobar,2024-01,16,16,16,0,0,True
+Andaman and Nicobar,2024-02,16,16,16,0,0,True
+Andaman and Nicobar,2024-03,16,16,16,0,0,True
+Andaman and Nicobar,2024-04,16,16,16,0,0,True
+Andaman and Nicobar,2024-05,16,16,16,0,0,True
+Andaman and Nicobar,2024-06,16,16,16,0,0,True
+Andaman and Nicobar,2024-07,16,16,16,0,0,True
+Andaman and Nicobar,2024-08,16,16,16,0,0,True
+Andaman and Nicobar,2024-09,16,16,16,0,0,True
+Andaman and Nicobar,2024-10,16,16,16,0,0,True
+Andaman and Nicobar,2024-11,16,16,16,0,0,True
+Andaman and Nicobar,2024-12,16,16,16,0,0,True
+Andaman and Nicobar,2025-01,16,16,16,0,0,True
+Andaman and Nicobar,2025-02,16,16,16,0,0,True
+Andaman and Nicobar,2025-03,16,16,16,0,0,True
+Andaman and Nicobar,2025-04,16,16,16,0,0,True
+Andaman and Nicobar,2025-05,16,16,16,0,0,True
+Andaman and Nicobar,2025-06,16,16,16,0,0,True
+Andaman and Nicobar,2025-07,16,16,16,0,0,True
+Andaman and Nicobar,2025-08,16,16,16,0,0,True
+Andaman and Nicobar,2025-09,16,16,16,0,0,True
+Andaman and Nicobar,2025-10,16,16,16,0,0,True
+Andaman and Nicobar,2025-11,16,16,16,0,0,True
+Andhra Pradesh,2019-01,16,16,16,0,0,True
+Andhra Pradesh,2019-02,16,16,16,0,0,True
+Andhra Pradesh,2019-03,16,16,16,0,0,True
+Andhra Pradesh,2019-04,16,16,16,0,0,True
+Andhra Pradesh,2019-05,16,16,16,0,0,True
+Andhra Pradesh,2019-06,16,16,16,0,0,True
+Andhra Pradesh,2019-07,16,16,16,0,0,True
+Andhra Pradesh,2019-08,16,16,16,0,0,True
+Andhra Pradesh,2019-09,16,16,16,0,0,True
+Andhra Pradesh,2019-10,16,16,16,0,0,True
+Andhra Pradesh,2019-11,16,16,16,0,0,True
+Andhra Pradesh,2019-12,16,16,16,0,0,True
+Andhra Pradesh,2020-01,16,16,16,0,0,True
+Andhra Pradesh,2020-02,16,16,16,0,0,True
+Andhra Pradesh,2020-03,16,16,16,0,0,True
+Andhra Pradesh,2020-04,16,16,16,0,0,True
+Andhra Pradesh,2020-05,16,16,16,0,0,True
+Andhra Pradesh,2020-06,16,16,16,0,0,True
+Andhra Pradesh,2020-07,16,16,16,0,0,True
+Andhra Pradesh,2020-08,16,16,16,0,0,True
+Andhra Pradesh,2020-09,16,16,16,0,0,True
+Andhra Pradesh,2020-10,16,16,16,0,0,True
+Andhra Pradesh,2020-11,16,16,16,0,0,True
+Andhra Pradesh,2020-12,16,16,16,0,0,True
+Andhra Pradesh,2021-01,16,16,16,0,0,True
+Andhra Pradesh,2021-02,16,16,16,0,0,True
+Andhra Pradesh,2021-03,16,16,16,0,0,True
+Andhra Pradesh,2021-04,16,16,16,0,0,True
+Andhra Pradesh,2021-05,16,16,16,0,0,True
+Andhra Pradesh,2021-06,16,16,16,0,0,True
+Andhra Pradesh,2021-07,16,16,16,0,0,True
+Andhra Pradesh,2021-08,16,16,16,0,0,True
+Andhra Pradesh,2021-09,16,16,16,0,0,True
+Andhra Pradesh,2021-10,16,16,16,0,0,True
+Andhra Pradesh,2021-11,16,16,16,0,0,True
+Andhra Pradesh,2021-12,16,16,16,0,0,True
+Andhra Pradesh,2022-01,16,16,16,0,0,True
+Andhra Pradesh,2022-02,16,16,16,0,0,True
+Andhra Pradesh,2022-03,16,16,16,0,0,True
+Andhra Pradesh,2022-04,16,16,16,0,0,True
+Andhra Pradesh,2022-05,16,16,16,0,0,True
+Andhra Pradesh,2022-06,16,16,16,0,0,True
+Andhra Pradesh,2022-07,16,16,16,0,0,True
+Andhra Pradesh,2022-08,16,16,16,0,0,True
+Andhra Pradesh,2022-09,16,16,16,0,0,True
+Andhra Pradesh,2022-10,16,16,16,0,0,True
+Andhra Pradesh,2022-11,16,16,16,0,0,True
+Andhra Pradesh,2022-12,16,16,16,0,0,True
+Andhra Pradesh,2023-01,16,16,16,0,0,True
+Andhra Pradesh,2023-02,16,16,16,0,0,True
+Andhra Pradesh,2023-03,16,16,16,0,0,True
+Andhra Pradesh,2023-04,16,16,16,0,0,True
+Andhra Pradesh,2023-05,16,16,16,0,0,True
+Andhra Pradesh,2023-06,16,16,16,0,0,True
+Andhra Pradesh,2023-07,16,16,16,0,0,True
+Andhra Pradesh,2023-08,16,16,16,0,0,True
+Andhra Pradesh,2023-09,16,16,16,0,0,True
+Andhra Pradesh,2023-10,16,16,16,0,0,True
+Andhra Pradesh,2023-11,16,16,16,0,0,True
+Andhra Pradesh,2023-12,16,16,16,0,0,True
+Andhra Pradesh,2024-01,16,16,16,0,0,True
+Andhra Pradesh,2024-02,16,16,16,0,0,True
+Andhra Pradesh,2024-03,16,16,16,0,0,True
+Andhra Pradesh,2024-04,16,16,16,0,0,True
+Andhra Pradesh,2024-05,16,16,16,0,0,True
+Andhra Pradesh,2024-06,16,16,16,0,0,True
+Andhra Pradesh,2024-07,16,16,16,0,0,True
+Andhra Pradesh,2024-08,16,16,16,0,0,True
+Andhra Pradesh,2024-09,16,16,16,0,0,True
+Andhra Pradesh,2024-10,16,16,16,0,0,True
+Andhra Pradesh,2024-11,16,16,16,0,0,True
+Andhra Pradesh,2024-12,16,16,16,0,0,True
+Andhra Pradesh,2025-01,16,16,16,0,0,True
+Andhra Pradesh,2025-02,16,16,16,0,0,True
+Andhra Pradesh,2025-03,16,16,16,0,0,True
+Andhra Pradesh,2025-04,16,16,16,0,0,True
+Andhra Pradesh,2025-05,16,16,16,0,0,True
+Andhra Pradesh,2025-06,16,16,16,0,0,True
+Andhra Pradesh,2025-07,16,16,16,0,0,True
+Andhra Pradesh,2025-08,16,16,16,0,0,True
+Andhra Pradesh,2025-09,16,16,16,0,0,True
+Andhra Pradesh,2025-10,16,16,16,0,0,True
+Andhra Pradesh,2025-11,16,16,16,0,0,True
+Arunachal Pradesh,2019-01,16,16,16,0,0,True
+Arunachal Pradesh,2019-02,16,16,16,0,0,True
+Arunachal Pradesh,2019-03,16,16,16,0,0,True
+Arunachal Pradesh,2019-04,16,16,16,0,0,True
+Arunachal Pradesh,2019-05,16,16,16,0,0,True
+Arunachal Pradesh,2019-06,16,16,16,0,0,True
+Arunachal Pradesh,2019-07,16,16,16,0,0,True
+Arunachal Pradesh,2019-08,16,16,16,0,0,True
+Arunachal Pradesh,2019-09,16,16,16,0,0,True
+Arunachal Pradesh,2019-10,16,16,16,0,0,True
+Arunachal Pradesh,2019-11,16,16,16,0,0,True
+Arunachal Pradesh,2019-12,16,16,16,0,0,True
+Arunachal Pradesh,2020-01,16,16,16,0,0,True
+Arunachal Pradesh,2020-02,16,16,16,0,0,True
+Arunachal Pradesh,2020-03,16,16,16,0,0,True
+Arunachal Pradesh,2020-04,16,16,16,0,0,True
+Arunachal Pradesh,2020-05,16,16,16,0,0,True
+Arunachal Pradesh,2020-06,16,16,16,0,0,True
+Arunachal Pradesh,2020-07,16,16,16,0,0,True
+Arunachal Pradesh,2020-08,16,16,16,0,0,True
+Arunachal Pradesh,2020-09,16,16,16,0,0,True
+Arunachal Pradesh,2020-10,16,16,16,0,0,True
+Arunachal Pradesh,2020-11,16,16,16,0,0,True
+Arunachal Pradesh,2020-12,16,16,16,0,0,True
+Arunachal Pradesh,2021-01,16,16,16,0,0,True
+Arunachal Pradesh,2021-02,16,16,16,0,0,True
+Arunachal Pradesh,2021-03,16,16,16,0,0,True
+Arunachal Pradesh,2021-04,16,16,16,0,0,True
+Arunachal Pradesh,2021-05,16,16,16,0,0,True
+Arunachal Pradesh,2021-06,16,16,16,0,0,True
+Arunachal Pradesh,2021-07,16,16,16,0,0,True
+Arunachal Pradesh,2021-08,16,16,16,0,0,True
+Arunachal Pradesh,2021-09,16,16,16,0,0,True
+Arunachal Pradesh,2021-10,16,16,16,0,0,True
+Arunachal Pradesh,2021-11,16,16,16,0,0,True
+Arunachal Pradesh,2021-12,16,16,16,0,0,True
+Arunachal Pradesh,2022-01,16,16,16,0,0,True
+Arunachal Pradesh,2022-02,16,16,16,0,0,True
+Arunachal Pradesh,2022-03,16,16,16,0,0,True
+Arunachal Pradesh,2022-04,16,16,16,0,0,True
+Arunachal Pradesh,2022-05,16,16,16,0,0,True
+Arunachal Pradesh,2022-06,16,16,16,0,0,True
+Arunachal Pradesh,2022-07,16,16,16,0,0,True
+Arunachal Pradesh,2022-08,16,16,16,0,0,True
+Arunachal Pradesh,2022-09,16,16,16,0,0,True
+Arunachal Pradesh,2022-10,16,16,16,0,0,True
+Arunachal Pradesh,2022-11,16,16,16,0,0,True
+Arunachal Pradesh,2022-12,16,16,16,0,0,True
+Arunachal Pradesh,2023-01,16,16,16,0,0,True
+Arunachal Pradesh,2023-02,16,16,16,0,0,True
+Arunachal Pradesh,2023-03,16,16,16,0,0,True
+Arunachal Pradesh,2023-04,16,16,16,0,0,True
+Arunachal Pradesh,2023-05,16,16,16,0,0,True
+Arunachal Pradesh,2023-06,16,16,16,0,0,True
+Arunachal Pradesh,2023-07,16,16,16,0,0,True
+Arunachal Pradesh,2023-08,16,16,16,0,0,True
+Arunachal Pradesh,2023-09,16,16,16,0,0,True
+Arunachal Pradesh,2023-10,16,16,16,0,0,True
+Arunachal Pradesh,2023-11,16,16,16,0,0,True
+Arunachal Pradesh,2023-12,16,16,16,0,0,True
+Arunachal Pradesh,2024-01,16,16,16,0,0,True
+Arunachal Pradesh,2024-02,16,16,16,0,0,True
+Arunachal Pradesh,2024-03,16,16,16,0,0,True
+Arunachal Pradesh,2024-04,16,16,16,0,0,True
+Arunachal Pradesh,2024-05,16,16,16,0,0,True
+Arunachal Pradesh,2024-06,16,16,16,0,0,True
+Arunachal Pradesh,2024-07,16,16,16,0,0,True
+Arunachal Pradesh,2024-08,16,16,16,0,0,True
+Arunachal Pradesh,2024-09,16,16,16,0,0,True
+Arunachal Pradesh,2024-10,16,16,16,0,0,True
+Arunachal Pradesh,2024-11,16,16,16,0,0,True
+Arunachal Pradesh,2024-12,16,16,16,0,0,True
+Arunachal Pradesh,2025-01,16,16,16,0,0,True
+Arunachal Pradesh,2025-02,16,16,16,0,0,True
+Arunachal Pradesh,2025-03,16,16,16,0,0,True
+Arunachal Pradesh,2025-04,16,16,16,0,0,True
+Arunachal Pradesh,2025-05,16,16,16,0,0,True
+Arunachal Pradesh,2025-06,16,16,16,0,0,True
+Arunachal Pradesh,2025-07,16,16,16,0,0,True
+Arunachal Pradesh,2025-08,16,16,16,0,0,True
+Arunachal Pradesh,2025-09,16,16,16,0,0,True
+Arunachal Pradesh,2025-10,16,16,16,0,0,True
+Arunachal Pradesh,2025-11,16,16,16,0,0,True
+Assam,2019-01,16,16,16,0,0,True
+Assam,2019-02,16,16,16,0,0,True
+Assam,2019-03,16,16,16,0,0,True
+Assam,2019-04,16,16,16,0,0,True
+Assam,2019-05,16,16,16,0,0,True
+Assam,2019-06,16,16,16,0,0,True
+Assam,2019-07,16,16,16,0,0,True
+Assam,2019-08,16,16,16,0,0,True
+Assam,2019-09,16,16,16,0,0,True
+Assam,2019-10,16,16,16,0,0,True
+Assam,2019-11,16,16,16,0,0,True
+Assam,2019-12,16,16,16,0,0,True
+Assam,2020-01,16,16,16,0,0,True
+Assam,2020-02,16,16,16,0,0,True
+Assam,2020-03,16,16,16,0,0,True
+Assam,2020-04,16,16,16,0,0,True
+Assam,2020-05,16,16,16,0,0,True
+Assam,2020-06,16,16,16,0,0,True
+Assam,2020-07,16,16,16,0,0,True
+Assam,2020-08,16,16,16,0,0,True
+Assam,2020-09,16,16,16,0,0,True
+Assam,2020-10,16,16,16,0,0,True
+Assam,2020-11,16,16,16,0,0,True
+Assam,2020-12,16,16,16,0,0,True
+Assam,2021-01,16,16,16,0,0,True
+Assam,2021-02,16,16,16,0,0,True
+Assam,2021-03,16,16,16,0,0,True
+Assam,2021-04,16,16,16,0,0,True
+Assam,2021-05,16,16,16,0,0,True
+Assam,2021-06,16,16,16,0,0,True
+Assam,2021-07,16,16,16,0,0,True
+Assam,2021-08,16,16,16,0,0,True
+Assam,2021-09,16,16,16,0,0,True
+Assam,2021-10,16,16,16,0,0,True
+Assam,2021-11,16,16,16,0,0,True
+Assam,2021-12,16,16,16,0,0,True
+Assam,2022-01,16,16,16,0,0,True
+Assam,2022-02,16,16,16,0,0,True
+Assam,2022-03,16,16,16,0,0,True
+Assam,2022-04,16,16,16,0,0,True
+Assam,2022-05,16,16,16,0,0,True
+Assam,2022-06,16,16,16,0,0,True
+Assam,2022-07,16,16,16,0,0,True
+Assam,2022-08,16,16,16,0,0,True
+Assam,2022-09,16,16,16,0,0,True
+Assam,2022-10,16,16,16,0,0,True
+Assam,2022-11,16,16,16,0,0,True
+Assam,2022-12,16,16,16,0,0,True
+Assam,2023-01,16,16,16,0,0,True
+Assam,2023-02,16,16,16,0,0,True
+Assam,2023-03,16,16,16,0,0,True
+Assam,2023-04,16,16,16,0,0,True
+Assam,2023-05,16,16,16,0,0,True
+Assam,2023-06,16,16,16,0,0,True
+Assam,2023-07,16,16,16,0,0,True
+Assam,2023-08,16,16,16,0,0,True
+Assam,2023-09,16,16,16,0,0,True
+Assam,2023-10,16,16,16,0,0,True
+Assam,2023-11,16,16,16,0,0,True
+Assam,2023-12,16,16,16,0,0,True
+Assam,2024-01,16,16,16,0,0,True
+Assam,2024-02,16,16,16,0,0,True
+Assam,2024-03,16,16,16,0,0,True
+Assam,2024-04,16,16,16,0,0,True
+Assam,2024-05,16,16,16,0,0,True
+Assam,2024-06,16,16,16,0,0,True
+Assam,2024-07,16,16,16,0,0,True
+Assam,2024-08,16,16,16,0,0,True
+Assam,2024-09,16,16,16,0,0,True
+Assam,2024-10,16,16,16,0,0,True
+Assam,2024-11,16,16,16,0,0,True
+Assam,2024-12,16,16,16,0,0,True
+Assam,2025-01,16,16,16,0,0,True
+Assam,2025-02,16,16,16,0,0,True
+Assam,2025-03,16,16,16,0,0,True
+Assam,2025-04,16,16,16,0,0,True
+Assam,2025-05,16,16,16,0,0,True
+Assam,2025-06,16,16,16,0,0,True
+Assam,2025-07,16,16,16,0,0,True
+Assam,2025-08,16,16,16,0,0,True
+Assam,2025-09,16,16,16,0,0,True
+Assam,2025-10,16,16,16,0,0,True
+Assam,2025-11,16,16,16,0,0,True
+Bihar,2019-01,16,16,16,0,0,True
+Bihar,2019-02,16,16,16,0,0,True
+Bihar,2019-03,16,16,16,0,0,True
+Bihar,2019-04,16,16,16,0,0,True
+Bihar,2019-05,16,16,16,0,0,True
+Bihar,2019-06,16,16,16,0,0,True
+Bihar,2019-07,16,16,16,0,0,True
+Bihar,2019-08,16,16,16,0,0,True
+Bihar,2019-09,16,16,16,0,0,True
+Bihar,2019-10,16,16,16,0,0,True
+Bihar,2019-11,16,16,16,0,0,True
+Bihar,2019-12,16,16,16,0,0,True
+Bihar,2020-01,16,16,16,0,0,True
+Bihar,2020-02,16,16,16,0,0,True
+Bihar,2020-03,16,16,16,0,0,True
+Bihar,2020-04,16,16,16,0,0,True
+Bihar,2020-05,16,16,16,0,0,True
+Bihar,2020-06,16,16,16,0,0,True
+Bihar,2020-07,16,16,16,0,0,True
+Bihar,2020-08,16,16,16,0,0,True
+Bihar,2020-09,16,16,16,0,0,True
+Bihar,2020-10,16,16,16,0,0,True
+Bihar,2020-11,16,16,16,0,0,True
+Bihar,2020-12,16,16,16,0,0,True
+Bihar,2021-01,16,16,16,0,0,True
+Bihar,2021-02,16,16,16,0,0,True
+Bihar,2021-03,16,16,16,0,0,True
+Bihar,2021-04,16,16,16,0,0,True
+Bihar,2021-05,16,16,16,0,0,True
+Bihar,2021-06,16,16,16,0,0,True
+Bihar,2021-07,16,16,16,0,0,True
+Bihar,2021-08,16,16,16,0,0,True
+Bihar,2021-09,16,16,16,0,0,True
+Bihar,2021-10,16,16,16,0,0,True
+Bihar,2021-11,16,16,16,0,0,True
+Bihar,2021-12,16,16,16,0,0,True
+Bihar,2022-01,16,16,16,0,0,True
+Bihar,2022-02,16,16,16,0,0,True
+Bihar,2022-03,16,16,16,0,0,True
+Bihar,2022-04,16,16,16,0,0,True
+Bihar,2022-05,16,16,16,0,0,True
+Bihar,2022-06,16,16,16,0,0,True
+Bihar,2022-07,16,16,16,0,0,True
+Bihar,2022-08,16,16,16,0,0,True
+Bihar,2022-09,16,16,16,0,0,True
+Bihar,2022-10,16,16,16,0,0,True
+Bihar,2022-11,16,16,16,0,0,True
+Bihar,2022-12,16,16,16,0,0,True
+Bihar,2023-01,16,16,16,0,0,True
+Bihar,2023-02,16,16,16,0,0,True
+Bihar,2023-03,16,16,16,0,0,True
+Bihar,2023-04,16,16,16,0,0,True
+Bihar,2023-05,16,16,16,0,0,True
+Bihar,2023-06,16,16,16,0,0,True
+Bihar,2023-07,16,16,16,0,0,True
+Bihar,2023-08,16,16,16,0,0,True
+Bihar,2023-09,16,16,16,0,0,True
+Bihar,2023-10,16,16,16,0,0,True
+Bihar,2023-11,16,16,16,0,0,True
+Bihar,2023-12,16,16,16,0,0,True
+Bihar,2024-01,16,16,16,0,0,True
+Bihar,2024-02,16,16,16,0,0,True
+Bihar,2024-03,16,16,16,0,0,True
+Bihar,2024-04,16,16,16,0,0,True
+Bihar,2024-05,16,16,16,0,0,True
+Bihar,2024-06,16,16,16,0,0,True
+Bihar,2024-07,16,16,16,0,0,True
+Bihar,2024-08,16,16,16,0,0,True
+Bihar,2024-09,16,16,16,0,0,True
+Bihar,2024-10,16,16,16,0,0,True
+Bihar,2024-11,16,16,16,0,0,True
+Bihar,2024-12,16,16,16,0,0,True
+Bihar,2025-01,16,16,16,0,0,True
+Bihar,2025-02,16,16,16,0,0,True
+Bihar,2025-03,16,16,16,0,0,True
+Bihar,2025-04,16,16,16,0,0,True
+Bihar,2025-05,16,16,16,0,0,True
+Bihar,2025-06,16,16,16,0,0,True
+Bihar,2025-07,16,16,16,0,0,True
+Bihar,2025-08,16,16,16,0,0,True
+Bihar,2025-09,16,16,16,0,0,True
+Bihar,2025-10,16,16,16,0,0,True
+Bihar,2025-11,16,16,16,0,0,True
+Chandigarh,2019-01,16,16,16,0,0,True
+Chandigarh,2019-02,16,16,16,0,0,True
+Chandigarh,2019-03,16,16,16,0,0,True
+Chandigarh,2019-04,16,16,16,0,0,True
+Chandigarh,2019-05,16,16,16,0,0,True
+Chandigarh,2019-06,16,16,16,0,0,True
+Chandigarh,2019-07,16,16,16,0,0,True
+Chandigarh,2019-08,16,16,16,0,0,True
+Chandigarh,2019-09,16,16,16,0,0,True
+Chandigarh,2019-10,16,16,16,0,0,True
+Chandigarh,2019-11,16,16,16,0,0,True
+Chandigarh,2019-12,16,16,16,0,0,True
+Chandigarh,2020-01,16,16,16,0,0,True
+Chandigarh,2020-02,16,16,16,0,0,True
+Chandigarh,2020-03,16,16,16,0,0,True
+Chandigarh,2020-04,16,16,16,0,0,True
+Chandigarh,2020-05,16,16,16,0,0,True
+Chandigarh,2020-06,16,16,16,0,0,True
+Chandigarh,2020-07,16,16,16,0,0,True
+Chandigarh,2020-08,16,16,16,0,0,True
+Chandigarh,2020-09,16,16,16,0,0,True
+Chandigarh,2020-10,16,16,16,0,0,True
+Chandigarh,2020-11,16,16,16,0,0,True
+Chandigarh,2020-12,16,16,16,0,0,True
+Chandigarh,2021-01,16,16,16,0,0,True
+Chandigarh,2021-02,16,16,16,0,0,True
+Chandigarh,2021-03,16,16,16,0,0,True
+Chandigarh,2021-04,16,16,16,0,0,True
+Chandigarh,2021-05,16,16,16,0,0,True
+Chandigarh,2021-06,16,16,16,0,0,True
+Chandigarh,2021-07,16,16,16,0,0,True
+Chandigarh,2021-08,16,16,16,0,0,True
+Chandigarh,2021-09,16,16,16,0,0,True
+Chandigarh,2021-10,16,16,16,0,0,True
+Chandigarh,2021-11,16,16,16,0,0,True
+Chandigarh,2021-12,16,16,16,0,0,True
+Chandigarh,2022-01,16,16,16,0,0,True
+Chandigarh,2022-02,16,16,16,0,0,True
+Chandigarh,2022-03,16,16,16,0,0,True
+Chandigarh,2022-04,16,16,16,0,0,True
+Chandigarh,2022-05,16,16,16,0,0,True
+Chandigarh,2022-06,16,16,16,0,0,True
+Chandigarh,2022-07,16,16,16,0,0,True
+Chandigarh,2022-08,16,16,16,0,0,True
+Chandigarh,2022-09,10,10,10,6,0,False
+Chandigarh,2022-10,10,10,10,6,0,False
+Chandigarh,2022-11,10,10,10,6,0,False
+Chandigarh,2022-12,10,10,10,6,0,False
+Chandigarh,2023-01,10,10,10,6,0,False
+Chandigarh,2023-02,10,10,10,6,0,False
+Chandigarh,2023-03,10,10,10,6,0,False
+Chandigarh,2023-04,10,10,10,6,0,False
+Chandigarh,2023-05,10,10,10,6,0,False
+Chandigarh,2023-06,10,10,10,6,0,False
+Chandigarh,2023-07,10,10,10,6,0,False
+Chandigarh,2023-08,10,10,10,6,0,False
+Chandigarh,2023-09,10,10,10,6,0,False
+Chandigarh,2023-10,10,10,10,6,0,False
+Chandigarh,2023-11,10,10,10,6,0,False
+Chandigarh,2023-12,10,10,10,6,0,False
+Chandigarh,2024-01,10,10,10,6,0,False
+Chandigarh,2024-02,10,10,10,6,0,False
+Chandigarh,2024-03,10,10,10,6,0,False
+Chandigarh,2024-04,10,10,10,6,0,False
+Chandigarh,2024-05,10,10,10,6,0,False
+Chandigarh,2024-06,10,10,10,6,0,False
+Chandigarh,2024-07,10,10,10,6,0,False
+Chandigarh,2024-08,10,10,10,6,0,False
+Chandigarh,2024-09,10,10,10,6,0,False
+Chandigarh,2024-10,10,10,10,6,0,False
+Chandigarh,2024-11,10,10,10,6,0,False
+Chandigarh,2024-12,10,10,10,6,0,False
+Chandigarh,2025-01,10,10,10,6,0,False
+Chandigarh,2025-02,10,10,10,6,0,False
+Chandigarh,2025-03,10,10,10,6,0,False
+Chandigarh,2025-04,10,10,10,6,0,False
+Chandigarh,2025-05,10,10,10,6,0,False
+Chandigarh,2025-06,10,10,10,6,0,False
+Chandigarh,2025-07,10,10,10,6,0,False
+Chandigarh,2025-08,10,10,10,6,0,False
+Chandigarh,2025-09,10,10,10,6,0,False
+Chandigarh,2025-10,10,10,10,6,0,False
+Chandigarh,2025-11,10,10,10,6,0,False
+Chhattisgarh,2019-01,16,16,16,0,0,True
+Chhattisgarh,2019-02,16,16,16,0,0,True
+Chhattisgarh,2019-03,16,16,16,0,0,True
+Chhattisgarh,2019-04,16,16,16,0,0,True
+Chhattisgarh,2019-05,16,16,16,0,0,True
+Chhattisgarh,2019-06,16,16,16,0,0,True
+Chhattisgarh,2019-07,16,16,16,0,0,True
+Chhattisgarh,2019-08,16,16,16,0,0,True
+Chhattisgarh,2019-09,16,16,16,0,0,True
+Chhattisgarh,2019-10,16,16,16,0,0,True
+Chhattisgarh,2019-11,16,16,16,0,0,True
+Chhattisgarh,2019-12,16,16,16,0,0,True
+Chhattisgarh,2020-01,16,16,16,0,0,True
+Chhattisgarh,2020-02,16,16,16,0,0,True
+Chhattisgarh,2020-03,16,16,16,0,0,True
+Chhattisgarh,2020-04,16,16,16,0,0,True
+Chhattisgarh,2020-05,16,16,16,0,0,True
+Chhattisgarh,2020-06,16,16,16,0,0,True
+Chhattisgarh,2020-07,16,16,16,0,0,True
+Chhattisgarh,2020-08,16,16,16,0,0,True
+Chhattisgarh,2020-09,16,16,16,0,0,True
+Chhattisgarh,2020-10,16,16,16,0,0,True
+Chhattisgarh,2020-11,16,16,16,0,0,True
+Chhattisgarh,2020-12,16,16,16,0,0,True
+Chhattisgarh,2021-01,16,16,16,0,0,True
+Chhattisgarh,2021-02,16,16,16,0,0,True
+Chhattisgarh,2021-03,16,16,16,0,0,True
+Chhattisgarh,2021-04,16,16,16,0,0,True
+Chhattisgarh,2021-05,16,16,16,0,0,True
+Chhattisgarh,2021-06,16,16,16,0,0,True
+Chhattisgarh,2021-07,16,16,16,0,0,True
+Chhattisgarh,2021-08,16,16,16,0,0,True
+Chhattisgarh,2021-09,16,16,16,0,0,True
+Chhattisgarh,2021-10,16,16,16,0,0,True
+Chhattisgarh,2021-11,16,16,16,0,0,True
+Chhattisgarh,2021-12,16,16,16,0,0,True
+Chhattisgarh,2022-01,16,16,16,0,0,True
+Chhattisgarh,2022-02,16,16,16,0,0,True
+Chhattisgarh,2022-03,16,16,16,0,0,True
+Chhattisgarh,2022-04,16,16,16,0,0,True
+Chhattisgarh,2022-05,16,16,16,0,0,True
+Chhattisgarh,2022-06,16,16,16,0,0,True
+Chhattisgarh,2022-07,16,16,16,0,0,True
+Chhattisgarh,2022-08,16,16,16,0,0,True
+Chhattisgarh,2022-09,16,16,16,0,0,True
+Chhattisgarh,2022-10,16,16,16,0,0,True
+Chhattisgarh,2022-11,16,16,16,0,0,True
+Chhattisgarh,2022-12,16,16,16,0,0,True
+Chhattisgarh,2023-01,16,16,16,0,0,True
+Chhattisgarh,2023-02,16,16,16,0,0,True
+Chhattisgarh,2023-03,16,16,16,0,0,True
+Chhattisgarh,2023-04,16,16,16,0,0,True
+Chhattisgarh,2023-05,16,16,16,0,0,True
+Chhattisgarh,2023-06,16,16,16,0,0,True
+Chhattisgarh,2023-07,16,16,16,0,0,True
+Chhattisgarh,2023-08,16,16,16,0,0,True
+Chhattisgarh,2023-09,16,16,16,0,0,True
+Chhattisgarh,2023-10,16,16,16,0,0,True
+Chhattisgarh,2023-11,16,16,16,0,0,True
+Chhattisgarh,2023-12,16,16,16,0,0,True
+Chhattisgarh,2024-01,16,16,16,0,0,True
+Chhattisgarh,2024-02,16,16,16,0,0,True
+Chhattisgarh,2024-03,16,16,16,0,0,True
+Chhattisgarh,2024-04,16,16,16,0,0,True
+Chhattisgarh,2024-05,16,16,16,0,0,True
+Chhattisgarh,2024-06,16,16,16,0,0,True
+Chhattisgarh,2024-07,16,16,16,0,0,True
+Chhattisgarh,2024-08,16,16,16,0,0,True
+Chhattisgarh,2024-09,16,16,16,0,0,True
+Chhattisgarh,2024-10,16,16,16,0,0,True
+Chhattisgarh,2024-11,16,16,16,0,0,True
+Chhattisgarh,2024-12,16,16,16,0,0,True
+Chhattisgarh,2025-01,16,16,16,0,0,True
+Chhattisgarh,2025-02,16,16,16,0,0,True
+Chhattisgarh,2025-03,16,16,16,0,0,True
+Chhattisgarh,2025-04,16,16,16,0,0,True
+Chhattisgarh,2025-05,16,16,16,0,0,True
+Chhattisgarh,2025-06,16,16,16,0,0,True
+Chhattisgarh,2025-07,16,16,16,0,0,True
+Chhattisgarh,2025-08,16,16,16,0,0,True
+Chhattisgarh,2025-09,16,16,16,0,0,True
+Chhattisgarh,2025-10,16,16,16,0,0,True
+Chhattisgarh,2025-11,16,16,16,0,0,True
+Dadra and Nagar Haveli and Daman and Diu,2019-01,16,16,16,0,0,True
+Dadra and Nagar Haveli and Daman and Diu,2019-02,16,16,16,0,0,True
+Dadra and Nagar Haveli and Daman and Diu,2019-03,16,16,16,0,0,True
+Dadra and Nagar Haveli and Daman and Diu,2019-04,16,16,16,0,0,True
+Dadra and Nagar Haveli and Daman and Diu,2019-05,16,16,16,0,0,True
+Dadra and Nagar Haveli and Daman and Diu,2019-06,16,16,16,0,0,True
+Dadra and Nagar Haveli and Daman and Diu,2019-07,16,16,16,0,0,True
+Dadra and Nagar Haveli and Daman and Diu,2019-08,16,16,16,0,0,True
+Dadra and Nagar Haveli and Daman and Diu,2019-09,16,16,16,0,0,True
+Dadra and Nagar Haveli and Daman and Diu,2019-10,16,16,16,0,0,True
+Dadra and Nagar Haveli and Daman and Diu,2019-11,16,16,16,0,0,True
+Dadra and Nagar Haveli and Daman and Diu,2019-12,16,16,16,0,0,True
+Dadra and Nagar Haveli and Daman and Diu,2020-01,16,16,16,0,0,True
+Dadra and Nagar Haveli and Daman and Diu,2020-02,16,16,16,0,0,True
+Dadra and Nagar Haveli and Daman and Diu,2020-03,16,16,16,0,0,True
+Dadra and Nagar Haveli and Daman and Diu,2020-04,16,16,16,0,0,True
+Dadra and Nagar Haveli and Daman and Diu,2020-05,16,16,16,0,0,True
+Dadra and Nagar Haveli and Daman and Diu,2020-06,16,16,16,0,0,True
+Dadra and Nagar Haveli and Daman and Diu,2020-07,16,16,16,0,0,True
+Dadra and Nagar Haveli and Daman and Diu,2020-08,16,16,16,0,0,True
+Dadra and Nagar Haveli and Daman and Diu,2020-09,16,16,16,0,0,True
+Dadra and Nagar Haveli and Daman and Diu,2020-10,16,16,16,0,0,True
+Dadra and Nagar Haveli and Daman and Diu,2020-11,16,16,16,0,0,True
+Dadra and Nagar Haveli and Daman and Diu,2020-12,16,16,16,0,0,True
+Dadra and Nagar Haveli and Daman and Diu,2021-01,16,16,16,0,0,True
+Dadra and Nagar Haveli and Daman and Diu,2021-02,16,16,16,0,0,True
+Dadra and Nagar Haveli and Daman and Diu,2021-03,16,16,16,0,0,True
+Dadra and Nagar Haveli and Daman and Diu,2021-04,16,16,16,0,0,True
+Dadra and Nagar Haveli and Daman and Diu,2021-05,16,16,16,0,0,True
+Dadra and Nagar Haveli and Daman and Diu,2021-06,16,16,16,0,0,True
+Dadra and Nagar Haveli and Daman and Diu,2021-07,16,16,16,0,0,True
+Dadra and Nagar Haveli and Daman and Diu,2021-08,16,16,16,0,0,True
+Dadra and Nagar Haveli and Daman and Diu,2021-09,16,16,16,0,0,True
+Dadra and Nagar Haveli and Daman and Diu,2021-10,16,16,16,0,0,True
+Dadra and Nagar Haveli and Daman and Diu,2021-11,16,16,16,0,0,True
+Dadra and Nagar Haveli and Daman and Diu,2021-12,16,16,16,0,0,True
+Dadra and Nagar Haveli and Daman and Diu,2022-01,16,16,16,0,0,True
+Dadra and Nagar Haveli and Daman and Diu,2022-02,16,16,16,0,0,True
+Dadra and Nagar Haveli and Daman and Diu,2022-03,16,16,16,0,0,True
+Dadra and Nagar Haveli and Daman and Diu,2022-04,16,16,16,0,0,True
+Dadra and Nagar Haveli and Daman and Diu,2022-05,16,16,16,0,0,True
+Dadra and Nagar Haveli and Daman and Diu,2022-06,16,16,16,0,0,True
+Dadra and Nagar Haveli and Daman and Diu,2022-07,16,16,16,0,0,True
+Dadra and Nagar Haveli and Daman and Diu,2022-08,16,16,16,0,0,True
+Dadra and Nagar Haveli and Daman and Diu,2022-09,10,10,10,6,0,False
+Dadra and Nagar Haveli and Daman and Diu,2022-10,10,10,10,6,0,False
+Dadra and Nagar Haveli and Daman and Diu,2022-11,10,10,10,6,0,False
+Dadra and Nagar Haveli and Daman and Diu,2022-12,10,10,10,6,0,False
+Dadra and Nagar Haveli and Daman and Diu,2023-01,10,10,10,6,0,False
+Dadra and Nagar Haveli and Daman and Diu,2023-02,10,10,10,6,0,False
+Dadra and Nagar Haveli and Daman and Diu,2023-03,10,10,10,6,0,False
+Dadra and Nagar Haveli and Daman and Diu,2023-04,10,10,10,6,0,False
+Dadra and Nagar Haveli and Daman and Diu,2023-05,10,10,10,6,0,False
+Dadra and Nagar Haveli and Daman and Diu,2023-06,10,10,10,6,0,False
+Dadra and Nagar Haveli and Daman and Diu,2023-07,10,10,10,6,0,False
+Dadra and Nagar Haveli and Daman and Diu,2023-08,10,10,10,6,0,False
+Dadra and Nagar Haveli and Daman and Diu,2023-09,10,10,10,6,0,False
+Dadra and Nagar Haveli and Daman and Diu,2023-10,10,10,10,6,0,False
+Dadra and Nagar Haveli and Daman and Diu,2023-11,10,10,10,6,0,False
+Dadra and Nagar Haveli and Daman and Diu,2023-12,10,10,10,6,0,False
+Dadra and Nagar Haveli and Daman and Diu,2024-01,10,10,10,6,0,False
+Dadra and Nagar Haveli and Daman and Diu,2024-02,10,10,10,6,0,False
+Dadra and Nagar Haveli and Daman and Diu,2024-03,10,10,10,6,0,False
+Dadra and Nagar Haveli and Daman and Diu,2024-04,10,10,10,6,0,False
+Dadra and Nagar Haveli and Daman and Diu,2024-05,10,10,10,6,0,False
+Dadra and Nagar Haveli and Daman and Diu,2024-06,10,10,10,6,0,False
+Dadra and Nagar Haveli and Daman and Diu,2024-07,10,10,10,6,0,False
+Dadra and Nagar Haveli and Daman and Diu,2024-08,10,10,10,6,0,False
+Dadra and Nagar Haveli and Daman and Diu,2024-09,10,10,10,6,0,False
+Dadra and Nagar Haveli and Daman and Diu,2024-10,10,10,10,6,0,False
+Dadra and Nagar Haveli and Daman and Diu,2024-11,10,10,10,6,0,False
+Dadra and Nagar Haveli and Daman and Diu,2024-12,10,10,10,6,0,False
+Dadra and Nagar Haveli and Daman and Diu,2025-01,10,10,10,6,0,False
+Dadra and Nagar Haveli and Daman and Diu,2025-02,10,10,10,6,0,False
+Dadra and Nagar Haveli and Daman and Diu,2025-03,10,10,10,6,0,False
+Dadra and Nagar Haveli and Daman and Diu,2025-04,10,10,10,6,0,False
+Dadra and Nagar Haveli and Daman and Diu,2025-05,10,10,10,6,0,False
+Dadra and Nagar Haveli and Daman and Diu,2025-06,10,10,10,6,0,False
+Dadra and Nagar Haveli and Daman and Diu,2025-07,10,10,10,6,0,False
+Dadra and Nagar Haveli and Daman and Diu,2025-08,10,10,10,6,0,False
+Dadra and Nagar Haveli and Daman and Diu,2025-09,10,10,10,6,0,False
+Dadra and Nagar Haveli and Daman and Diu,2025-10,10,10,10,6,0,False
+Dadra and Nagar Haveli and Daman and Diu,2025-11,10,10,10,6,0,False
+Delhi,2019-01,16,16,16,0,0,True
+Delhi,2019-02,16,16,16,0,0,True
+Delhi,2019-03,16,16,16,0,0,True
+Delhi,2019-04,16,16,16,0,0,True
+Delhi,2019-05,16,16,16,0,0,True
+Delhi,2019-06,16,16,16,0,0,True
+Delhi,2019-07,16,16,16,0,0,True
+Delhi,2019-08,16,16,16,0,0,True
+Delhi,2019-09,16,16,16,0,0,True
+Delhi,2019-10,16,16,16,0,0,True
+Delhi,2019-11,16,16,16,0,0,True
+Delhi,2019-12,16,16,16,0,0,True
+Delhi,2020-01,16,16,16,0,0,True
+Delhi,2020-02,16,16,16,0,0,True
+Delhi,2020-03,16,16,16,0,0,True
+Delhi,2020-04,16,16,16,0,0,True
+Delhi,2020-05,16,16,16,0,0,True
+Delhi,2020-06,16,16,16,0,0,True
+Delhi,2020-07,16,16,16,0,0,True
+Delhi,2020-08,16,16,16,0,0,True
+Delhi,2020-09,16,16,16,0,0,True
+Delhi,2020-10,16,16,16,0,0,True
+Delhi,2020-11,16,16,16,0,0,True
+Delhi,2020-12,16,16,16,0,0,True
+Delhi,2021-01,16,16,16,0,0,True
+Delhi,2021-02,16,16,16,0,0,True
+Delhi,2021-03,16,16,16,0,0,True
+Delhi,2021-04,16,16,16,0,0,True
+Delhi,2021-05,16,16,16,0,0,True
+Delhi,2021-06,16,16,16,0,0,True
+Delhi,2021-07,16,16,16,0,0,True
+Delhi,2021-08,16,16,16,0,0,True
+Delhi,2021-09,16,16,16,0,0,True
+Delhi,2021-10,16,16,16,0,0,True
+Delhi,2021-11,16,16,16,0,0,True
+Delhi,2021-12,16,16,16,0,0,True
+Delhi,2022-01,16,16,16,0,0,True
+Delhi,2022-02,16,16,16,0,0,True
+Delhi,2022-03,16,16,16,0,0,True
+Delhi,2022-04,16,16,16,0,0,True
+Delhi,2022-05,16,16,16,0,0,True
+Delhi,2022-06,16,16,16,0,0,True
+Delhi,2022-07,16,16,16,0,0,True
+Delhi,2022-08,16,16,16,0,0,True
+Delhi,2022-09,16,16,16,0,0,True
+Delhi,2022-10,16,16,16,0,0,True
+Delhi,2022-11,16,16,16,0,0,True
+Delhi,2022-12,16,16,16,0,0,True
+Delhi,2023-01,16,16,16,0,0,True
+Delhi,2023-02,16,16,16,0,0,True
+Delhi,2023-03,16,16,16,0,0,True
+Delhi,2023-04,16,16,16,0,0,True
+Delhi,2023-05,16,16,16,0,0,True
+Delhi,2023-06,16,16,16,0,0,True
+Delhi,2023-07,16,16,16,0,0,True
+Delhi,2023-08,16,16,16,0,0,True
+Delhi,2023-09,16,16,16,0,0,True
+Delhi,2023-10,16,16,16,0,0,True
+Delhi,2023-11,16,16,16,0,0,True
+Delhi,2023-12,16,16,16,0,0,True
+Delhi,2024-01,16,16,16,0,0,True
+Delhi,2024-02,16,16,16,0,0,True
+Delhi,2024-03,16,16,16,0,0,True
+Delhi,2024-04,16,16,16,0,0,True
+Delhi,2024-05,16,16,16,0,0,True
+Delhi,2024-06,16,16,16,0,0,True
+Delhi,2024-07,16,16,16,0,0,True
+Delhi,2024-08,16,16,16,0,0,True
+Delhi,2024-09,16,16,16,0,0,True
+Delhi,2024-10,16,16,16,0,0,True
+Delhi,2024-11,16,16,16,0,0,True
+Delhi,2024-12,16,16,16,0,0,True
+Delhi,2025-01,16,16,16,0,0,True
+Delhi,2025-02,16,16,16,0,0,True
+Delhi,2025-03,16,16,16,0,0,True
+Delhi,2025-04,16,16,16,0,0,True
+Delhi,2025-05,16,16,16,0,0,True
+Delhi,2025-06,16,16,16,0,0,True
+Delhi,2025-07,16,16,16,0,0,True
+Delhi,2025-08,16,16,16,0,0,True
+Delhi,2025-09,16,16,16,0,0,True
+Delhi,2025-10,16,16,16,0,0,True
+Delhi,2025-11,16,16,16,0,0,True
+Goa,2019-01,16,16,16,0,0,True
+Goa,2019-02,16,16,16,0,0,True
+Goa,2019-03,16,16,16,0,0,True
+Goa,2019-04,16,16,16,0,0,True
+Goa,2019-05,16,16,16,0,0,True
+Goa,2019-06,16,16,16,0,0,True
+Goa,2019-07,16,16,16,0,0,True
+Goa,2019-08,16,16,16,0,0,True
+Goa,2019-09,16,16,16,0,0,True
+Goa,2019-10,16,16,16,0,0,True
+Goa,2019-11,16,16,16,0,0,True
+Goa,2019-12,16,16,16,0,0,True
+Goa,2020-01,16,16,16,0,0,True
+Goa,2020-02,16,16,16,0,0,True
+Goa,2020-03,16,16,16,0,0,True
+Goa,2020-04,16,16,16,0,0,True
+Goa,2020-05,16,16,16,0,0,True
+Goa,2020-06,16,16,16,0,0,True
+Goa,2020-07,16,16,16,0,0,True
+Goa,2020-08,16,16,16,0,0,True
+Goa,2020-09,16,16,16,0,0,True
+Goa,2020-10,16,16,16,0,0,True
+Goa,2020-11,16,16,16,0,0,True
+Goa,2020-12,16,16,16,0,0,True
+Goa,2021-01,16,16,16,0,0,True
+Goa,2021-02,16,16,16,0,0,True
+Goa,2021-03,16,16,16,0,0,True
+Goa,2021-04,16,16,16,0,0,True
+Goa,2021-05,16,16,16,0,0,True
+Goa,2021-06,16,16,16,0,0,True
+Goa,2021-07,16,16,16,0,0,True
+Goa,2021-08,16,16,16,0,0,True
+Goa,2021-09,16,16,16,0,0,True
+Goa,2021-10,16,16,16,0,0,True
+Goa,2021-11,16,16,16,0,0,True
+Goa,2021-12,16,16,16,0,0,True
+Goa,2022-01,16,16,16,0,0,True
+Goa,2022-02,16,16,16,0,0,True
+Goa,2022-03,16,16,16,0,0,True
+Goa,2022-04,16,16,16,0,0,True
+Goa,2022-05,16,16,16,0,0,True
+Goa,2022-06,16,16,16,0,0,True
+Goa,2022-07,16,16,16,0,0,True
+Goa,2022-08,16,16,16,0,0,True
+Goa,2022-09,16,16,16,0,0,True
+Goa,2022-10,16,16,16,0,0,True
+Goa,2022-11,16,16,16,0,0,True
+Goa,2022-12,16,16,16,0,0,True
+Goa,2023-01,16,16,16,0,0,True
+Goa,2023-02,16,16,16,0,0,True
+Goa,2023-03,16,16,16,0,0,True
+Goa,2023-04,16,16,16,0,0,True
+Goa,2023-05,16,16,16,0,0,True
+Goa,2023-06,16,16,16,0,0,True
+Goa,2023-07,16,16,16,0,0,True
+Goa,2023-08,16,16,16,0,0,True
+Goa,2023-09,16,16,16,0,0,True
+Goa,2023-10,16,16,16,0,0,True
+Goa,2023-11,16,16,16,0,0,True
+Goa,2023-12,16,16,16,0,0,True
+Goa,2024-01,16,16,16,0,0,True
+Goa,2024-02,16,16,16,0,0,True
+Goa,2024-03,16,16,16,0,0,True
+Goa,2024-04,16,16,16,0,0,True
+Goa,2024-05,16,16,16,0,0,True
+Goa,2024-06,16,16,16,0,0,True
+Goa,2024-07,16,16,16,0,0,True
+Goa,2024-08,16,16,16,0,0,True
+Goa,2024-09,16,16,16,0,0,True
+Goa,2024-10,16,16,16,0,0,True
+Goa,2024-11,16,16,16,0,0,True
+Goa,2024-12,16,16,16,0,0,True
+Goa,2025-01,16,16,16,0,0,True
+Goa,2025-02,16,16,16,0,0,True
+Goa,2025-03,16,16,16,0,0,True
+Goa,2025-04,16,16,16,0,0,True
+Goa,2025-05,16,16,16,0,0,True
+Goa,2025-06,16,16,16,0,0,True
+Goa,2025-07,16,16,16,0,0,True
+Goa,2025-08,16,16,16,0,0,True
+Goa,2025-09,16,16,16,0,0,True
+Goa,2025-10,16,16,16,0,0,True
+Goa,2025-11,16,16,16,0,0,True
+Gujarat,2019-01,16,16,16,0,0,True
+Gujarat,2019-02,16,16,16,0,0,True
+Gujarat,2019-03,16,16,16,0,0,True
+Gujarat,2019-04,16,16,16,0,0,True
+Gujarat,2019-05,16,16,16,0,0,True
+Gujarat,2019-06,16,16,16,0,0,True
+Gujarat,2019-07,16,16,16,0,0,True
+Gujarat,2019-08,16,16,16,0,0,True
+Gujarat,2019-09,16,16,16,0,0,True
+Gujarat,2019-10,16,16,16,0,0,True
+Gujarat,2019-11,16,16,16,0,0,True
+Gujarat,2019-12,16,16,16,0,0,True
+Gujarat,2020-01,16,16,16,0,0,True
+Gujarat,2020-02,16,16,16,0,0,True
+Gujarat,2020-03,16,16,16,0,0,True
+Gujarat,2020-04,16,16,16,0,0,True
+Gujarat,2020-05,16,16,16,0,0,True
+Gujarat,2020-06,16,16,16,0,0,True
+Gujarat,2020-07,16,16,16,0,0,True
+Gujarat,2020-08,16,16,16,0,0,True
+Gujarat,2020-09,16,16,16,0,0,True
+Gujarat,2020-10,16,16,16,0,0,True
+Gujarat,2020-11,16,16,16,0,0,True
+Gujarat,2020-12,16,16,16,0,0,True
+Gujarat,2021-01,16,16,16,0,0,True
+Gujarat,2021-02,16,16,16,0,0,True
+Gujarat,2021-03,16,16,16,0,0,True
+Gujarat,2021-04,16,16,16,0,0,True
+Gujarat,2021-05,16,16,16,0,0,True
+Gujarat,2021-06,16,16,16,0,0,True
+Gujarat,2021-07,16,16,16,0,0,True
+Gujarat,2021-08,16,16,16,0,0,True
+Gujarat,2021-09,16,16,16,0,0,True
+Gujarat,2021-10,16,16,16,0,0,True
+Gujarat,2021-11,16,16,16,0,0,True
+Gujarat,2021-12,16,16,16,0,0,True
+Gujarat,2022-01,16,16,16,0,0,True
+Gujarat,2022-02,16,16,16,0,0,True
+Gujarat,2022-03,16,16,16,0,0,True
+Gujarat,2022-04,16,16,16,0,0,True
+Gujarat,2022-05,16,16,16,0,0,True
+Gujarat,2022-06,16,16,16,0,0,True
+Gujarat,2022-07,16,16,16,0,0,True
+Gujarat,2022-08,16,16,16,0,0,True
+Gujarat,2022-09,16,16,16,0,0,True
+Gujarat,2022-10,16,16,16,0,0,True
+Gujarat,2022-11,16,16,16,0,0,True
+Gujarat,2022-12,16,16,16,0,0,True
+Gujarat,2023-01,16,16,16,0,0,True
+Gujarat,2023-02,16,16,16,0,0,True
+Gujarat,2023-03,16,16,16,0,0,True
+Gujarat,2023-04,16,16,16,0,0,True
+Gujarat,2023-05,16,16,16,0,0,True
+Gujarat,2023-06,16,16,16,0,0,True
+Gujarat,2023-07,16,16,16,0,0,True
+Gujarat,2023-08,16,16,16,0,0,True
+Gujarat,2023-09,16,16,16,0,0,True
+Gujarat,2023-10,16,16,16,0,0,True
+Gujarat,2023-11,16,16,16,0,0,True
+Gujarat,2023-12,16,16,16,0,0,True
+Gujarat,2024-01,16,16,16,0,0,True
+Gujarat,2024-02,16,16,16,0,0,True
+Gujarat,2024-03,16,16,16,0,0,True
+Gujarat,2024-04,16,16,16,0,0,True
+Gujarat,2024-05,16,16,16,0,0,True
+Gujarat,2024-06,16,16,16,0,0,True
+Gujarat,2024-07,16,16,16,0,0,True
+Gujarat,2024-08,16,16,16,0,0,True
+Gujarat,2024-09,16,16,16,0,0,True
+Gujarat,2024-10,16,16,16,0,0,True
+Gujarat,2024-11,16,16,16,0,0,True
+Gujarat,2024-12,16,16,16,0,0,True
+Gujarat,2025-01,16,16,16,0,0,True
+Gujarat,2025-02,16,16,16,0,0,True
+Gujarat,2025-03,16,16,16,0,0,True
+Gujarat,2025-04,16,16,16,0,0,True
+Gujarat,2025-05,16,16,16,0,0,True
+Gujarat,2025-06,16,16,16,0,0,True
+Gujarat,2025-07,16,16,16,0,0,True
+Gujarat,2025-08,16,16,16,0,0,True
+Gujarat,2025-09,16,16,16,0,0,True
+Gujarat,2025-10,16,16,16,0,0,True
+Gujarat,2025-11,16,16,16,0,0,True
+Haryana,2019-01,16,16,16,0,0,True
+Haryana,2019-02,16,16,16,0,0,True
+Haryana,2019-03,16,16,16,0,0,True
+Haryana,2019-04,16,16,16,0,0,True
+Haryana,2019-05,16,16,16,0,0,True
+Haryana,2019-06,16,16,16,0,0,True
+Haryana,2019-07,16,16,16,0,0,True
+Haryana,2019-08,16,16,16,0,0,True
+Haryana,2019-09,16,16,16,0,0,True
+Haryana,2019-10,16,16,16,0,0,True
+Haryana,2019-11,16,16,16,0,0,True
+Haryana,2019-12,16,16,16,0,0,True
+Haryana,2020-01,16,16,16,0,0,True
+Haryana,2020-02,16,16,16,0,0,True
+Haryana,2020-03,16,16,16,0,0,True
+Haryana,2020-04,16,16,16,0,0,True
+Haryana,2020-05,16,16,16,0,0,True
+Haryana,2020-06,16,16,16,0,0,True
+Haryana,2020-07,16,16,16,0,0,True
+Haryana,2020-08,16,16,16,0,0,True
+Haryana,2020-09,16,16,16,0,0,True
+Haryana,2020-10,16,16,16,0,0,True
+Haryana,2020-11,16,16,16,0,0,True
+Haryana,2020-12,16,16,16,0,0,True
+Haryana,2021-01,16,16,16,0,0,True
+Haryana,2021-02,16,16,16,0,0,True
+Haryana,2021-03,16,16,16,0,0,True
+Haryana,2021-04,16,16,16,0,0,True
+Haryana,2021-05,16,16,16,0,0,True
+Haryana,2021-06,16,16,16,0,0,True
+Haryana,2021-07,16,16,16,0,0,True
+Haryana,2021-08,16,16,16,0,0,True
+Haryana,2021-09,16,16,16,0,0,True
+Haryana,2021-10,16,16,16,0,0,True
+Haryana,2021-11,16,16,16,0,0,True
+Haryana,2021-12,16,16,16,0,0,True
+Haryana,2022-01,16,16,16,0,0,True
+Haryana,2022-02,16,16,16,0,0,True
+Haryana,2022-03,16,16,16,0,0,True
+Haryana,2022-04,16,16,16,0,0,True
+Haryana,2022-05,16,16,16,0,0,True
+Haryana,2022-06,16,16,16,0,0,True
+Haryana,2022-07,16,16,16,0,0,True
+Haryana,2022-08,16,16,16,0,0,True
+Haryana,2022-09,16,16,16,0,0,True
+Haryana,2022-10,16,16,16,0,0,True
+Haryana,2022-11,16,16,16,0,0,True
+Haryana,2022-12,16,16,16,0,0,True
+Haryana,2023-01,16,16,16,0,0,True
+Haryana,2023-02,16,16,16,0,0,True
+Haryana,2023-03,16,16,16,0,0,True
+Haryana,2023-04,16,16,16,0,0,True
+Haryana,2023-05,16,16,16,0,0,True
+Haryana,2023-06,16,16,16,0,0,True
+Haryana,2023-07,16,16,16,0,0,True
+Haryana,2023-08,16,16,16,0,0,True
+Haryana,2023-09,16,16,16,0,0,True
+Haryana,2023-10,16,16,16,0,0,True
+Haryana,2023-11,16,16,16,0,0,True
+Haryana,2023-12,16,16,16,0,0,True
+Haryana,2024-01,16,16,16,0,0,True
+Haryana,2024-02,16,16,16,0,0,True
+Haryana,2024-03,16,16,16,0,0,True
+Haryana,2024-04,16,16,16,0,0,True
+Haryana,2024-05,16,16,16,0,0,True
+Haryana,2024-06,16,16,16,0,0,True
+Haryana,2024-07,16,16,16,0,0,True
+Haryana,2024-08,16,16,16,0,0,True
+Haryana,2024-09,16,16,16,0,0,True
+Haryana,2024-10,16,16,16,0,0,True
+Haryana,2024-11,16,16,16,0,0,True
+Haryana,2024-12,16,16,16,0,0,True
+Haryana,2025-01,16,16,16,0,0,True
+Haryana,2025-02,16,16,16,0,0,True
+Haryana,2025-03,16,16,16,0,0,True
+Haryana,2025-04,16,16,16,0,0,True
+Haryana,2025-05,16,16,16,0,0,True
+Haryana,2025-06,16,16,16,0,0,True
+Haryana,2025-07,16,16,16,0,0,True
+Haryana,2025-08,16,16,16,0,0,True
+Haryana,2025-09,16,16,16,0,0,True
+Haryana,2025-10,16,16,16,0,0,True
+Haryana,2025-11,16,16,16,0,0,True
+Himachal Pradesh,2019-01,16,16,16,0,0,True
+Himachal Pradesh,2019-02,16,16,16,0,0,True
+Himachal Pradesh,2019-03,16,16,16,0,0,True
+Himachal Pradesh,2019-04,16,16,16,0,0,True
+Himachal Pradesh,2019-05,16,16,16,0,0,True
+Himachal Pradesh,2019-06,16,16,16,0,0,True
+Himachal Pradesh,2019-07,16,16,16,0,0,True
+Himachal Pradesh,2019-08,16,16,16,0,0,True
+Himachal Pradesh,2019-09,16,16,16,0,0,True
+Himachal Pradesh,2019-10,16,16,16,0,0,True
+Himachal Pradesh,2019-11,16,16,16,0,0,True
+Himachal Pradesh,2019-12,16,16,16,0,0,True
+Himachal Pradesh,2020-01,16,16,16,0,0,True
+Himachal Pradesh,2020-02,16,16,16,0,0,True
+Himachal Pradesh,2020-03,16,16,16,0,0,True
+Himachal Pradesh,2020-04,16,16,16,0,0,True
+Himachal Pradesh,2020-05,16,16,16,0,0,True
+Himachal Pradesh,2020-06,16,16,16,0,0,True
+Himachal Pradesh,2020-07,16,16,16,0,0,True
+Himachal Pradesh,2020-08,16,16,16,0,0,True
+Himachal Pradesh,2020-09,16,16,16,0,0,True
+Himachal Pradesh,2020-10,16,16,16,0,0,True
+Himachal Pradesh,2020-11,16,16,16,0,0,True
+Himachal Pradesh,2020-12,16,16,16,0,0,True
+Himachal Pradesh,2021-01,16,16,16,0,0,True
+Himachal Pradesh,2021-02,16,16,16,0,0,True
+Himachal Pradesh,2021-03,16,16,16,0,0,True
+Himachal Pradesh,2021-04,16,16,16,0,0,True
+Himachal Pradesh,2021-05,16,16,16,0,0,True
+Himachal Pradesh,2021-06,16,16,16,0,0,True
+Himachal Pradesh,2021-07,16,16,16,0,0,True
+Himachal Pradesh,2021-08,16,16,16,0,0,True
+Himachal Pradesh,2021-09,16,16,16,0,0,True
+Himachal Pradesh,2021-10,16,16,16,0,0,True
+Himachal Pradesh,2021-11,16,16,16,0,0,True
+Himachal Pradesh,2021-12,16,16,16,0,0,True
+Himachal Pradesh,2022-01,16,16,16,0,0,True
+Himachal Pradesh,2022-02,16,16,16,0,0,True
+Himachal Pradesh,2022-03,16,16,16,0,0,True
+Himachal Pradesh,2022-04,16,16,16,0,0,True
+Himachal Pradesh,2022-05,16,16,16,0,0,True
+Himachal Pradesh,2022-06,16,16,16,0,0,True
+Himachal Pradesh,2022-07,16,16,16,0,0,True
+Himachal Pradesh,2022-08,16,16,16,0,0,True
+Himachal Pradesh,2022-09,16,16,16,0,0,True
+Himachal Pradesh,2022-10,16,16,16,0,0,True
+Himachal Pradesh,2022-11,16,16,16,0,0,True
+Himachal Pradesh,2022-12,16,16,16,0,0,True
+Himachal Pradesh,2023-01,16,16,16,0,0,True
+Himachal Pradesh,2023-02,16,16,16,0,0,True
+Himachal Pradesh,2023-03,16,16,16,0,0,True
+Himachal Pradesh,2023-04,16,16,16,0,0,True
+Himachal Pradesh,2023-05,16,16,16,0,0,True
+Himachal Pradesh,2023-06,16,16,16,0,0,True
+Himachal Pradesh,2023-07,16,16,16,0,0,True
+Himachal Pradesh,2023-08,16,16,16,0,0,True
+Himachal Pradesh,2023-09,16,16,16,0,0,True
+Himachal Pradesh,2023-10,16,16,16,0,0,True
+Himachal Pradesh,2023-11,16,16,16,0,0,True
+Himachal Pradesh,2023-12,16,16,16,0,0,True
+Himachal Pradesh,2024-01,16,16,16,0,0,True
+Himachal Pradesh,2024-02,16,16,16,0,0,True
+Himachal Pradesh,2024-03,16,16,16,0,0,True
+Himachal Pradesh,2024-04,16,16,16,0,0,True
+Himachal Pradesh,2024-05,16,16,16,0,0,True
+Himachal Pradesh,2024-06,16,16,16,0,0,True
+Himachal Pradesh,2024-07,16,16,16,0,0,True
+Himachal Pradesh,2024-08,16,16,16,0,0,True
+Himachal Pradesh,2024-09,16,16,16,0,0,True
+Himachal Pradesh,2024-10,16,16,16,0,0,True
+Himachal Pradesh,2024-11,16,16,16,0,0,True
+Himachal Pradesh,2024-12,16,16,16,0,0,True
+Himachal Pradesh,2025-01,16,16,16,0,0,True
+Himachal Pradesh,2025-02,16,16,16,0,0,True
+Himachal Pradesh,2025-03,16,16,16,0,0,True
+Himachal Pradesh,2025-04,16,16,16,0,0,True
+Himachal Pradesh,2025-05,16,16,16,0,0,True
+Himachal Pradesh,2025-06,16,16,16,0,0,True
+Himachal Pradesh,2025-07,16,16,16,0,0,True
+Himachal Pradesh,2025-08,16,16,16,0,0,True
+Himachal Pradesh,2025-09,16,16,16,0,0,True
+Himachal Pradesh,2025-10,16,16,16,0,0,True
+Himachal Pradesh,2025-11,16,16,16,0,0,True
+India Total,2019-01,16,16,16,0,0,True
+India Total,2019-02,16,16,16,0,0,True
+India Total,2019-03,16,16,16,0,0,True
+India Total,2019-04,16,16,16,0,0,True
+India Total,2019-05,16,16,16,0,0,True
+India Total,2019-06,16,16,16,0,0,True
+India Total,2019-07,16,16,16,0,0,True
+India Total,2019-08,16,16,16,0,0,True
+India Total,2019-09,16,16,16,0,0,True
+India Total,2019-10,16,16,16,0,0,True
+India Total,2019-11,16,16,16,0,0,True
+India Total,2019-12,16,16,16,0,0,True
+India Total,2020-01,16,16,16,0,0,True
+India Total,2020-02,16,16,16,0,0,True
+India Total,2020-03,16,16,16,0,0,True
+India Total,2020-04,16,16,16,0,0,True
+India Total,2020-05,16,16,16,0,0,True
+India Total,2020-06,16,16,16,0,0,True
+India Total,2020-07,16,16,16,0,0,True
+India Total,2020-08,16,16,16,0,0,True
+India Total,2020-09,16,16,16,0,0,True
+India Total,2020-10,16,16,16,0,0,True
+India Total,2020-11,16,16,16,0,0,True
+India Total,2020-12,16,16,16,0,0,True
+India Total,2021-01,16,16,16,0,0,True
+India Total,2021-02,16,16,16,0,0,True
+India Total,2021-03,16,16,16,0,0,True
+India Total,2021-04,16,16,16,0,0,True
+India Total,2021-05,16,16,16,0,0,True
+India Total,2021-06,16,16,16,0,0,True
+India Total,2021-07,16,16,16,0,0,True
+India Total,2021-08,16,16,16,0,0,True
+India Total,2021-09,16,16,16,0,0,True
+India Total,2021-10,16,16,16,0,0,True
+India Total,2021-11,16,16,16,0,0,True
+India Total,2021-12,16,16,16,0,0,True
+India Total,2022-01,16,16,16,0,0,True
+India Total,2022-02,16,16,16,0,0,True
+India Total,2022-03,16,16,16,0,0,True
+India Total,2022-04,16,16,16,0,0,True
+India Total,2022-05,16,16,16,0,0,True
+India Total,2022-06,16,16,16,0,0,True
+India Total,2022-07,16,16,16,0,0,True
+India Total,2022-08,16,16,16,0,0,True
+India Total,2022-09,16,16,16,0,0,True
+India Total,2022-10,16,16,16,0,0,True
+India Total,2022-11,16,16,16,0,0,True
+India Total,2022-12,16,16,16,0,0,True
+India Total,2023-01,16,16,16,0,0,True
+India Total,2023-02,16,16,16,0,0,True
+India Total,2023-03,16,16,16,0,0,True
+India Total,2023-04,16,16,16,0,0,True
+India Total,2023-05,16,16,16,0,0,True
+India Total,2023-06,16,16,16,0,0,True
+India Total,2023-07,16,16,16,0,0,True
+India Total,2023-08,16,16,16,0,0,True
+India Total,2023-09,16,16,16,0,0,True
+India Total,2023-10,16,16,16,0,0,True
+India Total,2023-11,16,16,16,0,0,True
+India Total,2023-12,16,16,16,0,0,True
+India Total,2024-01,16,16,16,0,0,True
+India Total,2024-02,16,16,16,0,0,True
+India Total,2024-03,16,16,16,0,0,True
+India Total,2024-04,16,16,16,0,0,True
+India Total,2024-05,16,16,16,0,0,True
+India Total,2024-06,16,16,16,0,0,True
+India Total,2024-07,16,16,16,0,0,True
+India Total,2024-08,16,16,16,0,0,True
+India Total,2024-09,16,16,16,0,0,True
+India Total,2024-10,16,16,16,0,0,True
+India Total,2024-11,16,16,16,0,0,True
+India Total,2024-12,16,16,16,0,0,True
+India Total,2025-01,16,16,16,0,0,True
+India Total,2025-02,16,16,16,0,0,True
+India Total,2025-03,16,16,16,0,0,True
+India Total,2025-04,16,16,16,0,0,True
+India Total,2025-05,16,16,16,0,0,True
+India Total,2025-06,16,16,16,0,0,True
+India Total,2025-07,16,16,16,0,0,True
+India Total,2025-08,16,16,16,0,0,True
+India Total,2025-09,16,16,16,0,0,True
+India Total,2025-10,16,16,16,0,0,True
+India Total,2025-11,16,16,16,0,0,True
+Jammu and Kashmir,2019-01,16,16,16,0,0,True
+Jammu and Kashmir,2019-02,16,16,16,0,0,True
+Jammu and Kashmir,2019-03,16,16,16,0,0,True
+Jammu and Kashmir,2019-04,16,16,16,0,0,True
+Jammu and Kashmir,2019-05,16,16,16,0,0,True
+Jammu and Kashmir,2019-06,16,16,16,0,0,True
+Jammu and Kashmir,2019-07,16,16,16,0,0,True
+Jammu and Kashmir,2019-08,16,16,16,0,0,True
+Jammu and Kashmir,2019-09,16,16,16,0,0,True
+Jammu and Kashmir,2019-10,16,16,16,0,0,True
+Jammu and Kashmir,2019-11,16,16,16,0,0,True
+Jammu and Kashmir,2019-12,16,16,16,0,0,True
+Jammu and Kashmir,2020-01,16,16,16,0,0,True
+Jammu and Kashmir,2020-02,16,16,16,0,0,True
+Jammu and Kashmir,2020-03,16,16,16,0,0,True
+Jammu and Kashmir,2020-04,16,16,16,0,0,True
+Jammu and Kashmir,2020-05,16,16,16,0,0,True
+Jammu and Kashmir,2020-06,16,16,16,0,0,True
+Jammu and Kashmir,2020-07,16,16,16,0,0,True
+Jammu and Kashmir,2020-08,16,16,16,0,0,True
+Jammu and Kashmir,2020-09,16,16,16,0,0,True
+Jammu and Kashmir,2020-10,16,16,16,0,0,True
+Jammu and Kashmir,2020-11,16,16,16,0,0,True
+Jammu and Kashmir,2020-12,16,16,16,0,0,True
+Jammu and Kashmir,2021-01,16,16,16,0,0,True
+Jammu and Kashmir,2021-02,16,16,16,0,0,True
+Jammu and Kashmir,2021-03,16,16,16,0,0,True
+Jammu and Kashmir,2021-04,16,16,16,0,0,True
+Jammu and Kashmir,2021-05,16,16,16,0,0,True
+Jammu and Kashmir,2021-06,16,16,16,0,0,True
+Jammu and Kashmir,2021-07,16,16,16,0,0,True
+Jammu and Kashmir,2021-08,16,16,16,0,0,True
+Jammu and Kashmir,2021-09,16,16,16,0,0,True
+Jammu and Kashmir,2021-10,16,16,16,0,0,True
+Jammu and Kashmir,2021-11,16,16,16,0,0,True
+Jammu and Kashmir,2021-12,16,16,16,0,0,True
+Jammu and Kashmir,2022-01,16,16,16,0,0,True
+Jammu and Kashmir,2022-02,16,16,16,0,0,True
+Jammu and Kashmir,2022-03,16,16,16,0,0,True
+Jammu and Kashmir,2022-04,16,16,16,0,0,True
+Jammu and Kashmir,2022-05,16,16,16,0,0,True
+Jammu and Kashmir,2022-06,16,16,16,0,0,True
+Jammu and Kashmir,2022-07,16,16,16,0,0,True
+Jammu and Kashmir,2022-08,16,16,16,0,0,True
+Jammu and Kashmir,2022-09,16,16,16,0,0,True
+Jammu and Kashmir,2022-10,16,16,16,0,0,True
+Jammu and Kashmir,2022-11,16,16,16,0,0,True
+Jammu and Kashmir,2022-12,16,16,16,0,0,True
+Jammu and Kashmir,2023-01,16,16,16,0,0,True
+Jammu and Kashmir,2023-02,16,16,16,0,0,True
+Jammu and Kashmir,2023-03,16,16,16,0,0,True
+Jammu and Kashmir,2023-04,16,16,16,0,0,True
+Jammu and Kashmir,2023-05,16,16,16,0,0,True
+Jammu and Kashmir,2023-06,16,16,16,0,0,True
+Jammu and Kashmir,2023-07,16,16,16,0,0,True
+Jammu and Kashmir,2023-08,16,16,16,0,0,True
+Jammu and Kashmir,2023-09,16,16,16,0,0,True
+Jammu and Kashmir,2023-10,16,16,16,0,0,True
+Jammu and Kashmir,2023-11,16,16,16,0,0,True
+Jammu and Kashmir,2023-12,16,16,16,0,0,True
+Jammu and Kashmir,2024-01,16,16,16,0,0,True
+Jammu and Kashmir,2024-02,16,16,16,0,0,True
+Jammu and Kashmir,2024-03,16,16,16,0,0,True
+Jammu and Kashmir,2024-04,16,16,16,0,0,True
+Jammu and Kashmir,2024-05,16,16,16,0,0,True
+Jammu and Kashmir,2024-06,16,16,16,0,0,True
+Jammu and Kashmir,2024-07,16,16,16,0,0,True
+Jammu and Kashmir,2024-08,16,16,16,0,0,True
+Jammu and Kashmir,2024-09,16,16,16,0,0,True
+Jammu and Kashmir,2024-10,16,16,16,0,0,True
+Jammu and Kashmir,2024-11,16,16,16,0,0,True
+Jammu and Kashmir,2024-12,16,16,16,0,0,True
+Jammu and Kashmir,2025-01,16,16,16,0,0,True
+Jammu and Kashmir,2025-02,16,16,16,0,0,True
+Jammu and Kashmir,2025-03,16,16,16,0,0,True
+Jammu and Kashmir,2025-04,16,16,16,0,0,True
+Jammu and Kashmir,2025-05,16,16,16,0,0,True
+Jammu and Kashmir,2025-06,16,16,16,0,0,True
+Jammu and Kashmir,2025-07,16,16,16,0,0,True
+Jammu and Kashmir,2025-08,16,16,16,0,0,True
+Jammu and Kashmir,2025-09,16,16,16,0,0,True
+Jammu and Kashmir,2025-10,16,16,16,0,0,True
+Jammu and Kashmir,2025-11,16,16,16,0,0,True
+Jharkhand,2019-01,16,16,16,0,0,True
+Jharkhand,2019-02,16,16,16,0,0,True
+Jharkhand,2019-03,16,16,16,0,0,True
+Jharkhand,2019-04,16,16,16,0,0,True
+Jharkhand,2019-05,16,16,16,0,0,True
+Jharkhand,2019-06,16,16,16,0,0,True
+Jharkhand,2019-07,16,16,16,0,0,True
+Jharkhand,2019-08,16,16,16,0,0,True
+Jharkhand,2019-09,16,16,16,0,0,True
+Jharkhand,2019-10,16,16,16,0,0,True
+Jharkhand,2019-11,16,16,16,0,0,True
+Jharkhand,2019-12,16,16,16,0,0,True
+Jharkhand,2020-01,16,16,16,0,0,True
+Jharkhand,2020-02,16,16,16,0,0,True
+Jharkhand,2020-03,16,16,16,0,0,True
+Jharkhand,2020-04,16,16,16,0,0,True
+Jharkhand,2020-05,16,16,16,0,0,True
+Jharkhand,2020-06,16,16,16,0,0,True
+Jharkhand,2020-07,16,16,16,0,0,True
+Jharkhand,2020-08,16,16,16,0,0,True
+Jharkhand,2020-09,16,16,16,0,0,True
+Jharkhand,2020-10,16,16,16,0,0,True
+Jharkhand,2020-11,16,16,16,0,0,True
+Jharkhand,2020-12,16,16,16,0,0,True
+Jharkhand,2021-01,16,16,16,0,0,True
+Jharkhand,2021-02,16,16,16,0,0,True
+Jharkhand,2021-03,16,16,16,0,0,True
+Jharkhand,2021-04,16,16,16,0,0,True
+Jharkhand,2021-05,16,16,16,0,0,True
+Jharkhand,2021-06,16,16,16,0,0,True
+Jharkhand,2021-07,16,16,16,0,0,True
+Jharkhand,2021-08,16,16,16,0,0,True
+Jharkhand,2021-09,16,16,16,0,0,True
+Jharkhand,2021-10,16,16,16,0,0,True
+Jharkhand,2021-11,16,16,16,0,0,True
+Jharkhand,2021-12,16,16,16,0,0,True
+Jharkhand,2022-01,16,16,16,0,0,True
+Jharkhand,2022-02,16,16,16,0,0,True
+Jharkhand,2022-03,16,16,16,0,0,True
+Jharkhand,2022-04,16,16,16,0,0,True
+Jharkhand,2022-05,16,16,16,0,0,True
+Jharkhand,2022-06,16,16,16,0,0,True
+Jharkhand,2022-07,16,16,16,0,0,True
+Jharkhand,2022-08,16,16,16,0,0,True
+Jharkhand,2022-09,16,16,16,0,0,True
+Jharkhand,2022-10,16,16,16,0,0,True
+Jharkhand,2022-11,16,16,16,0,0,True
+Jharkhand,2022-12,16,16,16,0,0,True
+Jharkhand,2023-01,16,16,16,0,0,True
+Jharkhand,2023-02,16,16,16,0,0,True
+Jharkhand,2023-03,16,16,16,0,0,True
+Jharkhand,2023-04,16,16,16,0,0,True
+Jharkhand,2023-05,16,16,16,0,0,True
+Jharkhand,2023-06,16,16,16,0,0,True
+Jharkhand,2023-07,16,16,16,0,0,True
+Jharkhand,2023-08,16,16,16,0,0,True
+Jharkhand,2023-09,16,16,16,0,0,True
+Jharkhand,2023-10,16,16,16,0,0,True
+Jharkhand,2023-11,16,16,16,0,0,True
+Jharkhand,2023-12,16,16,16,0,0,True
+Jharkhand,2024-01,16,16,16,0,0,True
+Jharkhand,2024-02,16,16,16,0,0,True
+Jharkhand,2024-03,16,16,16,0,0,True
+Jharkhand,2024-04,16,16,16,0,0,True
+Jharkhand,2024-05,16,16,16,0,0,True
+Jharkhand,2024-06,16,16,16,0,0,True
+Jharkhand,2024-07,16,16,16,0,0,True
+Jharkhand,2024-08,16,16,16,0,0,True
+Jharkhand,2024-09,16,16,16,0,0,True
+Jharkhand,2024-10,16,16,16,0,0,True
+Jharkhand,2024-11,16,16,16,0,0,True
+Jharkhand,2024-12,16,16,16,0,0,True
+Jharkhand,2025-01,16,16,16,0,0,True
+Jharkhand,2025-02,16,16,16,0,0,True
+Jharkhand,2025-03,16,16,16,0,0,True
+Jharkhand,2025-04,16,16,16,0,0,True
+Jharkhand,2025-05,16,16,16,0,0,True
+Jharkhand,2025-06,16,16,16,0,0,True
+Jharkhand,2025-07,16,16,16,0,0,True
+Jharkhand,2025-08,16,16,16,0,0,True
+Jharkhand,2025-09,16,16,16,0,0,True
+Jharkhand,2025-10,16,16,16,0,0,True
+Jharkhand,2025-11,16,16,16,0,0,True
+Karnataka,2019-01,16,16,16,0,0,True
+Karnataka,2019-02,16,16,16,0,0,True
+Karnataka,2019-03,16,16,16,0,0,True
+Karnataka,2019-04,16,16,16,0,0,True
+Karnataka,2019-05,16,16,16,0,0,True
+Karnataka,2019-06,16,16,16,0,0,True
+Karnataka,2019-07,16,16,16,0,0,True
+Karnataka,2019-08,16,16,16,0,0,True
+Karnataka,2019-09,16,16,16,0,0,True
+Karnataka,2019-10,16,16,16,0,0,True
+Karnataka,2019-11,16,16,16,0,0,True
+Karnataka,2019-12,16,16,16,0,0,True
+Karnataka,2020-01,16,16,16,0,0,True
+Karnataka,2020-02,16,16,16,0,0,True
+Karnataka,2020-03,16,16,16,0,0,True
+Karnataka,2020-04,16,16,16,0,0,True
+Karnataka,2020-05,16,16,16,0,0,True
+Karnataka,2020-06,16,16,16,0,0,True
+Karnataka,2020-07,16,16,16,0,0,True
+Karnataka,2020-08,16,16,16,0,0,True
+Karnataka,2020-09,16,16,16,0,0,True
+Karnataka,2020-10,16,16,16,0,0,True
+Karnataka,2020-11,16,16,16,0,0,True
+Karnataka,2020-12,16,16,16,0,0,True
+Karnataka,2021-01,16,16,16,0,0,True
+Karnataka,2021-02,16,16,16,0,0,True
+Karnataka,2021-03,16,16,16,0,0,True
+Karnataka,2021-04,16,16,16,0,0,True
+Karnataka,2021-05,16,16,16,0,0,True
+Karnataka,2021-06,16,16,16,0,0,True
+Karnataka,2021-07,16,16,16,0,0,True
+Karnataka,2021-08,16,16,16,0,0,True
+Karnataka,2021-09,16,16,16,0,0,True
+Karnataka,2021-10,16,16,16,0,0,True
+Karnataka,2021-11,16,16,16,0,0,True
+Karnataka,2021-12,16,16,16,0,0,True
+Karnataka,2022-01,16,16,16,0,0,True
+Karnataka,2022-02,16,16,16,0,0,True
+Karnataka,2022-03,16,16,16,0,0,True
+Karnataka,2022-04,16,16,16,0,0,True
+Karnataka,2022-05,16,16,16,0,0,True
+Karnataka,2022-06,16,16,16,0,0,True
+Karnataka,2022-07,16,16,16,0,0,True
+Karnataka,2022-08,16,16,16,0,0,True
+Karnataka,2022-09,16,16,16,0,0,True
+Karnataka,2022-10,16,16,16,0,0,True
+Karnataka,2022-11,16,16,16,0,0,True
+Karnataka,2022-12,16,16,16,0,0,True
+Karnataka,2023-01,16,16,16,0,0,True
+Karnataka,2023-02,16,16,16,0,0,True
+Karnataka,2023-03,16,16,16,0,0,True
+Karnataka,2023-04,16,16,16,0,0,True
+Karnataka,2023-05,16,16,16,0,0,True
+Karnataka,2023-06,16,16,16,0,0,True
+Karnataka,2023-07,16,16,16,0,0,True
+Karnataka,2023-08,16,16,16,0,0,True
+Karnataka,2023-09,16,16,16,0,0,True
+Karnataka,2023-10,16,16,16,0,0,True
+Karnataka,2023-11,16,16,16,0,0,True
+Karnataka,2023-12,16,16,16,0,0,True
+Karnataka,2024-01,16,16,16,0,0,True
+Karnataka,2024-02,16,16,16,0,0,True
+Karnataka,2024-03,16,16,16,0,0,True
+Karnataka,2024-04,16,16,16,0,0,True
+Karnataka,2024-05,16,16,16,0,0,True
+Karnataka,2024-06,16,16,16,0,0,True
+Karnataka,2024-07,16,16,16,0,0,True
+Karnataka,2024-08,16,16,16,0,0,True
+Karnataka,2024-09,16,16,16,0,0,True
+Karnataka,2024-10,16,16,16,0,0,True
+Karnataka,2024-11,16,16,16,0,0,True
+Karnataka,2024-12,16,16,16,0,0,True
+Karnataka,2025-01,16,16,16,0,0,True
+Karnataka,2025-02,16,16,16,0,0,True
+Karnataka,2025-03,16,16,16,0,0,True
+Karnataka,2025-04,16,16,16,0,0,True
+Karnataka,2025-05,16,16,16,0,0,True
+Karnataka,2025-06,16,16,16,0,0,True
+Karnataka,2025-07,16,16,16,0,0,True
+Karnataka,2025-08,16,16,16,0,0,True
+Karnataka,2025-09,16,16,16,0,0,True
+Karnataka,2025-10,16,16,16,0,0,True
+Karnataka,2025-11,16,16,16,0,0,True
+Kerala,2019-01,16,16,16,0,0,True
+Kerala,2019-02,16,16,16,0,0,True
+Kerala,2019-03,16,16,16,0,0,True
+Kerala,2019-04,16,16,16,0,0,True
+Kerala,2019-05,16,16,16,0,0,True
+Kerala,2019-06,16,16,16,0,0,True
+Kerala,2019-07,16,16,16,0,0,True
+Kerala,2019-08,16,16,16,0,0,True
+Kerala,2019-09,16,16,16,0,0,True
+Kerala,2019-10,16,16,16,0,0,True
+Kerala,2019-11,16,16,16,0,0,True
+Kerala,2019-12,16,16,16,0,0,True
+Kerala,2020-01,16,16,16,0,0,True
+Kerala,2020-02,16,16,16,0,0,True
+Kerala,2020-03,16,16,16,0,0,True
+Kerala,2020-04,16,16,16,0,0,True
+Kerala,2020-05,16,16,16,0,0,True
+Kerala,2020-06,16,16,16,0,0,True
+Kerala,2020-07,16,16,16,0,0,True
+Kerala,2020-08,16,16,16,0,0,True
+Kerala,2020-09,16,16,16,0,0,True
+Kerala,2020-10,16,16,16,0,0,True
+Kerala,2020-11,16,16,16,0,0,True
+Kerala,2020-12,16,16,16,0,0,True
+Kerala,2021-01,16,16,16,0,0,True
+Kerala,2021-02,16,16,16,0,0,True
+Kerala,2021-03,16,16,16,0,0,True
+Kerala,2021-04,16,16,16,0,0,True
+Kerala,2021-05,16,16,16,0,0,True
+Kerala,2021-06,16,16,16,0,0,True
+Kerala,2021-07,16,16,16,0,0,True
+Kerala,2021-08,16,16,16,0,0,True
+Kerala,2021-09,16,16,16,0,0,True
+Kerala,2021-10,16,16,16,0,0,True
+Kerala,2021-11,16,16,16,0,0,True
+Kerala,2021-12,16,16,16,0,0,True
+Kerala,2022-01,16,16,16,0,0,True
+Kerala,2022-02,16,16,16,0,0,True
+Kerala,2022-03,16,16,16,0,0,True
+Kerala,2022-04,16,16,16,0,0,True
+Kerala,2022-05,16,16,16,0,0,True
+Kerala,2022-06,16,16,16,0,0,True
+Kerala,2022-07,16,16,16,0,0,True
+Kerala,2022-08,16,16,16,0,0,True
+Kerala,2022-09,16,16,16,0,0,True
+Kerala,2022-10,16,16,16,0,0,True
+Kerala,2022-11,16,16,16,0,0,True
+Kerala,2022-12,16,16,16,0,0,True
+Kerala,2023-01,16,16,16,0,0,True
+Kerala,2023-02,16,16,16,0,0,True
+Kerala,2023-03,16,16,16,0,0,True
+Kerala,2023-04,16,16,16,0,0,True
+Kerala,2023-05,16,16,16,0,0,True
+Kerala,2023-06,16,16,16,0,0,True
+Kerala,2023-07,16,16,16,0,0,True
+Kerala,2023-08,16,16,16,0,0,True
+Kerala,2023-09,16,16,16,0,0,True
+Kerala,2023-10,16,16,16,0,0,True
+Kerala,2023-11,16,16,16,0,0,True
+Kerala,2023-12,16,16,16,0,0,True
+Kerala,2024-01,16,16,16,0,0,True
+Kerala,2024-02,16,16,16,0,0,True
+Kerala,2024-03,16,16,16,0,0,True
+Kerala,2024-04,16,16,16,0,0,True
+Kerala,2024-05,16,16,16,0,0,True
+Kerala,2024-06,16,16,16,0,0,True
+Kerala,2024-07,16,16,16,0,0,True
+Kerala,2024-08,16,16,16,0,0,True
+Kerala,2024-09,16,16,16,0,0,True
+Kerala,2024-10,16,16,16,0,0,True
+Kerala,2024-11,16,16,16,0,0,True
+Kerala,2024-12,16,16,16,0,0,True
+Kerala,2025-01,16,16,16,0,0,True
+Kerala,2025-02,16,16,16,0,0,True
+Kerala,2025-03,16,16,16,0,0,True
+Kerala,2025-04,16,16,16,0,0,True
+Kerala,2025-05,16,16,16,0,0,True
+Kerala,2025-06,16,16,16,0,0,True
+Kerala,2025-07,16,16,16,0,0,True
+Kerala,2025-08,16,16,16,0,0,True
+Kerala,2025-09,16,16,16,0,0,True
+Kerala,2025-10,16,16,16,0,0,True
+Kerala,2025-11,16,16,16,0,0,True
+Ladakh,2021-07,16,16,16,0,0,True
+Ladakh,2021-08,16,16,16,0,0,True
+Ladakh,2021-09,16,16,16,0,0,True
+Ladakh,2021-10,16,16,16,0,0,True
+Ladakh,2021-11,16,16,16,0,0,True
+Ladakh,2021-12,16,16,16,0,0,True
+Ladakh,2022-01,16,16,16,0,0,True
+Ladakh,2022-02,16,16,16,0,0,True
+Ladakh,2022-03,16,16,16,0,0,True
+Ladakh,2022-04,16,16,16,0,0,True
+Ladakh,2022-05,16,16,16,0,0,True
+Ladakh,2022-06,16,16,16,0,0,True
+Ladakh,2022-07,16,16,16,0,0,True
+Ladakh,2022-08,16,16,16,0,0,True
+Ladakh,2022-09,16,16,16,0,0,True
+Ladakh,2022-10,16,16,16,0,0,True
+Ladakh,2022-11,16,16,16,0,0,True
+Ladakh,2022-12,16,16,16,0,0,True
+Ladakh,2023-01,16,16,16,0,0,True
+Ladakh,2023-02,16,16,16,0,0,True
+Ladakh,2023-03,16,16,16,0,0,True
+Ladakh,2023-04,16,16,16,0,0,True
+Ladakh,2023-05,16,16,16,0,0,True
+Ladakh,2023-06,16,16,16,0,0,True
+Ladakh,2023-07,16,16,16,0,0,True
+Ladakh,2023-08,16,16,16,0,0,True
+Ladakh,2023-09,16,16,16,0,0,True
+Ladakh,2023-10,16,16,16,0,0,True
+Ladakh,2023-11,16,16,16,0,0,True
+Ladakh,2023-12,16,16,16,0,0,True
+Ladakh,2024-01,16,16,16,0,0,True
+Ladakh,2024-02,16,16,16,0,0,True
+Ladakh,2024-03,16,16,16,0,0,True
+Ladakh,2024-04,16,16,16,0,0,True
+Ladakh,2024-05,16,16,16,0,0,True
+Ladakh,2024-06,16,16,16,0,0,True
+Ladakh,2024-07,16,16,16,0,0,True
+Ladakh,2024-08,16,16,16,0,0,True
+Ladakh,2024-09,16,16,16,0,0,True
+Ladakh,2024-10,16,16,16,0,0,True
+Ladakh,2024-11,16,16,16,0,0,True
+Ladakh,2024-12,16,16,16,0,0,True
+Ladakh,2025-01,16,16,16,0,0,True
+Ladakh,2025-02,16,16,16,0,0,True
+Ladakh,2025-03,16,16,16,0,0,True
+Ladakh,2025-04,16,16,16,0,0,True
+Ladakh,2025-05,16,16,16,0,0,True
+Ladakh,2025-06,16,16,16,0,0,True
+Ladakh,2025-07,16,16,16,0,0,True
+Ladakh,2025-08,16,16,16,0,0,True
+Ladakh,2025-09,16,16,16,0,0,True
+Ladakh,2025-10,16,16,16,0,0,True
+Ladakh,2025-11,16,16,16,0,0,True
+Lakshadweep,2019-01,16,16,16,0,0,True
+Lakshadweep,2019-02,16,16,16,0,0,True
+Lakshadweep,2019-03,16,16,16,0,0,True
+Lakshadweep,2019-04,16,16,16,0,0,True
+Lakshadweep,2019-05,16,16,16,0,0,True
+Lakshadweep,2019-06,16,16,16,0,0,True
+Lakshadweep,2019-07,16,16,16,0,0,True
+Lakshadweep,2019-08,16,16,16,0,0,True
+Lakshadweep,2019-09,16,16,16,0,0,True
+Lakshadweep,2019-10,16,16,16,0,0,True
+Lakshadweep,2019-11,16,16,16,0,0,True
+Lakshadweep,2019-12,16,16,16,0,0,True
+Lakshadweep,2020-01,16,16,16,0,0,True
+Lakshadweep,2020-02,16,16,16,0,0,True
+Lakshadweep,2020-03,16,16,16,0,0,True
+Lakshadweep,2020-04,16,16,16,0,0,True
+Lakshadweep,2020-05,16,16,16,0,0,True
+Lakshadweep,2020-06,16,16,16,0,0,True
+Lakshadweep,2020-07,16,16,16,0,0,True
+Lakshadweep,2020-08,16,16,16,0,0,True
+Lakshadweep,2020-09,16,16,16,0,0,True
+Lakshadweep,2020-10,16,16,16,0,0,True
+Lakshadweep,2020-11,16,16,16,0,0,True
+Lakshadweep,2020-12,16,16,16,0,0,True
+Lakshadweep,2021-01,16,16,16,0,0,True
+Lakshadweep,2021-02,16,16,16,0,0,True
+Lakshadweep,2021-03,16,16,16,0,0,True
+Lakshadweep,2021-04,16,16,16,0,0,True
+Lakshadweep,2021-05,16,16,16,0,0,True
+Lakshadweep,2021-06,16,16,16,0,0,True
+Lakshadweep,2021-07,16,16,16,0,0,True
+Lakshadweep,2021-08,16,16,16,0,0,True
+Lakshadweep,2021-09,16,16,16,0,0,True
+Lakshadweep,2021-10,16,16,16,0,0,True
+Lakshadweep,2021-11,16,16,16,0,0,True
+Lakshadweep,2021-12,16,16,16,0,0,True
+Lakshadweep,2022-01,16,16,16,0,0,True
+Lakshadweep,2022-02,16,16,16,0,0,True
+Lakshadweep,2022-03,16,16,16,0,0,True
+Lakshadweep,2022-04,16,16,16,0,0,True
+Lakshadweep,2022-05,16,16,16,0,0,True
+Lakshadweep,2022-06,16,16,16,0,0,True
+Lakshadweep,2022-07,16,16,16,0,0,True
+Lakshadweep,2022-08,16,16,16,0,0,True
+Lakshadweep,2022-09,10,10,10,6,0,False
+Lakshadweep,2022-10,10,10,10,6,0,False
+Lakshadweep,2022-11,10,10,10,6,0,False
+Lakshadweep,2022-12,16,16,16,0,0,True
+Lakshadweep,2023-01,16,16,16,0,0,True
+Lakshadweep,2023-02,16,16,16,0,0,True
+Lakshadweep,2023-03,16,16,16,0,0,True
+Lakshadweep,2023-04,16,16,16,0,0,True
+Lakshadweep,2023-05,16,16,16,0,0,True
+Lakshadweep,2023-06,16,16,16,0,0,True
+Lakshadweep,2023-07,16,16,16,0,0,True
+Lakshadweep,2023-08,16,16,16,0,0,True
+Lakshadweep,2023-09,16,16,16,0,0,True
+Lakshadweep,2023-10,16,16,16,0,0,True
+Lakshadweep,2023-11,16,16,16,0,0,True
+Lakshadweep,2023-12,16,16,16,0,0,True
+Lakshadweep,2024-01,16,16,16,0,0,True
+Lakshadweep,2024-02,16,16,16,0,0,True
+Lakshadweep,2024-03,16,16,16,0,0,True
+Lakshadweep,2024-04,16,16,16,0,0,True
+Lakshadweep,2024-05,16,16,16,0,0,True
+Lakshadweep,2024-06,16,16,16,0,0,True
+Lakshadweep,2024-07,16,16,16,0,0,True
+Lakshadweep,2024-08,16,16,16,0,0,True
+Lakshadweep,2024-09,16,16,16,0,0,True
+Lakshadweep,2024-10,16,16,16,0,0,True
+Lakshadweep,2024-11,16,16,16,0,0,True
+Lakshadweep,2024-12,16,16,16,0,0,True
+Lakshadweep,2025-01,16,16,16,0,0,True
+Lakshadweep,2025-02,16,16,16,0,0,True
+Lakshadweep,2025-03,16,16,16,0,0,True
+Lakshadweep,2025-04,16,16,16,0,0,True
+Lakshadweep,2025-05,16,16,16,0,0,True
+Lakshadweep,2025-06,16,16,16,0,0,True
+Lakshadweep,2025-07,16,16,16,0,0,True
+Lakshadweep,2025-08,16,16,16,0,0,True
+Lakshadweep,2025-09,16,16,16,0,0,True
+Lakshadweep,2025-10,16,16,16,0,0,True
+Lakshadweep,2025-11,16,16,16,0,0,True
+Madhya Pradesh,2019-01,16,16,16,0,0,True
+Madhya Pradesh,2019-02,16,16,16,0,0,True
+Madhya Pradesh,2019-03,16,16,16,0,0,True
+Madhya Pradesh,2019-04,16,16,16,0,0,True
+Madhya Pradesh,2019-05,16,16,16,0,0,True
+Madhya Pradesh,2019-06,16,16,16,0,0,True
+Madhya Pradesh,2019-07,16,16,16,0,0,True
+Madhya Pradesh,2019-08,16,16,16,0,0,True
+Madhya Pradesh,2019-09,16,16,16,0,0,True
+Madhya Pradesh,2019-10,16,16,16,0,0,True
+Madhya Pradesh,2019-11,16,16,16,0,0,True
+Madhya Pradesh,2019-12,16,16,16,0,0,True
+Madhya Pradesh,2020-01,16,16,16,0,0,True
+Madhya Pradesh,2020-02,16,16,16,0,0,True
+Madhya Pradesh,2020-03,16,16,16,0,0,True
+Madhya Pradesh,2020-04,16,16,16,0,0,True
+Madhya Pradesh,2020-05,16,16,16,0,0,True
+Madhya Pradesh,2020-06,16,16,16,0,0,True
+Madhya Pradesh,2020-07,16,16,16,0,0,True
+Madhya Pradesh,2020-08,16,16,16,0,0,True
+Madhya Pradesh,2020-09,16,16,16,0,0,True
+Madhya Pradesh,2020-10,16,16,16,0,0,True
+Madhya Pradesh,2020-11,16,16,16,0,0,True
+Madhya Pradesh,2020-12,16,16,16,0,0,True
+Madhya Pradesh,2021-01,16,16,16,0,0,True
+Madhya Pradesh,2021-02,16,16,16,0,0,True
+Madhya Pradesh,2021-03,16,16,16,0,0,True
+Madhya Pradesh,2021-04,16,16,16,0,0,True
+Madhya Pradesh,2021-05,16,16,16,0,0,True
+Madhya Pradesh,2021-06,16,16,16,0,0,True
+Madhya Pradesh,2021-07,16,16,16,0,0,True
+Madhya Pradesh,2021-08,16,16,16,0,0,True
+Madhya Pradesh,2021-09,16,16,16,0,0,True
+Madhya Pradesh,2021-10,16,16,16,0,0,True
+Madhya Pradesh,2021-11,16,16,16,0,0,True
+Madhya Pradesh,2021-12,16,16,16,0,0,True
+Madhya Pradesh,2022-01,16,16,16,0,0,True
+Madhya Pradesh,2022-02,16,16,16,0,0,True
+Madhya Pradesh,2022-03,16,16,16,0,0,True
+Madhya Pradesh,2022-04,16,16,16,0,0,True
+Madhya Pradesh,2022-05,16,16,16,0,0,True
+Madhya Pradesh,2022-06,16,16,16,0,0,True
+Madhya Pradesh,2022-07,16,16,16,0,0,True
+Madhya Pradesh,2022-08,16,16,16,0,0,True
+Madhya Pradesh,2022-09,16,16,16,0,0,True
+Madhya Pradesh,2022-10,16,16,16,0,0,True
+Madhya Pradesh,2022-11,16,16,16,0,0,True
+Madhya Pradesh,2022-12,16,16,16,0,0,True
+Madhya Pradesh,2023-01,16,16,16,0,0,True
+Madhya Pradesh,2023-02,16,16,16,0,0,True
+Madhya Pradesh,2023-03,16,16,16,0,0,True
+Madhya Pradesh,2023-04,16,16,16,0,0,True
+Madhya Pradesh,2023-05,16,16,16,0,0,True
+Madhya Pradesh,2023-06,16,16,16,0,0,True
+Madhya Pradesh,2023-07,16,16,16,0,0,True
+Madhya Pradesh,2023-08,16,16,16,0,0,True
+Madhya Pradesh,2023-09,16,16,16,0,0,True
+Madhya Pradesh,2023-10,16,16,16,0,0,True
+Madhya Pradesh,2023-11,16,16,16,0,0,True
+Madhya Pradesh,2023-12,16,16,16,0,0,True
+Madhya Pradesh,2024-01,16,16,16,0,0,True
+Madhya Pradesh,2024-02,16,16,16,0,0,True
+Madhya Pradesh,2024-03,16,16,16,0,0,True
+Madhya Pradesh,2024-04,16,16,16,0,0,True
+Madhya Pradesh,2024-05,16,16,16,0,0,True
+Madhya Pradesh,2024-06,16,16,16,0,0,True
+Madhya Pradesh,2024-07,16,16,16,0,0,True
+Madhya Pradesh,2024-08,16,16,16,0,0,True
+Madhya Pradesh,2024-09,16,16,16,0,0,True
+Madhya Pradesh,2024-10,16,16,16,0,0,True
+Madhya Pradesh,2024-11,16,16,16,0,0,True
+Madhya Pradesh,2024-12,16,16,16,0,0,True
+Madhya Pradesh,2025-01,16,16,16,0,0,True
+Madhya Pradesh,2025-02,16,16,16,0,0,True
+Madhya Pradesh,2025-03,16,16,16,0,0,True
+Madhya Pradesh,2025-04,16,16,16,0,0,True
+Madhya Pradesh,2025-05,16,16,16,0,0,True
+Madhya Pradesh,2025-06,16,16,16,0,0,True
+Madhya Pradesh,2025-07,16,16,16,0,0,True
+Madhya Pradesh,2025-08,16,16,16,0,0,True
+Madhya Pradesh,2025-09,16,16,16,0,0,True
+Madhya Pradesh,2025-10,16,16,16,0,0,True
+Madhya Pradesh,2025-11,16,16,16,0,0,True
+Maharashtra,2019-01,16,16,16,0,0,True
+Maharashtra,2019-02,16,16,16,0,0,True
+Maharashtra,2019-03,16,16,16,0,0,True
+Maharashtra,2019-04,16,16,16,0,0,True
+Maharashtra,2019-05,16,16,16,0,0,True
+Maharashtra,2019-06,16,16,16,0,0,True
+Maharashtra,2019-07,16,16,16,0,0,True
+Maharashtra,2019-08,16,16,16,0,0,True
+Maharashtra,2019-09,16,16,16,0,0,True
+Maharashtra,2019-10,16,16,16,0,0,True
+Maharashtra,2019-11,16,16,16,0,0,True
+Maharashtra,2019-12,16,16,16,0,0,True
+Maharashtra,2020-01,16,16,16,0,0,True
+Maharashtra,2020-02,16,16,16,0,0,True
+Maharashtra,2020-03,16,16,16,0,0,True
+Maharashtra,2020-04,16,16,16,0,0,True
+Maharashtra,2020-05,16,16,16,0,0,True
+Maharashtra,2020-06,16,16,16,0,0,True
+Maharashtra,2020-07,16,16,16,0,0,True
+Maharashtra,2020-08,16,16,16,0,0,True
+Maharashtra,2020-09,16,16,16,0,0,True
+Maharashtra,2020-10,16,16,16,0,0,True
+Maharashtra,2020-11,16,16,16,0,0,True
+Maharashtra,2020-12,16,16,16,0,0,True
+Maharashtra,2021-01,16,16,16,0,0,True
+Maharashtra,2021-02,16,16,16,0,0,True
+Maharashtra,2021-03,16,16,16,0,0,True
+Maharashtra,2021-04,16,16,16,0,0,True
+Maharashtra,2021-05,16,16,16,0,0,True
+Maharashtra,2021-06,16,16,16,0,0,True
+Maharashtra,2021-07,16,16,16,0,0,True
+Maharashtra,2021-08,16,16,16,0,0,True
+Maharashtra,2021-09,16,16,16,0,0,True
+Maharashtra,2021-10,16,16,16,0,0,True
+Maharashtra,2021-11,16,16,16,0,0,True
+Maharashtra,2021-12,16,16,16,0,0,True
+Maharashtra,2022-01,16,16,16,0,0,True
+Maharashtra,2022-02,16,16,16,0,0,True
+Maharashtra,2022-03,16,16,16,0,0,True
+Maharashtra,2022-04,16,16,16,0,0,True
+Maharashtra,2022-05,16,16,16,0,0,True
+Maharashtra,2022-06,16,16,16,0,0,True
+Maharashtra,2022-07,16,16,16,0,0,True
+Maharashtra,2022-08,16,16,16,0,0,True
+Maharashtra,2022-09,16,16,16,0,0,True
+Maharashtra,2022-10,16,16,16,0,0,True
+Maharashtra,2022-11,16,16,16,0,0,True
+Maharashtra,2022-12,16,16,16,0,0,True
+Maharashtra,2023-01,16,16,16,0,0,True
+Maharashtra,2023-02,16,16,16,0,0,True
+Maharashtra,2023-03,16,16,16,0,0,True
+Maharashtra,2023-04,16,16,16,0,0,True
+Maharashtra,2023-05,16,16,16,0,0,True
+Maharashtra,2023-06,16,16,16,0,0,True
+Maharashtra,2023-07,16,16,16,0,0,True
+Maharashtra,2023-08,16,16,16,0,0,True
+Maharashtra,2023-09,16,16,16,0,0,True
+Maharashtra,2023-10,16,16,16,0,0,True
+Maharashtra,2023-11,16,16,16,0,0,True
+Maharashtra,2023-12,16,16,16,0,0,True
+Maharashtra,2024-01,16,16,16,0,0,True
+Maharashtra,2024-02,16,16,16,0,0,True
+Maharashtra,2024-03,16,16,16,0,0,True
+Maharashtra,2024-04,16,16,16,0,0,True
+Maharashtra,2024-05,16,16,16,0,0,True
+Maharashtra,2024-06,16,16,16,0,0,True
+Maharashtra,2024-07,16,16,16,0,0,True
+Maharashtra,2024-08,16,16,16,0,0,True
+Maharashtra,2024-09,16,16,16,0,0,True
+Maharashtra,2024-10,16,16,16,0,0,True
+Maharashtra,2024-11,16,16,16,0,0,True
+Maharashtra,2024-12,16,16,16,0,0,True
+Maharashtra,2025-01,16,16,16,0,0,True
+Maharashtra,2025-02,16,16,16,0,0,True
+Maharashtra,2025-03,16,16,16,0,0,True
+Maharashtra,2025-04,16,16,16,0,0,True
+Maharashtra,2025-05,16,16,16,0,0,True
+Maharashtra,2025-06,16,16,16,0,0,True
+Maharashtra,2025-07,16,16,16,0,0,True
+Maharashtra,2025-08,16,16,16,0,0,True
+Maharashtra,2025-09,16,16,16,0,0,True
+Maharashtra,2025-10,16,16,16,0,0,True
+Maharashtra,2025-11,16,16,16,0,0,True
+Manipur,2019-01,16,16,16,0,0,True
+Manipur,2019-02,16,16,16,0,0,True
+Manipur,2019-03,16,16,16,0,0,True
+Manipur,2019-04,16,16,16,0,0,True
+Manipur,2019-05,16,16,16,0,0,True
+Manipur,2019-06,16,16,16,0,0,True
+Manipur,2019-07,16,16,16,0,0,True
+Manipur,2019-08,16,16,16,0,0,True
+Manipur,2019-09,16,16,16,0,0,True
+Manipur,2019-10,16,16,16,0,0,True
+Manipur,2019-11,16,16,16,0,0,True
+Manipur,2019-12,16,16,16,0,0,True
+Manipur,2020-01,16,16,16,0,0,True
+Manipur,2020-02,16,16,16,0,0,True
+Manipur,2020-03,16,16,16,0,0,True
+Manipur,2020-04,16,16,16,0,0,True
+Manipur,2020-05,16,16,16,0,0,True
+Manipur,2020-06,16,16,16,0,0,True
+Manipur,2020-07,16,16,16,0,0,True
+Manipur,2020-08,16,16,16,0,0,True
+Manipur,2020-09,16,16,16,0,0,True
+Manipur,2020-10,16,16,16,0,0,True
+Manipur,2020-11,16,16,16,0,0,True
+Manipur,2020-12,16,16,16,0,0,True
+Manipur,2021-01,16,16,16,0,0,True
+Manipur,2021-02,16,16,16,0,0,True
+Manipur,2021-03,16,16,16,0,0,True
+Manipur,2021-04,16,16,16,0,0,True
+Manipur,2021-05,16,16,16,0,0,True
+Manipur,2021-06,16,16,16,0,0,True
+Manipur,2021-07,16,16,16,0,0,True
+Manipur,2021-08,16,16,16,0,0,True
+Manipur,2021-09,16,16,16,0,0,True
+Manipur,2021-10,16,16,16,0,0,True
+Manipur,2021-11,16,16,16,0,0,True
+Manipur,2021-12,16,16,16,0,0,True
+Manipur,2022-01,16,16,16,0,0,True
+Manipur,2022-02,16,16,16,0,0,True
+Manipur,2022-03,16,16,16,0,0,True
+Manipur,2022-04,16,16,16,0,0,True
+Manipur,2022-05,16,16,16,0,0,True
+Manipur,2022-06,16,16,16,0,0,True
+Manipur,2022-07,16,16,16,0,0,True
+Manipur,2022-08,16,16,16,0,0,True
+Manipur,2022-09,16,16,16,0,0,True
+Manipur,2022-10,16,16,16,0,0,True
+Manipur,2022-11,16,16,16,0,0,True
+Manipur,2022-12,16,16,16,0,0,True
+Manipur,2023-01,16,16,16,0,0,True
+Manipur,2023-02,16,16,16,0,0,True
+Manipur,2023-03,16,16,16,0,0,True
+Manipur,2023-04,16,16,16,0,0,True
+Manipur,2023-05,16,16,16,0,0,True
+Manipur,2023-06,16,16,16,0,0,True
+Manipur,2023-07,16,16,16,0,0,True
+Manipur,2023-08,16,16,16,0,0,True
+Manipur,2023-09,16,16,16,0,0,True
+Manipur,2023-10,16,16,16,0,0,True
+Manipur,2023-11,16,16,16,0,0,True
+Manipur,2023-12,16,16,16,0,0,True
+Manipur,2024-01,16,16,16,0,0,True
+Manipur,2024-02,16,16,16,0,0,True
+Manipur,2024-03,16,16,16,0,0,True
+Manipur,2024-04,16,16,16,0,0,True
+Manipur,2024-05,16,16,16,0,0,True
+Manipur,2024-06,16,16,16,0,0,True
+Manipur,2024-07,16,16,16,0,0,True
+Manipur,2024-08,16,16,16,0,0,True
+Manipur,2024-09,16,16,16,0,0,True
+Manipur,2024-10,16,16,16,0,0,True
+Manipur,2024-11,16,16,16,0,0,True
+Manipur,2024-12,16,16,16,0,0,True
+Manipur,2025-01,16,16,16,0,0,True
+Manipur,2025-02,16,16,16,0,0,True
+Manipur,2025-03,16,16,16,0,0,True
+Manipur,2025-04,16,16,16,0,0,True
+Manipur,2025-05,16,16,16,0,0,True
+Manipur,2025-06,16,16,16,0,0,True
+Manipur,2025-07,16,16,16,0,0,True
+Manipur,2025-08,16,16,16,0,0,True
+Manipur,2025-09,16,16,16,0,0,True
+Manipur,2025-10,16,16,16,0,0,True
+Manipur,2025-11,16,16,16,0,0,True
+Meghalaya,2019-01,16,16,16,0,0,True
+Meghalaya,2019-02,16,16,16,0,0,True
+Meghalaya,2019-03,16,16,16,0,0,True
+Meghalaya,2019-04,16,16,16,0,0,True
+Meghalaya,2019-05,16,16,16,0,0,True
+Meghalaya,2019-06,16,16,16,0,0,True
+Meghalaya,2019-07,16,16,16,0,0,True
+Meghalaya,2019-08,16,16,16,0,0,True
+Meghalaya,2019-09,16,16,16,0,0,True
+Meghalaya,2019-10,16,16,16,0,0,True
+Meghalaya,2019-11,16,16,16,0,0,True
+Meghalaya,2019-12,16,16,16,0,0,True
+Meghalaya,2020-01,16,16,16,0,0,True
+Meghalaya,2020-02,16,16,16,0,0,True
+Meghalaya,2020-03,16,16,16,0,0,True
+Meghalaya,2020-04,16,16,16,0,0,True
+Meghalaya,2020-05,16,16,16,0,0,True
+Meghalaya,2020-06,16,16,16,0,0,True
+Meghalaya,2020-07,16,16,16,0,0,True
+Meghalaya,2020-08,16,16,16,0,0,True
+Meghalaya,2020-09,16,16,16,0,0,True
+Meghalaya,2020-10,16,16,16,0,0,True
+Meghalaya,2020-11,16,16,16,0,0,True
+Meghalaya,2020-12,16,16,16,0,0,True
+Meghalaya,2021-01,16,16,16,0,0,True
+Meghalaya,2021-02,16,16,16,0,0,True
+Meghalaya,2021-03,16,16,16,0,0,True
+Meghalaya,2021-04,16,16,16,0,0,True
+Meghalaya,2021-05,16,16,16,0,0,True
+Meghalaya,2021-06,16,16,16,0,0,True
+Meghalaya,2021-07,16,16,16,0,0,True
+Meghalaya,2021-08,16,16,16,0,0,True
+Meghalaya,2021-09,16,16,16,0,0,True
+Meghalaya,2021-10,16,16,16,0,0,True
+Meghalaya,2021-11,16,16,16,0,0,True
+Meghalaya,2021-12,16,16,16,0,0,True
+Meghalaya,2022-01,16,16,16,0,0,True
+Meghalaya,2022-02,16,16,16,0,0,True
+Meghalaya,2022-03,16,16,16,0,0,True
+Meghalaya,2022-04,16,16,16,0,0,True
+Meghalaya,2022-05,16,16,16,0,0,True
+Meghalaya,2022-06,16,16,16,0,0,True
+Meghalaya,2022-07,16,16,16,0,0,True
+Meghalaya,2022-08,16,16,16,0,0,True
+Meghalaya,2022-09,16,16,16,0,0,True
+Meghalaya,2022-10,16,16,16,0,0,True
+Meghalaya,2022-11,16,16,16,0,0,True
+Meghalaya,2022-12,16,16,16,0,0,True
+Meghalaya,2023-01,16,16,16,0,0,True
+Meghalaya,2023-02,16,16,16,0,0,True
+Meghalaya,2023-03,16,16,16,0,0,True
+Meghalaya,2023-04,16,16,16,0,0,True
+Meghalaya,2023-05,16,16,16,0,0,True
+Meghalaya,2023-06,16,16,16,0,0,True
+Meghalaya,2023-07,16,16,16,0,0,True
+Meghalaya,2023-08,16,16,16,0,0,True
+Meghalaya,2023-09,16,16,16,0,0,True
+Meghalaya,2023-10,16,16,16,0,0,True
+Meghalaya,2023-11,16,16,16,0,0,True
+Meghalaya,2023-12,16,16,16,0,0,True
+Meghalaya,2024-01,16,16,16,0,0,True
+Meghalaya,2024-02,16,16,16,0,0,True
+Meghalaya,2024-03,16,16,16,0,0,True
+Meghalaya,2024-04,16,16,16,0,0,True
+Meghalaya,2024-05,16,16,16,0,0,True
+Meghalaya,2024-06,16,16,16,0,0,True
+Meghalaya,2024-07,16,16,16,0,0,True
+Meghalaya,2024-08,16,16,16,0,0,True
+Meghalaya,2024-09,16,16,16,0,0,True
+Meghalaya,2024-10,16,16,16,0,0,True
+Meghalaya,2024-11,16,16,16,0,0,True
+Meghalaya,2024-12,16,16,16,0,0,True
+Meghalaya,2025-01,16,16,16,0,0,True
+Meghalaya,2025-02,16,16,16,0,0,True
+Meghalaya,2025-03,16,16,16,0,0,True
+Meghalaya,2025-04,16,16,16,0,0,True
+Meghalaya,2025-05,16,16,16,0,0,True
+Meghalaya,2025-06,16,16,16,0,0,True
+Meghalaya,2025-07,16,16,16,0,0,True
+Meghalaya,2025-08,16,16,16,0,0,True
+Meghalaya,2025-09,16,16,16,0,0,True
+Meghalaya,2025-10,16,16,16,0,0,True
+Meghalaya,2025-11,16,16,16,0,0,True
+Mizoram,2019-01,16,16,16,0,0,True
+Mizoram,2019-02,16,16,16,0,0,True
+Mizoram,2019-03,16,16,16,0,0,True
+Mizoram,2019-04,16,16,16,0,0,True
+Mizoram,2019-05,16,16,16,0,0,True
+Mizoram,2019-06,16,16,16,0,0,True
+Mizoram,2019-07,16,16,16,0,0,True
+Mizoram,2019-08,16,16,16,0,0,True
+Mizoram,2019-09,16,16,16,0,0,True
+Mizoram,2019-10,16,16,16,0,0,True
+Mizoram,2019-11,16,16,16,0,0,True
+Mizoram,2019-12,16,16,16,0,0,True
+Mizoram,2020-01,16,16,16,0,0,True
+Mizoram,2020-02,16,16,16,0,0,True
+Mizoram,2020-03,16,16,16,0,0,True
+Mizoram,2020-04,16,16,16,0,0,True
+Mizoram,2020-05,16,16,16,0,0,True
+Mizoram,2020-06,16,16,16,0,0,True
+Mizoram,2020-07,16,16,16,0,0,True
+Mizoram,2020-08,16,16,16,0,0,True
+Mizoram,2020-09,16,16,16,0,0,True
+Mizoram,2020-10,16,16,16,0,0,True
+Mizoram,2020-11,16,16,16,0,0,True
+Mizoram,2020-12,16,16,16,0,0,True
+Mizoram,2021-01,16,16,16,0,0,True
+Mizoram,2021-02,16,16,16,0,0,True
+Mizoram,2021-03,16,16,16,0,0,True
+Mizoram,2021-04,16,16,16,0,0,True
+Mizoram,2021-05,16,16,16,0,0,True
+Mizoram,2021-06,16,16,16,0,0,True
+Mizoram,2021-07,16,16,16,0,0,True
+Mizoram,2021-08,16,16,16,0,0,True
+Mizoram,2021-09,16,16,16,0,0,True
+Mizoram,2021-10,16,16,16,0,0,True
+Mizoram,2021-11,16,16,16,0,0,True
+Mizoram,2021-12,16,16,16,0,0,True
+Mizoram,2022-01,16,16,16,0,0,True
+Mizoram,2022-02,16,16,16,0,0,True
+Mizoram,2022-03,16,16,16,0,0,True
+Mizoram,2022-04,16,16,16,0,0,True
+Mizoram,2022-05,16,16,16,0,0,True
+Mizoram,2022-06,16,16,16,0,0,True
+Mizoram,2022-07,16,16,16,0,0,True
+Mizoram,2022-08,16,16,16,0,0,True
+Mizoram,2022-09,16,16,16,0,0,True
+Mizoram,2022-10,16,16,16,0,0,True
+Mizoram,2022-11,16,16,16,0,0,True
+Mizoram,2022-12,16,16,16,0,0,True
+Mizoram,2023-01,16,16,16,0,0,True
+Mizoram,2023-02,16,16,16,0,0,True
+Mizoram,2023-03,16,16,16,0,0,True
+Mizoram,2023-04,16,16,16,0,0,True
+Mizoram,2023-05,16,16,16,0,0,True
+Mizoram,2023-06,16,16,16,0,0,True
+Mizoram,2023-07,16,16,16,0,0,True
+Mizoram,2023-08,16,16,16,0,0,True
+Mizoram,2023-09,16,16,16,0,0,True
+Mizoram,2023-10,16,16,16,0,0,True
+Mizoram,2023-11,16,16,16,0,0,True
+Mizoram,2023-12,16,16,16,0,0,True
+Mizoram,2024-01,16,16,16,0,0,True
+Mizoram,2024-02,16,16,16,0,0,True
+Mizoram,2024-03,16,16,16,0,0,True
+Mizoram,2024-04,16,16,16,0,0,True
+Mizoram,2024-05,16,16,16,0,0,True
+Mizoram,2024-06,16,16,16,0,0,True
+Mizoram,2024-07,16,16,16,0,0,True
+Mizoram,2024-08,16,16,16,0,0,True
+Mizoram,2024-09,16,16,16,0,0,True
+Mizoram,2024-10,16,16,16,0,0,True
+Mizoram,2024-11,16,16,16,0,0,True
+Mizoram,2024-12,16,16,16,0,0,True
+Mizoram,2025-01,16,16,16,0,0,True
+Mizoram,2025-02,16,16,16,0,0,True
+Mizoram,2025-03,16,16,16,0,0,True
+Mizoram,2025-04,16,16,16,0,0,True
+Mizoram,2025-05,16,16,16,0,0,True
+Mizoram,2025-06,16,16,16,0,0,True
+Mizoram,2025-07,16,16,16,0,0,True
+Mizoram,2025-08,16,16,16,0,0,True
+Mizoram,2025-09,16,16,16,0,0,True
+Mizoram,2025-10,16,16,16,0,0,True
+Mizoram,2025-11,16,16,16,0,0,True
+Nagaland,2019-01,16,16,16,0,0,True
+Nagaland,2019-02,16,16,16,0,0,True
+Nagaland,2019-03,16,16,16,0,0,True
+Nagaland,2019-04,16,16,16,0,0,True
+Nagaland,2019-05,16,16,16,0,0,True
+Nagaland,2019-06,16,16,16,0,0,True
+Nagaland,2019-07,16,16,16,0,0,True
+Nagaland,2019-08,16,16,16,0,0,True
+Nagaland,2019-09,16,16,16,0,0,True
+Nagaland,2019-10,16,16,16,0,0,True
+Nagaland,2019-11,16,16,16,0,0,True
+Nagaland,2019-12,16,16,16,0,0,True
+Nagaland,2020-01,16,16,16,0,0,True
+Nagaland,2020-02,16,16,16,0,0,True
+Nagaland,2020-03,16,16,16,0,0,True
+Nagaland,2020-04,16,16,16,0,0,True
+Nagaland,2020-05,16,16,16,0,0,True
+Nagaland,2020-06,16,16,16,0,0,True
+Nagaland,2020-07,16,16,16,0,0,True
+Nagaland,2020-08,16,16,16,0,0,True
+Nagaland,2020-09,16,16,16,0,0,True
+Nagaland,2020-10,16,16,16,0,0,True
+Nagaland,2020-11,16,16,16,0,0,True
+Nagaland,2020-12,16,16,16,0,0,True
+Nagaland,2021-01,16,16,16,0,0,True
+Nagaland,2021-02,16,16,16,0,0,True
+Nagaland,2021-03,16,16,16,0,0,True
+Nagaland,2021-04,16,16,16,0,0,True
+Nagaland,2021-05,16,16,16,0,0,True
+Nagaland,2021-06,16,16,16,0,0,True
+Nagaland,2021-07,16,16,16,0,0,True
+Nagaland,2021-08,16,16,16,0,0,True
+Nagaland,2021-09,16,16,16,0,0,True
+Nagaland,2021-10,16,16,16,0,0,True
+Nagaland,2021-11,16,16,16,0,0,True
+Nagaland,2021-12,16,16,16,0,0,True
+Nagaland,2022-01,16,16,16,0,0,True
+Nagaland,2022-02,16,16,16,0,0,True
+Nagaland,2022-03,16,16,16,0,0,True
+Nagaland,2022-04,16,16,16,0,0,True
+Nagaland,2022-05,16,16,16,0,0,True
+Nagaland,2022-06,16,16,16,0,0,True
+Nagaland,2022-07,16,16,16,0,0,True
+Nagaland,2022-08,16,16,16,0,0,True
+Nagaland,2022-09,16,16,16,0,0,True
+Nagaland,2022-10,16,16,16,0,0,True
+Nagaland,2022-11,16,16,16,0,0,True
+Nagaland,2022-12,16,16,16,0,0,True
+Nagaland,2023-01,16,16,16,0,0,True
+Nagaland,2023-02,16,16,16,0,0,True
+Nagaland,2023-03,16,16,16,0,0,True
+Nagaland,2023-04,16,16,16,0,0,True
+Nagaland,2023-05,16,16,16,0,0,True
+Nagaland,2023-06,16,16,16,0,0,True
+Nagaland,2023-07,16,16,16,0,0,True
+Nagaland,2023-08,16,16,16,0,0,True
+Nagaland,2023-09,16,16,16,0,0,True
+Nagaland,2023-10,16,16,16,0,0,True
+Nagaland,2023-11,16,16,16,0,0,True
+Nagaland,2023-12,16,16,16,0,0,True
+Nagaland,2024-01,16,16,16,0,0,True
+Nagaland,2024-02,16,16,16,0,0,True
+Nagaland,2024-03,16,16,16,0,0,True
+Nagaland,2024-04,16,16,16,0,0,True
+Nagaland,2024-05,16,16,16,0,0,True
+Nagaland,2024-06,16,16,16,0,0,True
+Nagaland,2024-07,16,16,16,0,0,True
+Nagaland,2024-08,16,16,16,0,0,True
+Nagaland,2024-09,16,16,16,0,0,True
+Nagaland,2024-10,16,16,16,0,0,True
+Nagaland,2024-11,16,16,16,0,0,True
+Nagaland,2024-12,16,16,16,0,0,True
+Nagaland,2025-01,16,16,16,0,0,True
+Nagaland,2025-02,16,16,16,0,0,True
+Nagaland,2025-03,16,16,16,0,0,True
+Nagaland,2025-04,16,16,16,0,0,True
+Nagaland,2025-05,16,16,16,0,0,True
+Nagaland,2025-06,16,16,16,0,0,True
+Nagaland,2025-07,16,16,16,0,0,True
+Nagaland,2025-08,16,16,16,0,0,True
+Nagaland,2025-09,16,16,16,0,0,True
+Nagaland,2025-10,16,16,16,0,0,True
+Nagaland,2025-11,16,16,16,0,0,True
+Odisha,2019-01,16,16,16,0,0,True
+Odisha,2019-02,16,16,16,0,0,True
+Odisha,2019-03,16,16,16,0,0,True
+Odisha,2019-04,16,16,16,0,0,True
+Odisha,2019-05,16,16,16,0,0,True
+Odisha,2019-06,16,16,16,0,0,True
+Odisha,2019-07,16,16,16,0,0,True
+Odisha,2019-08,16,16,16,0,0,True
+Odisha,2019-09,16,16,16,0,0,True
+Odisha,2019-10,16,16,16,0,0,True
+Odisha,2019-11,16,16,16,0,0,True
+Odisha,2019-12,16,16,16,0,0,True
+Odisha,2020-01,16,16,16,0,0,True
+Odisha,2020-02,16,16,16,0,0,True
+Odisha,2020-03,16,16,16,0,0,True
+Odisha,2020-04,16,16,16,0,0,True
+Odisha,2020-05,16,16,16,0,0,True
+Odisha,2020-06,16,16,16,0,0,True
+Odisha,2020-07,16,16,16,0,0,True
+Odisha,2020-08,16,16,16,0,0,True
+Odisha,2020-09,16,16,16,0,0,True
+Odisha,2020-10,16,16,16,0,0,True
+Odisha,2020-11,16,16,16,0,0,True
+Odisha,2020-12,16,16,16,0,0,True
+Odisha,2021-01,16,16,16,0,0,True
+Odisha,2021-02,16,16,16,0,0,True
+Odisha,2021-03,16,16,16,0,0,True
+Odisha,2021-04,16,16,16,0,0,True
+Odisha,2021-05,16,16,16,0,0,True
+Odisha,2021-06,16,16,16,0,0,True
+Odisha,2021-07,16,16,16,0,0,True
+Odisha,2021-08,16,16,16,0,0,True
+Odisha,2021-09,16,16,16,0,0,True
+Odisha,2021-10,16,16,16,0,0,True
+Odisha,2021-11,16,16,16,0,0,True
+Odisha,2021-12,16,16,16,0,0,True
+Odisha,2022-01,16,16,16,0,0,True
+Odisha,2022-02,16,16,16,0,0,True
+Odisha,2022-03,16,16,16,0,0,True
+Odisha,2022-04,16,16,16,0,0,True
+Odisha,2022-05,16,16,16,0,0,True
+Odisha,2022-06,16,16,16,0,0,True
+Odisha,2022-07,16,16,16,0,0,True
+Odisha,2022-08,16,16,16,0,0,True
+Odisha,2022-09,16,16,16,0,0,True
+Odisha,2022-10,16,16,16,0,0,True
+Odisha,2022-11,16,16,16,0,0,True
+Odisha,2022-12,16,16,16,0,0,True
+Odisha,2023-01,16,16,16,0,0,True
+Odisha,2023-02,16,16,16,0,0,True
+Odisha,2023-03,16,16,16,0,0,True
+Odisha,2023-04,16,16,16,0,0,True
+Odisha,2023-05,16,16,16,0,0,True
+Odisha,2023-06,16,16,16,0,0,True
+Odisha,2023-07,16,16,16,0,0,True
+Odisha,2023-08,16,16,16,0,0,True
+Odisha,2023-09,16,16,16,0,0,True
+Odisha,2023-10,16,16,16,0,0,True
+Odisha,2023-11,16,16,16,0,0,True
+Odisha,2023-12,16,16,16,0,0,True
+Odisha,2024-01,16,16,16,0,0,True
+Odisha,2024-02,16,16,16,0,0,True
+Odisha,2024-03,16,16,16,0,0,True
+Odisha,2024-04,16,16,16,0,0,True
+Odisha,2024-05,16,16,16,0,0,True
+Odisha,2024-06,16,16,16,0,0,True
+Odisha,2024-07,16,16,16,0,0,True
+Odisha,2024-08,16,16,16,0,0,True
+Odisha,2024-09,16,16,16,0,0,True
+Odisha,2024-10,16,16,16,0,0,True
+Odisha,2024-11,16,16,16,0,0,True
+Odisha,2024-12,16,16,16,0,0,True
+Odisha,2025-01,16,16,16,0,0,True
+Odisha,2025-02,16,16,16,0,0,True
+Odisha,2025-03,16,16,16,0,0,True
+Odisha,2025-04,16,16,16,0,0,True
+Odisha,2025-05,16,16,16,0,0,True
+Odisha,2025-06,16,16,16,0,0,True
+Odisha,2025-07,16,16,16,0,0,True
+Odisha,2025-08,16,16,16,0,0,True
+Odisha,2025-09,16,16,16,0,0,True
+Odisha,2025-10,16,16,16,0,0,True
+Odisha,2025-11,16,16,16,0,0,True
+Others,2019-01,16,16,16,0,0,True
+Others,2019-02,16,16,16,0,0,True
+Others,2019-03,16,16,16,0,0,True
+Others,2019-04,16,16,16,0,0,True
+Others,2019-05,16,16,16,0,0,True
+Others,2019-06,16,16,16,0,0,True
+Others,2019-07,16,16,16,0,0,True
+Others,2019-08,16,16,16,0,0,True
+Others,2019-09,16,16,16,0,0,True
+Others,2019-10,16,16,16,0,0,True
+Others,2019-11,16,16,16,0,0,True
+Others,2019-12,16,16,16,0,0,True
+Others,2020-01,16,16,16,0,0,True
+Others,2020-02,16,16,16,0,0,True
+Others,2020-03,16,16,16,0,0,True
+Others,2020-04,16,16,16,0,0,True
+Others,2020-05,16,16,16,0,0,True
+Others,2020-06,16,16,16,0,0,True
+Others,2020-07,16,16,16,0,0,True
+Others,2020-08,16,16,16,0,0,True
+Others,2020-09,16,16,16,0,0,True
+Others,2020-10,16,16,16,0,0,True
+Others,2020-11,16,16,16,0,0,True
+Others,2020-12,16,16,16,0,0,True
+Others,2021-01,16,16,16,0,0,True
+Others,2021-02,16,16,16,0,0,True
+Others,2021-03,16,16,16,0,0,True
+Others,2021-04,16,16,16,0,0,True
+Others,2021-05,16,16,16,0,0,True
+Others,2021-06,16,16,16,0,0,True
+Others,2021-07,16,16,16,0,0,True
+Others,2021-08,16,16,16,0,0,True
+Others,2021-09,16,16,16,0,0,True
+Others,2021-10,16,16,16,0,0,True
+Others,2021-11,16,16,16,0,0,True
+Others,2021-12,16,16,16,0,0,True
+Others,2022-01,16,16,16,0,0,True
+Others,2022-02,16,16,16,0,0,True
+Others,2022-03,16,16,16,0,0,True
+Others,2022-04,16,16,16,0,0,True
+Others,2022-05,16,16,16,0,0,True
+Others,2022-06,16,16,16,0,0,True
+Others,2022-07,16,16,16,0,0,True
+Others,2022-08,16,16,16,0,0,True
+Puducherry,2019-01,16,16,16,0,0,True
+Puducherry,2019-02,16,16,16,0,0,True
+Puducherry,2019-03,16,16,16,0,0,True
+Puducherry,2019-04,16,16,16,0,0,True
+Puducherry,2019-05,16,16,16,0,0,True
+Puducherry,2019-06,16,16,16,0,0,True
+Puducherry,2019-07,16,16,16,0,0,True
+Puducherry,2019-08,16,16,16,0,0,True
+Puducherry,2019-09,16,16,16,0,0,True
+Puducherry,2019-10,16,16,16,0,0,True
+Puducherry,2019-11,16,16,16,0,0,True
+Puducherry,2019-12,16,16,16,0,0,True
+Puducherry,2020-01,16,16,16,0,0,True
+Puducherry,2020-02,16,16,16,0,0,True
+Puducherry,2020-03,16,16,16,0,0,True
+Puducherry,2020-04,16,16,16,0,0,True
+Puducherry,2020-05,16,16,16,0,0,True
+Puducherry,2020-06,16,16,16,0,0,True
+Puducherry,2020-07,16,16,16,0,0,True
+Puducherry,2020-08,16,16,16,0,0,True
+Puducherry,2020-09,16,16,16,0,0,True
+Puducherry,2020-10,16,16,16,0,0,True
+Puducherry,2020-11,16,16,16,0,0,True
+Puducherry,2020-12,16,16,16,0,0,True
+Puducherry,2021-01,16,16,16,0,0,True
+Puducherry,2021-02,16,16,16,0,0,True
+Puducherry,2021-03,16,16,16,0,0,True
+Puducherry,2021-04,16,16,16,0,0,True
+Puducherry,2021-05,16,16,16,0,0,True
+Puducherry,2021-06,16,16,16,0,0,True
+Puducherry,2021-07,16,16,16,0,0,True
+Puducherry,2021-08,16,16,16,0,0,True
+Puducherry,2021-09,16,16,16,0,0,True
+Puducherry,2021-10,16,16,16,0,0,True
+Puducherry,2021-11,16,16,16,0,0,True
+Puducherry,2021-12,16,16,16,0,0,True
+Puducherry,2022-01,16,16,16,0,0,True
+Puducherry,2022-02,16,16,16,0,0,True
+Puducherry,2022-03,16,16,16,0,0,True
+Puducherry,2022-04,16,16,16,0,0,True
+Puducherry,2022-05,16,16,16,0,0,True
+Puducherry,2022-06,16,16,16,0,0,True
+Puducherry,2022-07,16,16,16,0,0,True
+Puducherry,2022-08,16,16,16,0,0,True
+Puducherry,2022-09,16,16,16,0,0,True
+Puducherry,2022-10,16,16,16,0,0,True
+Puducherry,2022-11,16,16,16,0,0,True
+Puducherry,2022-12,16,16,16,0,0,True
+Puducherry,2023-01,16,16,16,0,0,True
+Puducherry,2023-02,16,16,16,0,0,True
+Puducherry,2023-03,16,16,16,0,0,True
+Puducherry,2023-04,16,16,16,0,0,True
+Puducherry,2023-05,16,16,16,0,0,True
+Puducherry,2023-06,16,16,16,0,0,True
+Puducherry,2023-07,16,16,16,0,0,True
+Puducherry,2023-08,16,16,16,0,0,True
+Puducherry,2023-09,16,16,16,0,0,True
+Puducherry,2023-10,16,16,16,0,0,True
+Puducherry,2023-11,16,16,16,0,0,True
+Puducherry,2023-12,16,16,16,0,0,True
+Puducherry,2024-01,16,16,16,0,0,True
+Puducherry,2024-02,16,16,16,0,0,True
+Puducherry,2024-03,16,16,16,0,0,True
+Puducherry,2024-04,16,16,16,0,0,True
+Puducherry,2024-05,16,16,16,0,0,True
+Puducherry,2024-06,16,16,16,0,0,True
+Puducherry,2024-07,16,16,16,0,0,True
+Puducherry,2024-08,16,16,16,0,0,True
+Puducherry,2024-09,16,16,16,0,0,True
+Puducherry,2024-10,16,16,16,0,0,True
+Puducherry,2024-11,16,16,16,0,0,True
+Puducherry,2024-12,16,16,16,0,0,True
+Puducherry,2025-01,16,16,16,0,0,True
+Puducherry,2025-02,16,16,16,0,0,True
+Puducherry,2025-03,16,16,16,0,0,True
+Puducherry,2025-04,16,16,16,0,0,True
+Puducherry,2025-05,16,16,16,0,0,True
+Puducherry,2025-06,16,16,16,0,0,True
+Puducherry,2025-07,16,16,16,0,0,True
+Puducherry,2025-08,16,16,16,0,0,True
+Puducherry,2025-09,16,16,16,0,0,True
+Puducherry,2025-10,16,16,16,0,0,True
+Puducherry,2025-11,16,16,16,0,0,True
+Punjab,2019-01,16,16,16,0,0,True
+Punjab,2019-02,16,16,16,0,0,True
+Punjab,2019-03,16,16,16,0,0,True
+Punjab,2019-04,16,16,16,0,0,True
+Punjab,2019-05,16,16,16,0,0,True
+Punjab,2019-06,16,16,16,0,0,True
+Punjab,2019-07,16,16,16,0,0,True
+Punjab,2019-08,16,16,16,0,0,True
+Punjab,2019-09,16,16,16,0,0,True
+Punjab,2019-10,16,16,16,0,0,True
+Punjab,2019-11,16,16,16,0,0,True
+Punjab,2019-12,16,16,16,0,0,True
+Punjab,2020-01,16,16,16,0,0,True
+Punjab,2020-02,16,16,16,0,0,True
+Punjab,2020-03,16,16,16,0,0,True
+Punjab,2020-04,16,16,16,0,0,True
+Punjab,2020-05,16,16,16,0,0,True
+Punjab,2020-06,16,16,16,0,0,True
+Punjab,2020-07,16,16,16,0,0,True
+Punjab,2020-08,16,16,16,0,0,True
+Punjab,2020-09,16,16,16,0,0,True
+Punjab,2020-10,16,16,16,0,0,True
+Punjab,2020-11,16,16,16,0,0,True
+Punjab,2020-12,16,16,16,0,0,True
+Punjab,2021-01,16,16,16,0,0,True
+Punjab,2021-02,16,16,16,0,0,True
+Punjab,2021-03,16,16,16,0,0,True
+Punjab,2021-04,16,16,16,0,0,True
+Punjab,2021-05,16,16,16,0,0,True
+Punjab,2021-06,16,16,16,0,0,True
+Punjab,2021-07,16,16,16,0,0,True
+Punjab,2021-08,16,16,16,0,0,True
+Punjab,2021-09,16,16,16,0,0,True
+Punjab,2021-10,16,16,16,0,0,True
+Punjab,2021-11,16,16,16,0,0,True
+Punjab,2021-12,16,16,16,0,0,True
+Punjab,2022-01,16,16,16,0,0,True
+Punjab,2022-02,16,16,16,0,0,True
+Punjab,2022-03,16,16,16,0,0,True
+Punjab,2022-04,16,16,16,0,0,True
+Punjab,2022-05,16,16,16,0,0,True
+Punjab,2022-06,16,16,16,0,0,True
+Punjab,2022-07,16,16,16,0,0,True
+Punjab,2022-08,16,16,16,0,0,True
+Punjab,2022-09,16,16,16,0,0,True
+Punjab,2022-10,16,16,16,0,0,True
+Punjab,2022-11,16,16,16,0,0,True
+Punjab,2022-12,16,16,16,0,0,True
+Punjab,2023-01,16,16,16,0,0,True
+Punjab,2023-02,16,16,16,0,0,True
+Punjab,2023-03,16,16,16,0,0,True
+Punjab,2023-04,16,16,16,0,0,True
+Punjab,2023-05,16,16,16,0,0,True
+Punjab,2023-06,16,16,16,0,0,True
+Punjab,2023-07,16,16,16,0,0,True
+Punjab,2023-08,16,16,16,0,0,True
+Punjab,2023-09,16,16,16,0,0,True
+Punjab,2023-10,16,16,16,0,0,True
+Punjab,2023-11,16,16,16,0,0,True
+Punjab,2023-12,16,16,16,0,0,True
+Punjab,2024-01,16,16,16,0,0,True
+Punjab,2024-02,16,16,16,0,0,True
+Punjab,2024-03,16,16,16,0,0,True
+Punjab,2024-04,16,16,16,0,0,True
+Punjab,2024-05,16,16,16,0,0,True
+Punjab,2024-06,16,16,16,0,0,True
+Punjab,2024-07,16,16,16,0,0,True
+Punjab,2024-08,16,16,16,0,0,True
+Punjab,2024-09,16,16,16,0,0,True
+Punjab,2024-10,16,16,16,0,0,True
+Punjab,2024-11,16,16,16,0,0,True
+Punjab,2024-12,16,16,16,0,0,True
+Punjab,2025-01,16,16,16,0,0,True
+Punjab,2025-02,16,16,16,0,0,True
+Punjab,2025-03,16,16,16,0,0,True
+Punjab,2025-04,16,16,16,0,0,True
+Punjab,2025-05,16,16,16,0,0,True
+Punjab,2025-06,16,16,16,0,0,True
+Punjab,2025-07,16,16,16,0,0,True
+Punjab,2025-08,16,16,16,0,0,True
+Punjab,2025-09,16,16,16,0,0,True
+Punjab,2025-10,16,16,16,0,0,True
+Punjab,2025-11,16,16,16,0,0,True
+Rajasthan,2019-01,16,16,16,0,0,True
+Rajasthan,2019-02,16,16,16,0,0,True
+Rajasthan,2019-03,16,16,16,0,0,True
+Rajasthan,2019-04,16,16,16,0,0,True
+Rajasthan,2019-05,16,16,16,0,0,True
+Rajasthan,2019-06,16,16,16,0,0,True
+Rajasthan,2019-07,16,16,16,0,0,True
+Rajasthan,2019-08,16,16,16,0,0,True
+Rajasthan,2019-09,16,16,16,0,0,True
+Rajasthan,2019-10,16,16,16,0,0,True
+Rajasthan,2019-11,16,16,16,0,0,True
+Rajasthan,2019-12,16,16,16,0,0,True
+Rajasthan,2020-01,16,16,16,0,0,True
+Rajasthan,2020-02,16,16,16,0,0,True
+Rajasthan,2020-03,16,16,16,0,0,True
+Rajasthan,2020-04,16,16,16,0,0,True
+Rajasthan,2020-05,16,16,16,0,0,True
+Rajasthan,2020-06,16,16,16,0,0,True
+Rajasthan,2020-07,16,16,16,0,0,True
+Rajasthan,2020-08,16,16,16,0,0,True
+Rajasthan,2020-09,16,16,16,0,0,True
+Rajasthan,2020-10,16,16,16,0,0,True
+Rajasthan,2020-11,16,16,16,0,0,True
+Rajasthan,2020-12,16,16,16,0,0,True
+Rajasthan,2021-01,16,16,16,0,0,True
+Rajasthan,2021-02,16,16,16,0,0,True
+Rajasthan,2021-03,16,16,16,0,0,True
+Rajasthan,2021-04,16,16,16,0,0,True
+Rajasthan,2021-05,16,16,16,0,0,True
+Rajasthan,2021-06,16,16,16,0,0,True
+Rajasthan,2021-07,16,16,16,0,0,True
+Rajasthan,2021-08,16,16,16,0,0,True
+Rajasthan,2021-09,16,16,16,0,0,True
+Rajasthan,2021-10,16,16,16,0,0,True
+Rajasthan,2021-11,16,16,16,0,0,True
+Rajasthan,2021-12,16,16,16,0,0,True
+Rajasthan,2022-01,16,16,16,0,0,True
+Rajasthan,2022-02,16,16,16,0,0,True
+Rajasthan,2022-03,16,16,16,0,0,True
+Rajasthan,2022-04,16,16,16,0,0,True
+Rajasthan,2022-05,16,16,16,0,0,True
+Rajasthan,2022-06,16,16,16,0,0,True
+Rajasthan,2022-07,16,16,16,0,0,True
+Rajasthan,2022-08,16,16,16,0,0,True
+Rajasthan,2022-09,16,16,16,0,0,True
+Rajasthan,2022-10,16,16,16,0,0,True
+Rajasthan,2022-11,16,16,16,0,0,True
+Rajasthan,2022-12,16,16,16,0,0,True
+Rajasthan,2023-01,16,16,16,0,0,True
+Rajasthan,2023-02,16,16,16,0,0,True
+Rajasthan,2023-03,16,16,16,0,0,True
+Rajasthan,2023-04,16,16,16,0,0,True
+Rajasthan,2023-05,16,16,16,0,0,True
+Rajasthan,2023-06,16,16,16,0,0,True
+Rajasthan,2023-07,16,16,16,0,0,True
+Rajasthan,2023-08,16,16,16,0,0,True
+Rajasthan,2023-09,16,16,16,0,0,True
+Rajasthan,2023-10,16,16,16,0,0,True
+Rajasthan,2023-11,16,16,16,0,0,True
+Rajasthan,2023-12,16,16,16,0,0,True
+Rajasthan,2024-01,16,16,16,0,0,True
+Rajasthan,2024-02,16,16,16,0,0,True
+Rajasthan,2024-03,16,16,16,0,0,True
+Rajasthan,2024-04,16,16,16,0,0,True
+Rajasthan,2024-05,16,16,16,0,0,True
+Rajasthan,2024-06,16,16,16,0,0,True
+Rajasthan,2024-07,16,16,16,0,0,True
+Rajasthan,2024-08,16,16,16,0,0,True
+Rajasthan,2024-09,16,16,16,0,0,True
+Rajasthan,2024-10,16,16,16,0,0,True
+Rajasthan,2024-11,16,16,16,0,0,True
+Rajasthan,2024-12,16,16,16,0,0,True
+Rajasthan,2025-01,16,16,16,0,0,True
+Rajasthan,2025-02,16,16,16,0,0,True
+Rajasthan,2025-03,16,16,16,0,0,True
+Rajasthan,2025-04,16,16,16,0,0,True
+Rajasthan,2025-05,16,16,16,0,0,True
+Rajasthan,2025-06,16,16,16,0,0,True
+Rajasthan,2025-07,16,16,16,0,0,True
+Rajasthan,2025-08,16,16,16,0,0,True
+Rajasthan,2025-09,16,16,16,0,0,True
+Rajasthan,2025-10,16,16,16,0,0,True
+Rajasthan,2025-11,16,16,16,0,0,True
+Sikkim,2019-01,16,16,16,0,0,True
+Sikkim,2019-02,16,16,16,0,0,True
+Sikkim,2019-03,16,16,16,0,0,True
+Sikkim,2019-04,16,16,16,0,0,True
+Sikkim,2019-05,16,16,16,0,0,True
+Sikkim,2019-06,16,16,16,0,0,True
+Sikkim,2019-07,16,16,16,0,0,True
+Sikkim,2019-08,16,16,16,0,0,True
+Sikkim,2019-09,16,16,16,0,0,True
+Sikkim,2019-10,16,16,16,0,0,True
+Sikkim,2019-11,16,16,16,0,0,True
+Sikkim,2019-12,16,16,16,0,0,True
+Sikkim,2020-01,16,16,16,0,0,True
+Sikkim,2020-02,16,16,16,0,0,True
+Sikkim,2020-03,16,16,16,0,0,True
+Sikkim,2020-04,16,16,16,0,0,True
+Sikkim,2020-05,16,16,16,0,0,True
+Sikkim,2020-06,16,16,16,0,0,True
+Sikkim,2020-07,16,16,16,0,0,True
+Sikkim,2020-08,16,16,16,0,0,True
+Sikkim,2020-09,16,16,16,0,0,True
+Sikkim,2020-10,16,16,16,0,0,True
+Sikkim,2020-11,16,16,16,0,0,True
+Sikkim,2020-12,16,16,16,0,0,True
+Sikkim,2021-01,16,16,16,0,0,True
+Sikkim,2021-02,16,16,16,0,0,True
+Sikkim,2021-03,16,16,16,0,0,True
+Sikkim,2021-04,16,16,16,0,0,True
+Sikkim,2021-05,16,16,16,0,0,True
+Sikkim,2021-06,16,16,16,0,0,True
+Sikkim,2021-07,16,16,16,0,0,True
+Sikkim,2021-08,16,16,16,0,0,True
+Sikkim,2021-09,16,16,16,0,0,True
+Sikkim,2021-10,16,16,16,0,0,True
+Sikkim,2021-11,16,16,16,0,0,True
+Sikkim,2021-12,16,16,16,0,0,True
+Sikkim,2022-01,16,16,16,0,0,True
+Sikkim,2022-02,16,16,16,0,0,True
+Sikkim,2022-03,16,16,16,0,0,True
+Sikkim,2022-04,16,16,16,0,0,True
+Sikkim,2022-05,16,16,16,0,0,True
+Sikkim,2022-06,16,16,16,0,0,True
+Sikkim,2022-07,16,16,16,0,0,True
+Sikkim,2022-08,16,16,16,0,0,True
+Sikkim,2022-09,16,16,16,0,0,True
+Sikkim,2022-10,16,16,16,0,0,True
+Sikkim,2022-11,16,16,16,0,0,True
+Sikkim,2022-12,16,16,16,0,0,True
+Sikkim,2023-01,16,16,16,0,0,True
+Sikkim,2023-02,16,16,16,0,0,True
+Sikkim,2023-03,16,16,16,0,0,True
+Sikkim,2023-04,16,16,16,0,0,True
+Sikkim,2023-05,16,16,16,0,0,True
+Sikkim,2023-06,16,16,16,0,0,True
+Sikkim,2023-07,16,16,16,0,0,True
+Sikkim,2023-08,16,16,16,0,0,True
+Sikkim,2023-09,16,16,16,0,0,True
+Sikkim,2023-10,16,16,16,0,0,True
+Sikkim,2023-11,16,16,16,0,0,True
+Sikkim,2023-12,16,16,16,0,0,True
+Sikkim,2024-01,16,16,16,0,0,True
+Sikkim,2024-02,16,16,16,0,0,True
+Sikkim,2024-03,16,16,16,0,0,True
+Sikkim,2024-04,16,16,16,0,0,True
+Sikkim,2024-05,16,16,16,0,0,True
+Sikkim,2024-06,16,16,16,0,0,True
+Sikkim,2024-07,16,16,16,0,0,True
+Sikkim,2024-08,16,16,16,0,0,True
+Sikkim,2024-09,16,16,16,0,0,True
+Sikkim,2024-10,16,16,16,0,0,True
+Sikkim,2024-11,16,16,16,0,0,True
+Sikkim,2024-12,16,16,16,0,0,True
+Sikkim,2025-01,16,16,16,0,0,True
+Sikkim,2025-02,16,16,16,0,0,True
+Sikkim,2025-03,16,16,16,0,0,True
+Sikkim,2025-04,16,16,16,0,0,True
+Sikkim,2025-05,16,16,16,0,0,True
+Sikkim,2025-06,16,16,16,0,0,True
+Sikkim,2025-07,16,16,16,0,0,True
+Sikkim,2025-08,16,16,16,0,0,True
+Sikkim,2025-09,16,16,16,0,0,True
+Sikkim,2025-10,16,16,16,0,0,True
+Sikkim,2025-11,16,16,16,0,0,True
+Tamil Nadu,2019-01,16,16,16,0,0,True
+Tamil Nadu,2019-02,16,16,16,0,0,True
+Tamil Nadu,2019-03,16,16,16,0,0,True
+Tamil Nadu,2019-04,16,16,16,0,0,True
+Tamil Nadu,2019-05,16,16,16,0,0,True
+Tamil Nadu,2019-06,16,16,16,0,0,True
+Tamil Nadu,2019-07,16,16,16,0,0,True
+Tamil Nadu,2019-08,16,16,16,0,0,True
+Tamil Nadu,2019-09,16,16,16,0,0,True
+Tamil Nadu,2019-10,16,16,16,0,0,True
+Tamil Nadu,2019-11,16,16,16,0,0,True
+Tamil Nadu,2019-12,16,16,16,0,0,True
+Tamil Nadu,2020-01,16,16,16,0,0,True
+Tamil Nadu,2020-02,16,16,16,0,0,True
+Tamil Nadu,2020-03,16,16,16,0,0,True
+Tamil Nadu,2020-04,16,16,16,0,0,True
+Tamil Nadu,2020-05,16,16,16,0,0,True
+Tamil Nadu,2020-06,16,16,16,0,0,True
+Tamil Nadu,2020-07,16,16,16,0,0,True
+Tamil Nadu,2020-08,16,16,16,0,0,True
+Tamil Nadu,2020-09,16,16,16,0,0,True
+Tamil Nadu,2020-10,16,16,16,0,0,True
+Tamil Nadu,2020-11,16,16,16,0,0,True
+Tamil Nadu,2020-12,16,16,16,0,0,True
+Tamil Nadu,2021-01,16,16,16,0,0,True
+Tamil Nadu,2021-02,16,16,16,0,0,True
+Tamil Nadu,2021-03,16,16,16,0,0,True
+Tamil Nadu,2021-04,16,16,16,0,0,True
+Tamil Nadu,2021-05,16,16,16,0,0,True
+Tamil Nadu,2021-06,16,16,16,0,0,True
+Tamil Nadu,2021-07,16,16,16,0,0,True
+Tamil Nadu,2021-08,16,16,16,0,0,True
+Tamil Nadu,2021-09,16,16,16,0,0,True
+Tamil Nadu,2021-10,16,16,16,0,0,True
+Tamil Nadu,2021-11,16,16,16,0,0,True
+Tamil Nadu,2021-12,16,16,16,0,0,True
+Tamil Nadu,2022-01,16,16,16,0,0,True
+Tamil Nadu,2022-02,16,16,16,0,0,True
+Tamil Nadu,2022-03,16,16,16,0,0,True
+Tamil Nadu,2022-04,16,16,16,0,0,True
+Tamil Nadu,2022-05,16,16,16,0,0,True
+Tamil Nadu,2022-06,16,16,16,0,0,True
+Tamil Nadu,2022-07,16,16,16,0,0,True
+Tamil Nadu,2022-08,16,16,16,0,0,True
+Tamil Nadu,2022-09,16,16,16,0,0,True
+Tamil Nadu,2022-10,16,16,16,0,0,True
+Tamil Nadu,2022-11,16,16,16,0,0,True
+Tamil Nadu,2022-12,16,16,16,0,0,True
+Tamil Nadu,2023-01,16,16,16,0,0,True
+Tamil Nadu,2023-02,16,16,16,0,0,True
+Tamil Nadu,2023-03,16,16,16,0,0,True
+Tamil Nadu,2023-04,16,16,16,0,0,True
+Tamil Nadu,2023-05,16,16,16,0,0,True
+Tamil Nadu,2023-06,16,16,16,0,0,True
+Tamil Nadu,2023-07,16,16,16,0,0,True
+Tamil Nadu,2023-08,16,16,16,0,0,True
+Tamil Nadu,2023-09,16,16,16,0,0,True
+Tamil Nadu,2023-10,16,16,16,0,0,True
+Tamil Nadu,2023-11,16,16,16,0,0,True
+Tamil Nadu,2023-12,16,16,16,0,0,True
+Tamil Nadu,2024-01,16,16,16,0,0,True
+Tamil Nadu,2024-02,16,16,16,0,0,True
+Tamil Nadu,2024-03,16,16,16,0,0,True
+Tamil Nadu,2024-04,16,16,16,0,0,True
+Tamil Nadu,2024-05,16,16,16,0,0,True
+Tamil Nadu,2024-06,16,16,16,0,0,True
+Tamil Nadu,2024-07,16,16,16,0,0,True
+Tamil Nadu,2024-08,16,16,16,0,0,True
+Tamil Nadu,2024-09,16,16,16,0,0,True
+Tamil Nadu,2024-10,16,16,16,0,0,True
+Tamil Nadu,2024-11,16,16,16,0,0,True
+Tamil Nadu,2024-12,16,16,16,0,0,True
+Tamil Nadu,2025-01,16,16,16,0,0,True
+Tamil Nadu,2025-02,16,16,16,0,0,True
+Tamil Nadu,2025-03,16,16,16,0,0,True
+Tamil Nadu,2025-04,16,16,16,0,0,True
+Tamil Nadu,2025-05,16,16,16,0,0,True
+Tamil Nadu,2025-06,16,16,16,0,0,True
+Tamil Nadu,2025-07,16,16,16,0,0,True
+Tamil Nadu,2025-08,16,16,16,0,0,True
+Tamil Nadu,2025-09,16,16,16,0,0,True
+Tamil Nadu,2025-10,16,16,16,0,0,True
+Tamil Nadu,2025-11,16,16,16,0,0,True
+Telangana,2019-01,16,16,16,0,0,True
+Telangana,2019-02,16,16,16,0,0,True
+Telangana,2019-03,16,16,16,0,0,True
+Telangana,2019-04,16,16,16,0,0,True
+Telangana,2019-05,16,16,16,0,0,True
+Telangana,2019-06,16,16,16,0,0,True
+Telangana,2019-07,16,16,16,0,0,True
+Telangana,2019-08,16,16,16,0,0,True
+Telangana,2019-09,16,16,16,0,0,True
+Telangana,2019-10,16,16,16,0,0,True
+Telangana,2019-11,16,16,16,0,0,True
+Telangana,2019-12,16,16,16,0,0,True
+Telangana,2020-01,16,16,16,0,0,True
+Telangana,2020-02,16,16,16,0,0,True
+Telangana,2020-03,16,16,16,0,0,True
+Telangana,2020-04,16,16,16,0,0,True
+Telangana,2020-05,16,16,16,0,0,True
+Telangana,2020-06,16,16,16,0,0,True
+Telangana,2020-07,16,16,16,0,0,True
+Telangana,2020-08,16,16,16,0,0,True
+Telangana,2020-09,16,16,16,0,0,True
+Telangana,2020-10,16,16,16,0,0,True
+Telangana,2020-11,16,16,16,0,0,True
+Telangana,2020-12,16,16,16,0,0,True
+Telangana,2021-01,16,16,16,0,0,True
+Telangana,2021-02,16,16,16,0,0,True
+Telangana,2021-03,16,16,16,0,0,True
+Telangana,2021-04,16,16,16,0,0,True
+Telangana,2021-05,16,16,16,0,0,True
+Telangana,2021-06,16,16,16,0,0,True
+Telangana,2021-07,16,16,16,0,0,True
+Telangana,2021-08,16,16,16,0,0,True
+Telangana,2021-09,16,16,16,0,0,True
+Telangana,2021-10,16,16,16,0,0,True
+Telangana,2021-11,16,16,16,0,0,True
+Telangana,2021-12,16,16,16,0,0,True
+Telangana,2022-01,16,16,16,0,0,True
+Telangana,2022-02,16,16,16,0,0,True
+Telangana,2022-03,16,16,16,0,0,True
+Telangana,2022-04,16,16,16,0,0,True
+Telangana,2022-05,16,16,16,0,0,True
+Telangana,2022-06,16,16,16,0,0,True
+Telangana,2022-07,16,16,16,0,0,True
+Telangana,2022-08,16,16,16,0,0,True
+Telangana,2022-09,16,16,16,0,0,True
+Telangana,2022-10,16,16,16,0,0,True
+Telangana,2022-11,16,16,16,0,0,True
+Telangana,2022-12,16,16,16,0,0,True
+Telangana,2023-01,16,16,16,0,0,True
+Telangana,2023-02,16,16,16,0,0,True
+Telangana,2023-03,16,16,16,0,0,True
+Telangana,2023-04,16,16,16,0,0,True
+Telangana,2023-05,16,16,16,0,0,True
+Telangana,2023-06,16,16,16,0,0,True
+Telangana,2023-07,16,16,16,0,0,True
+Telangana,2023-08,16,16,16,0,0,True
+Telangana,2023-09,16,16,16,0,0,True
+Telangana,2023-10,16,16,16,0,0,True
+Telangana,2023-11,16,16,16,0,0,True
+Telangana,2023-12,16,16,16,0,0,True
+Telangana,2024-01,16,16,16,0,0,True
+Telangana,2024-02,16,16,16,0,0,True
+Telangana,2024-03,16,16,16,0,0,True
+Telangana,2024-04,16,16,16,0,0,True
+Telangana,2024-05,16,16,16,0,0,True
+Telangana,2024-06,16,16,16,0,0,True
+Telangana,2024-07,16,16,16,0,0,True
+Telangana,2024-08,16,16,16,0,0,True
+Telangana,2024-09,16,16,16,0,0,True
+Telangana,2024-10,16,16,16,0,0,True
+Telangana,2024-11,16,16,16,0,0,True
+Telangana,2024-12,16,16,16,0,0,True
+Telangana,2025-01,16,16,16,0,0,True
+Telangana,2025-02,16,16,16,0,0,True
+Telangana,2025-03,16,16,16,0,0,True
+Telangana,2025-04,16,16,16,0,0,True
+Telangana,2025-05,16,16,16,0,0,True
+Telangana,2025-06,16,16,16,0,0,True
+Telangana,2025-07,16,16,16,0,0,True
+Telangana,2025-08,16,16,16,0,0,True
+Telangana,2025-09,16,16,16,0,0,True
+Telangana,2025-10,16,16,16,0,0,True
+Telangana,2025-11,16,16,16,0,0,True
+Tripura,2019-01,16,16,16,0,0,True
+Tripura,2019-02,16,16,16,0,0,True
+Tripura,2019-03,16,16,16,0,0,True
+Tripura,2019-04,16,16,16,0,0,True
+Tripura,2019-05,16,16,16,0,0,True
+Tripura,2019-06,16,16,16,0,0,True
+Tripura,2019-07,16,16,16,0,0,True
+Tripura,2019-08,16,16,16,0,0,True
+Tripura,2019-09,16,16,16,0,0,True
+Tripura,2019-10,16,16,16,0,0,True
+Tripura,2019-11,16,16,16,0,0,True
+Tripura,2019-12,16,16,16,0,0,True
+Tripura,2020-01,16,16,16,0,0,True
+Tripura,2020-02,16,16,16,0,0,True
+Tripura,2020-03,16,16,16,0,0,True
+Tripura,2020-04,16,16,16,0,0,True
+Tripura,2020-05,16,16,16,0,0,True
+Tripura,2020-06,16,16,16,0,0,True
+Tripura,2020-07,16,16,16,0,0,True
+Tripura,2020-08,16,16,16,0,0,True
+Tripura,2020-09,16,16,16,0,0,True
+Tripura,2020-10,16,16,16,0,0,True
+Tripura,2020-11,16,16,16,0,0,True
+Tripura,2020-12,16,16,16,0,0,True
+Tripura,2021-01,16,16,16,0,0,True
+Tripura,2021-02,16,16,16,0,0,True
+Tripura,2021-03,16,16,16,0,0,True
+Tripura,2021-04,16,16,16,0,0,True
+Tripura,2021-05,16,16,16,0,0,True
+Tripura,2021-06,16,16,16,0,0,True
+Tripura,2021-07,16,16,16,0,0,True
+Tripura,2021-08,16,16,16,0,0,True
+Tripura,2021-09,16,16,16,0,0,True
+Tripura,2021-10,16,16,16,0,0,True
+Tripura,2021-11,16,16,16,0,0,True
+Tripura,2021-12,16,16,16,0,0,True
+Tripura,2022-01,16,16,16,0,0,True
+Tripura,2022-02,16,16,16,0,0,True
+Tripura,2022-03,16,16,16,0,0,True
+Tripura,2022-04,16,16,16,0,0,True
+Tripura,2022-05,16,16,16,0,0,True
+Tripura,2022-06,16,16,16,0,0,True
+Tripura,2022-07,16,16,16,0,0,True
+Tripura,2022-08,16,16,16,0,0,True
+Tripura,2022-09,16,16,16,0,0,True
+Tripura,2022-10,16,16,16,0,0,True
+Tripura,2022-11,16,16,16,0,0,True
+Tripura,2022-12,16,16,16,0,0,True
+Tripura,2023-01,16,16,16,0,0,True
+Tripura,2023-02,16,16,16,0,0,True
+Tripura,2023-03,16,16,16,0,0,True
+Tripura,2023-04,16,16,16,0,0,True
+Tripura,2023-05,16,16,16,0,0,True
+Tripura,2023-06,16,16,16,0,0,True
+Tripura,2023-07,16,16,16,0,0,True
+Tripura,2023-08,16,16,16,0,0,True
+Tripura,2023-09,16,16,16,0,0,True
+Tripura,2023-10,16,16,16,0,0,True
+Tripura,2023-11,16,16,16,0,0,True
+Tripura,2023-12,16,16,16,0,0,True
+Tripura,2024-01,16,16,16,0,0,True
+Tripura,2024-02,16,16,16,0,0,True
+Tripura,2024-03,16,16,16,0,0,True
+Tripura,2024-04,16,16,16,0,0,True
+Tripura,2024-05,16,16,16,0,0,True
+Tripura,2024-06,16,16,16,0,0,True
+Tripura,2024-07,16,16,16,0,0,True
+Tripura,2024-08,16,16,16,0,0,True
+Tripura,2024-09,16,16,16,0,0,True
+Tripura,2024-10,16,16,16,0,0,True
+Tripura,2024-11,16,16,16,0,0,True
+Tripura,2024-12,16,16,16,0,0,True
+Tripura,2025-01,16,16,16,0,0,True
+Tripura,2025-02,16,16,16,0,0,True
+Tripura,2025-03,16,16,16,0,0,True
+Tripura,2025-04,16,16,16,0,0,True
+Tripura,2025-05,16,16,16,0,0,True
+Tripura,2025-06,16,16,16,0,0,True
+Tripura,2025-07,16,16,16,0,0,True
+Tripura,2025-08,16,16,16,0,0,True
+Tripura,2025-09,16,16,16,0,0,True
+Tripura,2025-10,16,16,16,0,0,True
+Tripura,2025-11,16,16,16,0,0,True
+Uttar Pradesh,2019-01,16,16,16,0,0,True
+Uttar Pradesh,2019-02,16,16,16,0,0,True
+Uttar Pradesh,2019-03,16,16,16,0,0,True
+Uttar Pradesh,2019-04,16,16,16,0,0,True
+Uttar Pradesh,2019-05,16,16,16,0,0,True
+Uttar Pradesh,2019-06,16,16,16,0,0,True
+Uttar Pradesh,2019-07,16,16,16,0,0,True
+Uttar Pradesh,2019-08,16,16,16,0,0,True
+Uttar Pradesh,2019-09,16,16,16,0,0,True
+Uttar Pradesh,2019-10,16,16,16,0,0,True
+Uttar Pradesh,2019-11,16,16,16,0,0,True
+Uttar Pradesh,2019-12,16,16,16,0,0,True
+Uttar Pradesh,2020-01,16,16,16,0,0,True
+Uttar Pradesh,2020-02,16,16,16,0,0,True
+Uttar Pradesh,2020-03,16,16,16,0,0,True
+Uttar Pradesh,2020-04,16,16,16,0,0,True
+Uttar Pradesh,2020-05,16,16,16,0,0,True
+Uttar Pradesh,2020-06,16,16,16,0,0,True
+Uttar Pradesh,2020-07,16,16,16,0,0,True
+Uttar Pradesh,2020-08,16,16,16,0,0,True
+Uttar Pradesh,2020-09,16,16,16,0,0,True
+Uttar Pradesh,2020-10,16,16,16,0,0,True
+Uttar Pradesh,2020-11,16,16,16,0,0,True
+Uttar Pradesh,2020-12,16,16,16,0,0,True
+Uttar Pradesh,2021-01,16,16,16,0,0,True
+Uttar Pradesh,2021-02,16,16,16,0,0,True
+Uttar Pradesh,2021-03,16,16,16,0,0,True
+Uttar Pradesh,2021-04,16,16,16,0,0,True
+Uttar Pradesh,2021-05,16,16,16,0,0,True
+Uttar Pradesh,2021-06,16,16,16,0,0,True
+Uttar Pradesh,2021-07,16,16,16,0,0,True
+Uttar Pradesh,2021-08,16,16,16,0,0,True
+Uttar Pradesh,2021-09,16,16,16,0,0,True
+Uttar Pradesh,2021-10,16,16,16,0,0,True
+Uttar Pradesh,2021-11,16,16,16,0,0,True
+Uttar Pradesh,2021-12,16,16,16,0,0,True
+Uttar Pradesh,2022-01,16,16,16,0,0,True
+Uttar Pradesh,2022-02,16,16,16,0,0,True
+Uttar Pradesh,2022-03,16,16,16,0,0,True
+Uttar Pradesh,2022-04,16,16,16,0,0,True
+Uttar Pradesh,2022-05,16,16,16,0,0,True
+Uttar Pradesh,2022-06,16,16,16,0,0,True
+Uttar Pradesh,2022-07,16,16,16,0,0,True
+Uttar Pradesh,2022-08,16,16,16,0,0,True
+Uttar Pradesh,2022-09,16,16,16,0,0,True
+Uttar Pradesh,2022-10,16,16,16,0,0,True
+Uttar Pradesh,2022-11,16,16,16,0,0,True
+Uttar Pradesh,2022-12,16,16,16,0,0,True
+Uttar Pradesh,2023-01,16,16,16,0,0,True
+Uttar Pradesh,2023-02,16,16,16,0,0,True
+Uttar Pradesh,2023-03,16,16,16,0,0,True
+Uttar Pradesh,2023-04,16,16,16,0,0,True
+Uttar Pradesh,2023-05,16,16,16,0,0,True
+Uttar Pradesh,2023-06,16,16,16,0,0,True
+Uttar Pradesh,2023-07,16,16,16,0,0,True
+Uttar Pradesh,2023-08,16,16,16,0,0,True
+Uttar Pradesh,2023-09,16,16,16,0,0,True
+Uttar Pradesh,2023-10,16,16,16,0,0,True
+Uttar Pradesh,2023-11,16,16,16,0,0,True
+Uttar Pradesh,2023-12,16,16,16,0,0,True
+Uttar Pradesh,2024-01,16,16,16,0,0,True
+Uttar Pradesh,2024-02,16,16,16,0,0,True
+Uttar Pradesh,2024-03,16,16,16,0,0,True
+Uttar Pradesh,2024-04,16,16,16,0,0,True
+Uttar Pradesh,2024-05,16,16,16,0,0,True
+Uttar Pradesh,2024-06,16,16,16,0,0,True
+Uttar Pradesh,2024-07,16,16,16,0,0,True
+Uttar Pradesh,2024-08,16,16,16,0,0,True
+Uttar Pradesh,2024-09,16,16,16,0,0,True
+Uttar Pradesh,2024-10,16,16,16,0,0,True
+Uttar Pradesh,2024-11,16,16,16,0,0,True
+Uttar Pradesh,2024-12,16,16,16,0,0,True
+Uttar Pradesh,2025-01,16,16,16,0,0,True
+Uttar Pradesh,2025-02,16,16,16,0,0,True
+Uttar Pradesh,2025-03,16,16,16,0,0,True
+Uttar Pradesh,2025-04,16,16,16,0,0,True
+Uttar Pradesh,2025-05,16,16,16,0,0,True
+Uttar Pradesh,2025-06,16,16,16,0,0,True
+Uttar Pradesh,2025-07,16,16,16,0,0,True
+Uttar Pradesh,2025-08,16,16,16,0,0,True
+Uttar Pradesh,2025-09,16,16,16,0,0,True
+Uttar Pradesh,2025-10,16,16,16,0,0,True
+Uttar Pradesh,2025-11,16,16,16,0,0,True
+Uttarakhand,2019-01,16,16,16,0,0,True
+Uttarakhand,2019-02,16,16,16,0,0,True
+Uttarakhand,2019-03,16,16,16,0,0,True
+Uttarakhand,2019-04,16,16,16,0,0,True
+Uttarakhand,2019-05,16,16,16,0,0,True
+Uttarakhand,2019-06,16,16,16,0,0,True
+Uttarakhand,2019-07,16,16,16,0,0,True
+Uttarakhand,2019-08,16,16,16,0,0,True
+Uttarakhand,2019-09,16,16,16,0,0,True
+Uttarakhand,2019-10,16,16,16,0,0,True
+Uttarakhand,2019-11,16,16,16,0,0,True
+Uttarakhand,2019-12,16,16,16,0,0,True
+Uttarakhand,2020-01,16,16,16,0,0,True
+Uttarakhand,2020-02,16,16,16,0,0,True
+Uttarakhand,2020-03,16,16,16,0,0,True
+Uttarakhand,2020-04,16,16,16,0,0,True
+Uttarakhand,2020-05,16,16,16,0,0,True
+Uttarakhand,2020-06,16,16,16,0,0,True
+Uttarakhand,2020-07,16,16,16,0,0,True
+Uttarakhand,2020-08,16,16,16,0,0,True
+Uttarakhand,2020-09,16,16,16,0,0,True
+Uttarakhand,2020-10,16,16,16,0,0,True
+Uttarakhand,2020-11,16,16,16,0,0,True
+Uttarakhand,2020-12,16,16,16,0,0,True
+Uttarakhand,2021-01,16,16,16,0,0,True
+Uttarakhand,2021-02,16,16,16,0,0,True
+Uttarakhand,2021-03,16,16,16,0,0,True
+Uttarakhand,2021-04,16,16,16,0,0,True
+Uttarakhand,2021-05,16,16,16,0,0,True
+Uttarakhand,2021-06,16,16,16,0,0,True
+Uttarakhand,2021-07,16,16,16,0,0,True
+Uttarakhand,2021-08,16,16,16,0,0,True
+Uttarakhand,2021-09,16,16,16,0,0,True
+Uttarakhand,2021-10,16,16,16,0,0,True
+Uttarakhand,2021-11,16,16,16,0,0,True
+Uttarakhand,2021-12,16,16,16,0,0,True
+Uttarakhand,2022-01,16,16,16,0,0,True
+Uttarakhand,2022-02,16,16,16,0,0,True
+Uttarakhand,2022-03,16,16,16,0,0,True
+Uttarakhand,2022-04,16,16,16,0,0,True
+Uttarakhand,2022-05,16,16,16,0,0,True
+Uttarakhand,2022-06,16,16,16,0,0,True
+Uttarakhand,2022-07,16,16,16,0,0,True
+Uttarakhand,2022-08,16,16,16,0,0,True
+Uttarakhand,2022-09,16,16,16,0,0,True
+Uttarakhand,2022-10,16,16,16,0,0,True
+Uttarakhand,2022-11,16,16,16,0,0,True
+Uttarakhand,2022-12,16,16,16,0,0,True
+Uttarakhand,2023-01,16,16,16,0,0,True
+Uttarakhand,2023-02,16,16,16,0,0,True
+Uttarakhand,2023-03,16,16,16,0,0,True
+Uttarakhand,2023-04,16,16,16,0,0,True
+Uttarakhand,2023-05,16,16,16,0,0,True
+Uttarakhand,2023-06,16,16,16,0,0,True
+Uttarakhand,2023-07,16,16,16,0,0,True
+Uttarakhand,2023-08,16,16,16,0,0,True
+Uttarakhand,2023-09,16,16,16,0,0,True
+Uttarakhand,2023-10,16,16,16,0,0,True
+Uttarakhand,2023-11,16,16,16,0,0,True
+Uttarakhand,2023-12,16,16,16,0,0,True
+Uttarakhand,2024-01,16,16,16,0,0,True
+Uttarakhand,2024-02,16,16,16,0,0,True
+Uttarakhand,2024-03,16,16,16,0,0,True
+Uttarakhand,2024-04,16,16,16,0,0,True
+Uttarakhand,2024-05,16,16,16,0,0,True
+Uttarakhand,2024-06,16,16,16,0,0,True
+Uttarakhand,2024-07,16,16,16,0,0,True
+Uttarakhand,2024-08,16,16,16,0,0,True
+Uttarakhand,2024-09,16,16,16,0,0,True
+Uttarakhand,2024-10,16,16,16,0,0,True
+Uttarakhand,2024-11,16,16,16,0,0,True
+Uttarakhand,2024-12,16,16,16,0,0,True
+Uttarakhand,2025-01,16,16,16,0,0,True
+Uttarakhand,2025-02,16,16,16,0,0,True
+Uttarakhand,2025-03,16,16,16,0,0,True
+Uttarakhand,2025-04,16,16,16,0,0,True
+Uttarakhand,2025-05,16,16,16,0,0,True
+Uttarakhand,2025-06,16,16,16,0,0,True
+Uttarakhand,2025-07,16,16,16,0,0,True
+Uttarakhand,2025-08,16,16,16,0,0,True
+Uttarakhand,2025-09,16,16,16,0,0,True
+Uttarakhand,2025-10,16,16,16,0,0,True
+Uttarakhand,2025-11,16,16,16,0,0,True
+West Bengal,2019-01,16,16,16,0,0,True
+West Bengal,2019-02,16,16,16,0,0,True
+West Bengal,2019-03,16,16,16,0,0,True
+West Bengal,2019-04,16,16,16,0,0,True
+West Bengal,2019-05,16,16,16,0,0,True
+West Bengal,2019-06,16,16,16,0,0,True
+West Bengal,2019-07,16,16,16,0,0,True
+West Bengal,2019-08,16,16,16,0,0,True
+West Bengal,2019-09,16,16,16,0,0,True
+West Bengal,2019-10,16,16,16,0,0,True
+West Bengal,2019-11,16,16,16,0,0,True
+West Bengal,2019-12,16,16,16,0,0,True
+West Bengal,2020-01,16,16,16,0,0,True
+West Bengal,2020-02,16,16,16,0,0,True
+West Bengal,2020-03,16,16,16,0,0,True
+West Bengal,2020-04,16,16,16,0,0,True
+West Bengal,2020-05,16,16,16,0,0,True
+West Bengal,2020-06,16,16,16,0,0,True
+West Bengal,2020-07,16,16,16,0,0,True
+West Bengal,2020-08,16,16,16,0,0,True
+West Bengal,2020-09,16,16,16,0,0,True
+West Bengal,2020-10,16,16,16,0,0,True
+West Bengal,2020-11,16,16,16,0,0,True
+West Bengal,2020-12,16,16,16,0,0,True
+West Bengal,2021-01,16,16,16,0,0,True
+West Bengal,2021-02,16,16,16,0,0,True
+West Bengal,2021-03,16,16,16,0,0,True
+West Bengal,2021-04,16,16,16,0,0,True
+West Bengal,2021-05,16,16,16,0,0,True
+West Bengal,2021-06,16,16,16,0,0,True
+West Bengal,2021-07,16,16,16,0,0,True
+West Bengal,2021-08,16,16,16,0,0,True
+West Bengal,2021-09,16,16,16,0,0,True
+West Bengal,2021-10,16,16,16,0,0,True
+West Bengal,2021-11,16,16,16,0,0,True
+West Bengal,2021-12,16,16,16,0,0,True
+West Bengal,2022-01,16,16,16,0,0,True
+West Bengal,2022-02,16,16,16,0,0,True
+West Bengal,2022-03,16,16,16,0,0,True
+West Bengal,2022-04,16,16,16,0,0,True
+West Bengal,2022-05,16,16,16,0,0,True
+West Bengal,2022-06,16,16,16,0,0,True
+West Bengal,2022-07,16,16,16,0,0,True
+West Bengal,2022-08,16,16,16,0,0,True
+West Bengal,2022-09,16,16,16,0,0,True
+West Bengal,2022-10,16,16,16,0,0,True
+West Bengal,2022-11,16,16,16,0,0,True
+West Bengal,2022-12,16,16,16,0,0,True
+West Bengal,2023-01,16,16,16,0,0,True
+West Bengal,2023-02,16,16,16,0,0,True
+West Bengal,2023-03,16,16,16,0,0,True
+West Bengal,2023-04,16,16,16,0,0,True
+West Bengal,2023-05,16,16,16,0,0,True
+West Bengal,2023-06,16,16,16,0,0,True
+West Bengal,2023-07,16,16,16,0,0,True
+West Bengal,2023-08,16,16,16,0,0,True
+West Bengal,2023-09,16,16,16,0,0,True
+West Bengal,2023-10,16,16,16,0,0,True
+West Bengal,2023-11,16,16,16,0,0,True
+West Bengal,2023-12,16,16,16,0,0,True
+West Bengal,2024-01,16,16,16,0,0,True
+West Bengal,2024-02,16,16,16,0,0,True
+West Bengal,2024-03,16,16,16,0,0,True
+West Bengal,2024-04,16,16,16,0,0,True
+West Bengal,2024-05,16,16,16,0,0,True
+West Bengal,2024-06,16,16,16,0,0,True
+West Bengal,2024-07,16,16,16,0,0,True
+West Bengal,2024-08,16,16,16,0,0,True
+West Bengal,2024-09,16,16,16,0,0,True
+West Bengal,2024-10,16,16,16,0,0,True
+West Bengal,2024-11,16,16,16,0,0,True
+West Bengal,2024-12,16,16,16,0,0,True
+West Bengal,2025-01,16,16,16,0,0,True
+West Bengal,2025-02,16,16,16,0,0,True
+West Bengal,2025-03,16,16,16,0,0,True
+West Bengal,2025-04,16,16,16,0,0,True
+West Bengal,2025-05,16,16,16,0,0,True
+West Bengal,2025-06,16,16,16,0,0,True
+West Bengal,2025-07,16,16,16,0,0,True
+West Bengal,2025-08,16,16,16,0,0,True
+West Bengal,2025-09,16,16,16,0,0,True
+West Bengal,2025-10,16,16,16,0,0,True
+West Bengal,2025-11,16,16,16,0,0,True

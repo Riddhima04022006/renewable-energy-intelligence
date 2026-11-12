@@ -1,0 +1,67 @@
+=================================================================
+EMBER-GEOJSON EXPLICIT CROSSWALK VALIDATION
+=================================================================
+
+COUNTS
+-----------------------------------------------------------------
+GeoJSON features: 36
+Unique GeoJSON names: 36
+Ember reporting names: 36
+Mapped reporting names: 36
+
+MAPPING REGISTER
+-----------------------------------------------------------------
+Andaman and Nicobar Islands -> Andaman and Nicobar [explicit_alias]
+Andhra Pradesh -> Andhra Pradesh [direct]
+Arunachal Pradesh -> Arunachal Pradesh [direct]
+Assam -> Assam [direct]
+Bihar -> Bihar [direct]
+Chandigarh -> Chandigarh [direct]
+Chhattisgarh -> Chhattisgarh [direct]
+Dadra and Nagar Haveli and Daman and Diu -> Dadra and Nagar Haveli and Daman and Diu [direct]
+Delhi -> Delhi [direct]
+Goa -> Goa [direct]
+Gujarat -> Gujarat [direct]
+Haryana -> Haryana [direct]
+Himachal Pradesh -> Himachal Pradesh [direct]
+Jammu and Kashmir -> Jammu and Kashmir [direct]
+Jharkhand -> Jharkhand [direct]
+Karnataka -> Karnataka [direct]
+Kerala -> Kerala [direct]
+Ladakh -> Ladakh [direct]
+Lakshadweep -> Lakshadweep [direct]
+Madhya Pradesh -> Madhya Pradesh [direct]
+Maharashtra -> Maharashtra [direct]
+Manipur -> Manipur [direct]
+Meghalaya -> Meghalaya [direct]
+Mizoram -> Mizoram [direct]
+Nagaland -> Nagaland [direct]
+Odisha -> Odisha [direct]
+Puducherry -> Puducherry [direct]
+Punjab -> Punjab [direct]
+Rajasthan -> Rajasthan [direct]
+Sikkim -> Sikkim [direct]
+Tamil Nadu -> Tamil Nadu [direct]
+Telangana -> Telangana [direct]
+Tripura -> Tripura [direct]
+Uttar Pradesh -> Uttar Pradesh [direct]
+Uttarakhand -> Uttarakhand [direct]
+West Bengal -> West Bengal [direct]
+
+UNMATCHED GEOJSON MAPPINGS
+-----------------------------------------------------------------
+None
+
+EMBER NAMES WITHOUT GEOGRAPHY
+-----------------------------------------------------------------
+None
+
+DUPLICATE MAPPED NAMES
+-----------------------------------------------------------------
+None
+
+FINAL STATUS
+-----------------------------------------------------------------
+PASS: All 36 geographic labels map uniquely to Ember.
+
+NOTE: A successful name crosswalk does not prove that geographic boundaries are spatially accurate.

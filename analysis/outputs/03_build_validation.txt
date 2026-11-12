@@ -1,0 +1,52 @@
+ANALYSIS DATASET BUILD REPORT
+======================================================================
+
+SOURCE
+----------------------------------------------------------------------
+Input file: D:\Renewable energy intelligence platform\india_monthly.csv
+Original rows: 238,200
+Selected GWh records: 48,874
+Variables: 16
+Source duplicates: 0
+
+STATE/UT DATASET
+----------------------------------------------------------------------
+States/UTs: 36
+Months: 53
+Expected rows: 1,908
+Actual rows: 1,908
+Period: 2021-07 to 2025-11
+
+NATIONAL DATASET
+----------------------------------------------------------------------
+Expected months: 83
+Actual rows: 83
+Period: 2019-01 to 2025-11
+
+OTHERS DATASET
+----------------------------------------------------------------------
+Expected months: 44
+Actual rows: 44
+Period: 2019-01 to 2022-08
+
+MISSINGNESS
+----------------------------------------------------------------------
+Missing source records: 486
+Existing records with blank values: 0
+
+METRIC AVAILABILITY — STATE DATASET
+----------------------------------------------------------------------
+total_generation_available: 1,908 / 1,908 state-months
+renewable_generation_available: 1,908 / 1,908 state-months
+fossil_generation_available: 1,827 / 1,908 state-months
+renewable_share_inputs_available: 1,908 / 1,908 state-months
+fossil_share_inputs_available: 1,827 / 1,908 state-months
+renewable_source_breakdown_available: 1,908 / 1,908 state-months
+fossil_source_breakdown_available: 1,827 / 1,908 state-months
+
+OUTPUT FILES
+----------------------------------------------------------------------
+D:\Renewable energy intelligence platform\analysis\outputs\state_month_analysis.csv
+D:\Renewable energy intelligence platform\analysis\outputs\national_month_analysis.csv
+D:\Renewable energy intelligence platform\analysis\outputs\others_month_analysis.csv
+D:\Renewable energy intelligence platform\analysis\outputs\missing_record_register.csv
